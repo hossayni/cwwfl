@@ -38,6 +38,7 @@ class TestTriangularFs(unittest.TestCase):
         self.assertEquals(self.fs2(2),1)
         self.assertEquals(self.fs2(1),.5)
         self.assertEquals(self.fs2(2.5),.5)
+        self.assertEquals(self.fs2("bunk"),0)
         
 
 
