@@ -6,11 +6,11 @@ import numbers
 
 # factory method
 # see http://stackoverflow.com/questions/456672/class-factory-in-python
-def CreateFuzzySet(mf=None,domain=None):
+def CreateFuzzySet(mf=None):
     #for cls in FuzzySet.__subclasses__():
     for cls in itersubclasses(FuzzySet):
-        if cls._is_concrete_fs_for(mf=mf,domain=domain):
-            return cls(mf=mf,domain=domain)
+        if cls._is_concrete_fs_for(mf=mf):
+            return cls(mf=mf)
     raise ValueError("no implementation matches mf=%s" % mf)
 
 # http://code.activestate.com/recipes/576949-find-all-subclasses-of-a-given-class/
@@ -56,9 +56,8 @@ def itersubclasses(cls, _seen=None):
 
 # abstract base class 
 class FuzzySet(object):
-    def __init__(self,mf=None,domain=None):
+    def __init__(self,mf=None):
         self.mf = Mf(mf)
-        #self.domain = domain
     def __call__(self,x):
         if self.mf == None:
             raise NotImplementedError("no membership function")
@@ -127,12 +126,11 @@ class RealDomainFs(FuzzySet,numbers.Real):
         return False #this is an abstract class
 
 class TriangularFs(RealDomainFs):
-    def __init__(self,mf,domain):
-        FuzzySet.__init__(self,mf,domain)
-        self.domain = domain
+    def __init__(self,mf):
+        FuzzySet.__init__(self,mf)
     # see http://stackoverflow.com/questions/456672/class-factory-in-python
     @classmethod  
-    def _is_concrete_fs_for(cls,mf=None,domain=None):
+    def _is_concrete_fs_for(cls,mf=None):
         return isinstance(mf, TriangularMf)
 
 class Mf(object):
