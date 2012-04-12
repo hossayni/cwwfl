@@ -76,6 +76,15 @@ class FuzzySet(object):
     #    return mf == None and domain == None
 
 class RealDomainFs(FuzzySet,numbers.Real):
+#class RealDomainFs(FuzzySet,float):
+    def __call__(self,x):
+        if self.mf == None:
+            raise NotImplementedError("no membership function")
+        if(not isinstance(x,numbers.Real)):
+            raise TypeError("input %s does not match class %s "
+                             % (self,x.__class__))
+        return self.mf(x)
+
     def __abs__(self,other):
         raise NotImplementedError()
     def __add__(self,other):
@@ -141,8 +150,6 @@ class Mf(object):
     #def checkMfSupport(self,fn):
         
     def __call__(self,x=None):
-        if(issubclass(x,self):
-            raise ValueError("%f not in membership function's support"%x)
         return self.f(x)
 
 class TriangularMf(Mf):
