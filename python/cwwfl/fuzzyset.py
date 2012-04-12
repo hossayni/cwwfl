@@ -141,8 +141,8 @@ class Mf(object):
     #def checkMfSupport(self,fn):
         
     def __call__(self,x=None):
-        #if(x not in self.support):
-        #    raise ValueError("%f not in membership function's support"%x)
+        if(issubclass(x,self):
+            raise ValueError("%f not in membership function's support"%x)
         return self.f(x)
 
 class TriangularMf(Mf):
