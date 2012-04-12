@@ -34,10 +34,10 @@ class TestTriangularFs(unittest.TestCase):
         self.assertEquals(self.fs1(.25),.75)
 
         self.assertEquals(self.fs2(0),0)
-        self.assertEquals(self.fs2(3,0)
-        self.assertEquals(self.fs2(.25),.75)
-        self.assertEquals(self.fs2(.25),.75)
-        self.assertEquals(self.fs2(.25),.75)
+        self.assertEquals(self.fs2(3),0)
+        self.assertEquals(self.fs2(2),1)
+        self.assertEquals(self.fs2(1),.5)
+        self.assertEquals(self.fs2(2.5),.5)
         
 
 
