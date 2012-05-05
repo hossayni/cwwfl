@@ -22,6 +22,8 @@ or
 
   class DiscreteDomainFuzzySet(set): ...
 
+
+I think this is the right idea:
 http://stackoverflow.com/questions/456672/class-factory-in-python
   
 

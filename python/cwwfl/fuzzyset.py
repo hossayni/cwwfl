@@ -69,6 +69,12 @@ class FuzzySet(object):
             return self(x)
         else:
             return 0
+    def __and__(self,other):
+        fs = FuzzySet(mf=lambda x: min(self(x),other(x)))
+        return fs
+    def __or__(self,other):
+        fs = FuzzySet(mf=lambda x: max(self(x),other(x)))
+        return fs
 
     #subclasses should implement this
     #@classmethod  
@@ -84,7 +90,7 @@ class RealDomainFs(FuzzySet,numbers.Real):
             raise TypeError("input %s does not match class %s "
                              % (self,x.__class__))
         return self.mf(x)
-
+    
     def __abs__(self,other):
         raise NotImplementedError()
     def __add__(self,other):
@@ -168,13 +174,10 @@ if __name__ == '__main__':
     #fs = FuzzySet()
     #fs = TriangularT1FSAtZero()
     #print fs(.1)
-    fs1 = FuzzySet(lambda x: max(1-abs(x),0))
-    fs2 = FuzzySet(lambda x: max(1-abs(x-1),0))
+    fs1 = FuzzySet(lambda x: max(1-abs(x),0))    #fs centered at 0
+    fs2 = FuzzySet(lambda x: max(1-abs(x-1),0))  #fs centered at 1
     print fs1(.1)
     print fs2(.1)
     if .1 in fs1:
         print "yes", .1 in fs1
-    fs3 = fs1 and fs2
-    print fs3(.1)
-    print fs3(-.1)
     
