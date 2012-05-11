@@ -15,6 +15,7 @@ import sys
 from scipy.stats import scoreatpercentile,nanmean,nanstd
 import random
 from math import sqrt,log
+import fuzzyset as fs
 
 class VadSurveyTaskResults(list):
     """Wrap/inherit from a list to keep track of VAD data from an interval survey
@@ -86,6 +87,7 @@ class IntervalApproachCwwEstimator(object):
             t1fss = map(self.datumToLowerShoulderT1, data)
             self.deleteInadmissibleT1Fss(t1fss)
             fs = self.lowerShoulderT1ListToLowerShoulderIT2(t1fss)
+            print "fs", fs
         elif fsType == "upperShoulder" :
             t1fss = map(self.datumToUpperShoulderT1, data)
             self.deleteInadmissibleT1Fss(t1fss)
@@ -97,7 +99,7 @@ class IntervalApproachCwwEstimator(object):
         else:
             raise Exception()
 
-        print fs
+        return fs
         # self.admissibleRegionDetermination(data)
         # self.establishNatureOfFou(data)
         # self.deleteInadmissibleT1Fss(data)
@@ -380,12 +382,15 @@ ia = IntervalApproachCwwEstimator()
 for word in data['turkish']: 
     print word
     try:
-        # data['turkish'][word].vmf = IA([x for x in data['turkish'][word].valence()])
-        # data['turkish'][word].amf = IA([x for x in data['turkish'][word].activation()])
-        # data['turkish'][word].dmf = IA([x for x in data['turkish'][word].dominance()])
-        data['turkish'][word].vmf = ia([x for x in data['turkish'][word].valence()])
-        data['turkish'][word].amf = ia([x for x in data['turkish'][word].activation()])
-        data['turkish'][word].dmf = ia([x for x in data['turkish'][word].dominance()])
+        data['turkish'][word].vmf = ia([x for x in 
+                                        data['turkish'][word].valence()])
+        fs.plotIT2FS(data['turkish'][word].vmf)
+        data['turkish'][word].amf = ia([x for x in 
+                                        data['turkish'][word].activation()])
+        fs.plotIT2FS(data['turkish'][word].amf)
+        data['turkish'][word].dmf = ia([x for x in 
+                                        data['turkish'][word].dominance()])
+        fs.plotIT2FS(data['turkish'][word].dmf)
     except ValueError as e:
         print word, e
     

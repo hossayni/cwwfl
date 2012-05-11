@@ -2,6 +2,9 @@
 
 from __future__ import division
 import numbers
+import numpy as np
+import matplotlib.pyplot as plt
+
 #from interval import interval, inf, imath
 
 # factory method
@@ -169,6 +172,18 @@ class TriangularMf(Mf):
             if x <= b: return (b-x)/(b-c)
         Mf.__init__(self,f=func)
 
+def plotIT2FS(fs,r=(0,100)):
+    #if isinstance(fs,intervalTypeTwoFuzzySet):
+    #    raise NotImplemented()
+    try:
+        umf = fs[0:4] #note slice is end exclusive
+        lmf = fs[4:] 
+        plt.plot(umf,[0,1,1,0])
+        plt.plot(lmf[0:4],[0,lmf[4],lmf[4],0])
+        plt.show()
+    except IndexError as e:
+        print e, fs
+    
 
 if __name__ == '__main__':
     #fs = FuzzySet()
