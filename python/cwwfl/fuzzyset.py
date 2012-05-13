@@ -150,6 +150,21 @@ class TriangularFs(RealDomainFs):
     @classmethod  
     def _is_concrete_fs_for(cls,mf=None):
         return isinstance(mf, TriangularMf)
+class TrapezoidalFs(RealDomainFs):
+    def __init__(self,mf):
+        FuzzySet.__init__(self,mf)
+    # see http://stackoverflow.com/questions/456672/class-factory-in-python
+    @classmethod  
+    def _is_concrete_fs_for(cls,mf=None):
+        return isinstance(mf, TrapezoidalMf)
+
+# Type-2 fuzzy sets may require refactoring to make a clean object heirarchy
+# for now, they don't derive from fuzzy set, but IT2 FS's are composed of
+# trapezoidal FSs
+class intervalType2FS(object):
+    def __init__(self,uppermf,lowermf):
+        self.umf = uppermf
+        self.lmf = lowermf
 
 class Mf(object):
     def __init__(self,f=None):
@@ -171,6 +186,28 @@ class TriangularMf(Mf):
             if x <= c: return (x-a)/(c-a)
             if x <= b: return (b-x)/(b-c)
         Mf.__init__(self,f=func)
+class TrapezoidalMf(Mf):
+    def __init__(self,a,b,c,d,e=1):
+        """a is the lower x-bound, b is the lower top shelf, and upper top
+        shelf, d is the upper x-bound, and e is the height (default=1)"""
+        print a,b,c,d,e
+        def func(x):
+            if x < a: return 0         # less than support
+            if a <= x <= b:            # on the rising side
+                if b-a ==0:
+                    return 0
+                else:
+                    return e/(b-a)*(x-a) 
+            if b <= x <= c: return e   # on the top shelf, (e.g. next to patron silver j/k)
+            if c <= x <= d:            # on the decreasing side
+                if d-c==0:
+                    return 0
+                else:
+                    return e - e/(d-c)*(x-c) 
+            if x > d: return 0         # greater than support
+            else: return Exception()
+        Mf.__init__(self,f=func)
+
 
 def plotIT2FS(fs,r=(0,100)):
     #if isinstance(fs,intervalTypeTwoFuzzySet):

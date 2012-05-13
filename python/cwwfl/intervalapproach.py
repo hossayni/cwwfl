@@ -16,6 +16,9 @@ from scipy.stats import scoreatpercentile,nanmean,nanstd
 import random
 from math import sqrt,log
 import fuzzyset as fs
+import matplotlib.pyplot as plt
+
+import numpy as np
 
 class VadSurveyTaskResults(list):
     """Wrap/inherit from a list to keep track of VAD data from an interval survey
@@ -38,7 +41,40 @@ class VadSurveyTaskResults(list):
         """A generator function for dominance intervals"""
         for row in self:
             yield (row['d_l'],row['d_u'])
+    def plot(self,r=[0,100]):
+        """plots interval type-2 fuzzy set membership functions (footprints of
+        uncertainty) for valence, activation, and dominance scales"""
+        #fs.plotIT2FS(self.vmf)
+        #fs.plotIT2FS(self.amf)
+        #fs.plotIT2FS(self.dmf)
+        fig = plt.figure()
+        x = np.linspace(r[0],r[1],100)
+        ax1 = fig.add_subplot(131)
+        ax2 = fig.add_subplot(132,sharex=ax1)
+        ax3 = fig.add_subplot(133,sharex=ax1)
+        #valence
+        print "valence"
+        print map(self.val.umf, x)
+        print map(self.val.lmf, x)
+        ax1.fill_between(x,
+                         map(self.val.umf, x),
+                         map(self.val.lmf, x))
+        #activation
+        print "activation"
+        print map(self.act.umf, x)
+        print map(self.act.lmf, x)
+        ax2.fill_between(x,
+                         map(self.act.umf, x),
+                         map(self.act.lmf, x))
+        #dominance
+        print "dominance"
+        print map(self.dom.umf, x)
+        print map(self.dom.lmf, x)
+        ax3.fill_between(x,
+                         map(self.dom.umf, x),
+                         map(self.dom.lmf, x))
 
+        plt.show()
 
 class IntervalApproachCwwEstimator(object):
     """ this class performs the interval approach
@@ -86,20 +122,19 @@ class IntervalApproachCwwEstimator(object):
         if fsType == "lowerShoulder" :
             t1fss = map(self.datumToLowerShoulderT1, data)
             self.deleteInadmissibleT1Fss(t1fss)
-            fs = self.lowerShoulderT1ListToLowerShoulderIT2(t1fss)
-            print "fs", fs
+            f = self.lowerShoulderT1ListToLowerShoulderIT2(t1fss)
         elif fsType == "upperShoulder" :
             t1fss = map(self.datumToUpperShoulderT1, data)
             self.deleteInadmissibleT1Fss(t1fss)
-            fs = self.upperShoulderT1ListToUpperShoulderIT2(t1fss)
+            f = self.upperShoulderT1ListToUpperShoulderIT2(t1fss)
         elif fsType == "interior" :
             t1fss = map(self.datumToInteriorT1,data)
             self.deleteInadmissibleT1Fss(t1fss)
-            fs = self.interiorT1ListToInteriorIT2(t1fss)
+            f = self.interiorT1ListToInteriorIT2(t1fss)
         else:
             raise Exception()
-
-        return fs
+        print f
+        return fs.intervalType2FS(fs.TrapezoidalMf(*f[0:4]), fs.TrapezoidalMf(*f[4:]))
         # self.admissibleRegionDetermination(data)
         # self.establishNatureOfFou(data)
         # self.deleteInadmissibleT1Fss(data)
@@ -382,15 +417,18 @@ ia = IntervalApproachCwwEstimator()
 for word in data['turkish']: 
     print word
     try:
-        data['turkish'][word].vmf = ia([x for x in 
+        data['turkish'][word].val = ia([x for x in 
                                         data['turkish'][word].valence()])
-        fs.plotIT2FS(data['turkish'][word].vmf)
-        data['turkish'][word].amf = ia([x for x in 
+        #fs.plotIT2FS(data['turkish'][word].vmf)
+        data['turkish'][word].act = ia([x for x in 
                                         data['turkish'][word].activation()])
-        fs.plotIT2FS(data['turkish'][word].amf)
-        data['turkish'][word].dmf = ia([x for x in 
+        #fs.plotIT2FS(data['turkish'][word].amf)
+        data['turkish'][word].dom = ia([x for x in 
                                         data['turkish'][word].dominance()])
-        fs.plotIT2FS(data['turkish'][word].dmf)
+        #fs.plotIT2FS(data['turkish'][word].dmf)
+
+        data['turkish'][word].plot()
+        
     except ValueError as e:
         print word, e
     
