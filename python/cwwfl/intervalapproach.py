@@ -16,65 +16,9 @@ from scipy.stats import scoreatpercentile,nanmean,nanstd
 import random
 from math import sqrt,log
 import fuzzyset as fs
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 import numpy as np
-
-class VadSurveyTaskResults(list):
-    """Wrap/inherit from a list to keep track of VAD data from an interval survey
-    
-    (VAD is valence, activation and dominance)
-    
-    The list elements are dicts, where the keys correspond to column names
-    from a given row in the database
- 
-    """
-    def valence(self): # return a list of intervals observed for valence
-        """A generator function for valence intervals"""
-        for row in self:
-            yield (row['v_l'],row['v_u'])
-    def activation(self): # return a list of intervals observed for activation
-        """A generator function for activation intervals"""
-        for row in self:
-            yield (row['a_l'],row['a_u'])
-    def dominance(self): # return a list of intervals observed for dominance
-        """A generator function for dominance intervals"""
-        for row in self:
-            yield (row['d_l'],row['d_u'])
-    def plot(self,r=[0,100]):
-        """plots interval type-2 fuzzy set membership functions (footprints of
-        uncertainty) for valence, activation, and dominance scales"""
-        #fs.plotIT2FS(self.vmf)
-        #fs.plotIT2FS(self.amf)
-        #fs.plotIT2FS(self.dmf)
-        fig = plt.figure()
-        x = np.linspace(r[0],r[1],100)
-        ax1 = fig.add_subplot(131)
-        ax2 = fig.add_subplot(132,sharex=ax1)
-        ax3 = fig.add_subplot(133,sharex=ax1)
-        #valence
-        print "valence"
-        print map(self.val.umf, x)
-        print map(self.val.lmf, x)
-        ax1.fill_between(x,
-                         map(self.val.umf, x),
-                         map(self.val.lmf, x))
-        #activation
-        print "activation"
-        print map(self.act.umf, x)
-        print map(self.act.lmf, x)
-        ax2.fill_between(x,
-                         map(self.act.umf, x),
-                         map(self.act.lmf, x))
-        #dominance
-        print "dominance"
-        print map(self.dom.umf, x)
-        print map(self.dom.lmf, x)
-        ax3.fill_between(x,
-                         map(self.dom.umf, x),
-                         map(self.dom.lmf, x))
-
-        plt.show()
 
 class IntervalApproachCwwEstimator(object):
     """ this class performs the interval approach
@@ -111,9 +55,10 @@ class IntervalApproachCwwEstimator(object):
         #data part: filters out data
         self.badDataProcessing(data)
         self.outlierProcessing(data)
+        self.defaultValueCorrection(data) #to correct for turkers that leave
+                                          #slider at default value
         self.toleranceLimitProcessing(data)
         self.reasonableIntervalProcessing(data)
-
         #Fuzzy set part: creates the fuzzy set
         #first,check to make sure multiple model types do not match
         fsType = self.getFsModelType(data)
@@ -133,7 +78,7 @@ class IntervalApproachCwwEstimator(object):
             f = self.interiorT1ListToInteriorIT2(t1fss)
         else:
             raise Exception()
-        print f
+        print "raw fuzzy set", f
         return fs.intervalType2FS(fs.TrapezoidalMf(*f[0:4]), fs.TrapezoidalMf(*f[4:]))
         # self.admissibleRegionDetermination(data)
         # self.establishNatureOfFou(data)
@@ -156,7 +101,7 @@ class IntervalApproachCwwEstimator(object):
             #print "bad data found, removing %d data points" % old - len(data)
             
             
-        print len(data)
+        print  len(data), "after bad data processing"
         if len(data)==0: raise ValueError("No Remaining intervals")
         return data
 
@@ -193,13 +138,50 @@ class IntervalApproachCwwEstimator(object):
                 #print "Outlier: removing data point %s" % str(d)
                 data.remove(d)
 
-        print len(data)
+        print   len(data), "after outlier processing"
         if len(data)==0: raise ValueError("No Remaining intervals")
+
+    def defaultValueCorrection(self,data):
+        #address default values:
+        middle = nanmean([(d[1]+d[0])/2 for d in data])/(self.r[1]-self.r[0])
+        print "middle", middle
+        if middle < .35:
+            print "filtering  u=100"
+            for d in data:
+                if d[1] == 100 and  random.random() > .3:
+                    data.remove(d)
+        if middle > .65:
+            print "filtering l=0"
+            for d in data:
+                if d[0] == 0 and random.random() > .3:
+                    data.remove(d)
+        for d in data:
+            if (d[0] == 0 or d[1]==100) and random.random() > .7:
+                data.remove(d)
+        print len(data), "after correcting for default values"
+
+
 
     def toleranceLimitProcessing(self,data):
         # Tolerance limit processing
         random.seed(1)
         resampledData = [random.choice(data) for x in xrange(2000)]
+
+        #address default values:
+        # middle = nanmean([(d[1]+d[0])/2 for d in data])/(self.r[1]-self.r[0])
+        # print "middle", middle
+        # if(middle < .35):
+        #     print "filtering higher range"
+        #     f = lambda x: x[1] != 100 or  random.random() > .3
+        #     resampledData = filter(f, resampledData)
+        # if(middle > .65*(self.r[1]-self.r[0])):
+        #     print "filtering higher range"
+        #     f = lambda x: x[0] != 0 or random.random() > .3
+        #     resampledData = filter(f, resampledData)
+        # f = lambda x: (x[0] != 0 and x[1]!=100) or random.random() > .1
+        # resampledData = filter(f, resampledData)
+        # print "resampled data length", len(resampledData)
+
         (resampLower,resampUpper) = zip(*resampledData)
         resampInterval = map(lambda x: x[1]-x[0], resampledData)
         meanLower = nanmean(resampLower)
@@ -228,12 +210,12 @@ class IntervalApproachCwwEstimator(object):
                 #print "Intolerable: removing data point %s" % str(d)
                 data.remove(d)
 
-        print len(data)
+        print len(data), "after tolerance limit processing"
         if len(data)==0: raise ValueError("No Remaining intervals")
 
 
     def reasonableIntervalProcessing(self,data):
-        # Reasonable interval processing
+        databackup = data[:]   #keep backup in case all intervals are deleted
         random.seed(1)
         resampledData = [random.choice(data) for x in xrange(2000)]
         (resampLower,resampUpper) = zip(*resampledData)
@@ -246,10 +228,14 @@ class IntervalApproachCwwEstimator(object):
         stdInterval = nanstd(resampInterval) * sqrt(len(data)) # ditto
         if stdLower+stdUpper==0:
             barrier = (meanLower+meanUpper)/2
+            print "barrierAvg", barrier
         elif stdLower == 0:
-            barrier = meanLower+0.01
+            barrier = meanLower+.5
+            print "barrierlower", barrier
         elif stdUpper == 0:
-            barrier = meanUpper+0.01
+            barrier = meanUpper-.5
+            print "barrierupper", barrier
+
         else:
             barrier1 = ( -(meanLower*stdUpper**2-meanUpper*stdLower**2) + 
                           stdLower*stdUpper*sqrt((meanLower-meanUpper)**2 + 
@@ -260,20 +246,30 @@ class IntervalApproachCwwEstimator(object):
             
             if barrier1 >= meanLower and barrier1 <= meanUpper:
                 barrier = barrier1
+                print "barrier1", barrier
             else:
                 barrier = barrier2
+                print "barrier2", barrier
         for (l,u) in data[:]:
             try:
-                if l > barrier or u < barrier:
-                    raise ValueError("Unreasonable: interval %s does not cross reasonable barrier  %s" % (str((l,u)), str(barrier)),(l,u))
+
+                #if l > barrier+(.1*stdLower) or u < barrier-(.1*stdUpper):
+                #if l > barrier+stdLower or u < barrier-stdUpper:
+                #if l > barrier and u < barrier:
+                if l > barrier+(.001*stdLower) or u < barrier-(.001*stdUpper):                    raise ValueError("Unreasonable: interval %s does not cross reasonable barrier  %s" % (str((l,u)), str(barrier)),(l,u))
             except ValueError as (e,d):
                 #print e
                 #print "Unreasonable: removing data point %s" % str(d)
                 data.remove(d)
 
-        print len(data)
-        if len(data)==0: raise ValueError("No Remaining intervals")
-        
+        print len(data), "after reasonable interval processing"
+        #if len(data)==0: raise ValueError("No Remaining intervals")
+        if len(data) == 0:
+            print "no remaining intervals: skipping resonable interval processing"            
+            for d in databackup:
+                data.append(d)
+
+
     def getFsModelType(self,data):
         # Admissible region determination
         tTable=[6.314, 2.920, 2.353, 2.132, 2.015, 1.943, 1.895, 1.860, 1.833, 1.812, 
@@ -283,21 +279,36 @@ class IntervalApproachCwwEstimator(object):
         (lower,upper) = zip(*data)
         meanLower = nanmean(lower)
         meanUpper = nanmean(upper)
-        c = map(lambda d: d[1] - 5.831*d[0], data)
+        c = map(lambda x: x[1] - 5.831*x[0], data)
         # as opp to Liu/Mendel, no assumption that FS is in [0,10]
         # BUT WE DO ASSUME THAT r[0] is 0!
-        d = map(lambda d: d[1] - 0.171*d[0] - .829*(self.r[1]-self.r[0]), data) 
+        d = map(lambda x: x[1] - 0.171*x[0] - .829*(self.r[1]-self.r[0]), data) 
+        print "nanstd(c)", nanstd(c)
+        print "nanstd(d)", nanstd(d)
         shift1 = tAlpha * nanstd(c)/sqrt(len(data)) # todo: better name than shift
         shift2 = tAlpha * nanstd(d)/sqrt(len(data)) # todo: better name than shift
    
 
+        print "meanLower", meanLower, "meanUpper", meanUpper
+        print "shift1", shift1, "shift2", shift2
+        print "5.831*meanLower-shift1", 5.831*meanLower-shift1 
+        print ".829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:",.829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
         # Establish nature of FOU 
-        if meanUpper > 5.831*meanLower-shift1 : #left/lower shoulder T1FS
-            return "lowerShoulder"
-        elif meanUpper > 8.29*+0.171*meanLower-shift2:
+        if meanUpper >= 5.831*meanLower-shift1: #left/lower shoulder T1FS
+            print meanUpper, .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
+            if meanUpper <= .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:
+                return "lowerShoulder"
+            else:
+                #raise Exception("this matches both lower and upper shapes")
+                print "weird interior"
+                return "interior"
+        elif meanUpper > .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:
             return "upperShoulder"
         else:
-            return "interior"
+            if meanUpper >= meanLower:
+                return "interior"
+            else:
+                raise Exception("the meanLower is greater than the meanUpper: something is wrong")
 
 
     def datumToLowerShoulderT1(self,datum):
@@ -317,21 +328,38 @@ class IntervalApproachCwwEstimator(object):
         return (fs_l,fs_r)
         
     def lowerShoulderT1ListToLowerShoulderIT2(self,t1fss):
+        assert len(t1fss) > 0
         (lower,upper) = zip(*t1fss)
         return (self.r[0], self.r[0], max(lower), max(upper), 
                 self.r[0], self.r[0], min(lower), min(upper), 1 )
     
     def upperShoulderT1ListToUpperShoulderIT2(self,t1fss):
+        assert len(t1fss) > 0
         (lower,upper) = zip(*t1fss)
+        #print "uppershouldert1listtouppershoulderit2", (min(lower), min(upper), self.r[1], self.r[1]), (max(lower), max(upper), self.r[1], self.r[1], 1)
         return (min(lower), min(upper), self.r[1], self.r[1],
                 max(lower), max(upper), self.r[1], self.r[1], 1)
 
     def interiorT1ListToInteriorIT2(self,t1fss):
+        assert len(t1fss) > 0
         (lower,upper) = zip(*t1fss)
+        print t1fss
         middle = map(lambda d: (d[0]+d[1])/2,t1fss)
-        tmp = (min(upper)-min(middle))/(max(middle)-max(lower))
-        apex = (min(upper)+tmp*max(lower))/(1+tmp)
-        height = (min(upper)-apex)/(min(upper)-min(middle))
+        #tmp = (min(upper)-min(middle))/(max(middle)-max(lower))
+        #apex = (min(upper)+tmp*max(lower))/(1+tmp)
+        if max(middle)-max(lower) + min(upper)-min(middle) == 0:
+            apex = max(middle)
+        else:
+            apex = ( min(upper)*(max(middle)-max(lower)) + 
+                     max(lower)*(min(upper)-min(middle))   ) / \
+                     ( (max(middle)-max(lower)) + 
+                       (min(upper)-min(middle))   )
+                     
+                 
+        if min(upper)-min(middle) == 0:
+            height = 0
+        else:
+            height = (min(upper)-apex)/(min(upper)-min(middle))
         return (min(lower), min(middle), max(middle), max(upper),
                 max(lower), apex, apex, height)
 
@@ -341,11 +369,26 @@ class IntervalApproachCwwEstimator(object):
         pass
 
     def deleteInadmissibleT1Fss(self,data):
+        (lower,upper) = zip(*data)
+        lastDitchLower = max(max(lower),self.r[0])
+        lastDitchUpper = min(min(upper),self.r[1])
         for d in data[:]:
             if d[0] < self.r[0] or d[1] > self.r[1]:
+                #print d
                 data.remove(d)
+            #this is different than the original paper
+            # if d[0] < self.r[0] or d[1] > self.r[1]:
+            #     replacement0 = d[0]
+            #     replacement1 = d[1]
+            #     if d[0] < self.r[0] :
+            #         replacement0 = self.r[0]
+            #     if d[1] > self.r[1]:
+            #         replacement1 = self.r[1]
+            #     data[data.index(d)] = (replacement0,replacement1)
                                 
-        
+            if len(data) == 0:
+                print "in deleteInadmissibleT1Fss, using (%d,%d)"%(lastDitchLower,lastDitchUpper)
+                data.append((lastDitchLower,lastDitchUpper))
 
     def computeMathematicalModelForFou(self,data):
         # Compute the mathematical model for FOU
@@ -356,87 +399,7 @@ class IntervalApproachCwwEstimator(object):
 
 ###########################################
 # Main
-#if __name__ == "__main__":
+if __name__ == "__main__":
 ###########################################
-
-# create a dictionary of dictionaries where the bottom level refers to VadSurveyTaskResults
-# eg: {'turkish': { u'kÄ±smetli': <class '__main__.VadSurveyTaskResults'> ... }
-data = defaultdict(lambda: defaultdict(VadSurveyTaskResults)) 
-import csv
-vadreader = csv.DictReader(open('fuzzyVad.events_20120502.txt', 'rb'), delimiter='\t', quotechar='"', )
-for row in vadreader:
-    #print row['username'].decode("utf8").encode("iso-8859-9","ignore")
-    #print row['username'].decode("utf8").encode("utf8","ignore")
-    # get only turkish
-    if row['task'].find("Turkish") == 0:
-        row['task'] = "turkish"
-    else: continue
-    # ignore null
-    if row['task'] == "NULL":
-        continue
-    if row['v_l'] == "NULL":
-        continue
-    if row['v_u'] == "NULL":
-        continue
-    if row['a_l'] == "NULL":
-        continue
-    if row['a_u'] == "NULL":
-        continue
-    if row['d_l'] == "NULL":
-        continue
-    if row['d_u'] == "NULL":
-        continue
-    # ignore certain users
-    if row['username'].find("testabe")==0:
-        continue
-    if row['username'].find("test")==0:
-        continue
-    if row['username'].find("samet")==0:
-        continue
-    if row['username'].decode("utf8").find(u'Ã–zge ahras')==0:
-        continue
-    #convert from strings to floats
-    row['v_l'] = float(row['v_l'])
-    row['v_u'] = float(row['v_u'])
-    row['a_l'] = float(row['a_l'])
-    row['a_u'] = float(row['a_u'])
-    row['d_l'] = float(row['d_l'])
-    row['d_u'] = float(row['d_u'])
-    data[row['task']][row['stimuli']] += [row]
-
-
-# for word in data['turkish']: 
-#     for resp in data['turkish'][word]:
-#         print \
-#             resp['stimuli'], \
-#             resp['v_l'], resp['v_u'], \
-#             resp['a_l'], resp['a_u'], \
-#             resp['d_l'], resp['d_u']
-
-ia = IntervalApproachCwwEstimator()
-for word in data['turkish']: 
-    print word
-    try:
-        data['turkish'][word].val = ia([x for x in 
-                                        data['turkish'][word].valence()])
-        #fs.plotIT2FS(data['turkish'][word].vmf)
-        data['turkish'][word].act = ia([x for x in 
-                                        data['turkish'][word].activation()])
-        #fs.plotIT2FS(data['turkish'][word].amf)
-        data['turkish'][word].dom = ia([x for x in 
-                                        data['turkish'][word].dominance()])
-        #fs.plotIT2FS(data['turkish'][word].dmf)
-
-        data['turkish'][word].plot()
-        
-    except ValueError as e:
-        print word, e
-    
-    #for resp in 
-    #    print resp['stimuli'] 
-
-
-assert type(data['turkish'][u'ÅŸiddetli']) is VadSurveyTaskResults
-# then iterate over each word of each task and compute fuzzy set membership
-# functions for each dimension (valence, activation, and dominance)
+    pass
 

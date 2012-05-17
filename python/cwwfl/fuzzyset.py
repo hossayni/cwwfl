@@ -190,7 +190,12 @@ class TrapezoidalMf(Mf):
     def __init__(self,a,b,c,d,e=1):
         """a is the lower x-bound, b is the lower top shelf, and upper top
         shelf, d is the upper x-bound, and e is the height (default=1)"""
-        print a,b,c,d,e
+        self.a = a 
+        self.b = b 
+        self.c = c 
+        self.d = d 
+        self.e = e
+
         def func(x):
             if x < a: return 0         # less than support
             if a <= x <= b:            # on the rising side
@@ -208,8 +213,34 @@ class TrapezoidalMf(Mf):
             else: return Exception()
         Mf.__init__(self,f=func)
 
+        
+    def __repr__(self): 
+        return "TrapezoidalMf(%d,%d,%d,%d,%d)" % (self.a,
+                                                  self.b,
+                                                  self.c,
+                                                  self.d,
+                                                  self.e)
 
-def plotIT2FS(fs,r=(0,100)):
+
+def plotIT2FS(fs,r=(0,100), label=None):
+    #if isinstance(fs,intervalTypeTwoFuzzySet):
+    #    raise NotImplemented()
+    fig = plt.figure()
+    #fig.suptitle(unicode(self.stimulus,"utf8","replace"))
+    fig.suptitle(label)
+    x = np.linspace(r[0],r[1],201)
+    ax1 = fig.add_subplot(111)
+    #ax2 = fig.add_subplot(121,sharex=ax1)
+    #ax3 = fig.add_subplot(133,sharex=ax1)
+    ax1.fill_between(x,
+                         map(fs.umf, x),
+                         map(fs.lmf, x))
+    ax1.set_xlabel('Domain')
+    ax1.set_ylabel('Membership Grade')
+    plt.show()
+
+
+def plotIT2FS_old(fs,r=(0,100), label=None):
     #if isinstance(fs,intervalTypeTwoFuzzySet):
     #    raise NotImplemented()
     try:
