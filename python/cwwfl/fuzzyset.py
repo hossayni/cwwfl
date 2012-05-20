@@ -162,9 +162,15 @@ class TrapezoidalFs(RealDomainFs):
 # for now, they don't derive from fuzzy set, but IT2 FS's are composed of
 # trapezoidal FSs
 class intervalType2FS(object):
-    def __init__(self,uppermf,lowermf):
-        self.umf = uppermf
-        self.lmf = lowermf
+    def __init__(self,umf=None,lmf=None):
+        self.umf = umf
+        self.lmf = lmf
+        
+    def __repr__(self):
+        return "IntervalType2FS(umf=%s,lmf=%s)" % (self.umf,
+                                                   self.lmf)
+
+
 
 class Mf(object):
     def __init__(self,f=None):
@@ -180,12 +186,22 @@ class TriangularMf(Mf):
     def __init__(self,a,b,c):
         """a is the lower bound, b is the upper, and c is where the function
         equals 1"""
+        self.a = a
+        self.b = b
+        self.c = c
         def func(x):
             if x < a: return 0
             if x > b: return 0
             if x <= c: return (x-a)/(c-a)
             if x <= b: return (b-x)/(b-c)
         Mf.__init__(self,f=func)
+
+    def __repr__(self): 
+        return "TriangularMf(%d,%d,%d)" % (self.a,
+                                           self.b,
+                                           self.c)
+
+
 class TrapezoidalMf(Mf):
     def __init__(self,a,b,c,d,e=1):
         """a is the lower x-bound, b is the lower top shelf, and upper top
@@ -237,8 +253,11 @@ def plotIT2FS(fs,r=(0,100), label=None):
                          map(fs.lmf, x))
     ax1.set_xlabel('Domain')
     ax1.set_ylabel('Membership Grade')
-    plt.show()
-
+    #ax1.stem([50],[1], linefmt='r')
+    plt.hold(True)
+    #plt.show()
+    
+    return plt
 
 def plotIT2FS_old(fs,r=(0,100), label=None):
     #if isinstance(fs,intervalTypeTwoFuzzySet):

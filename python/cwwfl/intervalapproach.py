@@ -12,11 +12,11 @@
 
 from collections import defaultdict 
 import sys
-from scipy.stats import scoreatpercentile,nanmean,nanstd
+from scipy.stats import scoreatpercentile,nanmean,nanstd,t
 import random
 from math import sqrt,log
 import fuzzyset as fs
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 import numpy as np
 
@@ -55,13 +55,13 @@ class IntervalApproachCwwEstimator(object):
         #data part: filters out data
         self.badDataProcessing(data)
         self.outlierProcessing(data)
-        self.defaultValueCorrection(data) #to correct for turkers that leave
+        #self.defaultValueCorrection(data) #to correct for turkers that leave
                                           #slider at default value
         self.toleranceLimitProcessing(data)
         self.reasonableIntervalProcessing(data)
         #Fuzzy set part: creates the fuzzy set
         #first,check to make sure multiple model types do not match
-        fsType = self.getFsModelType(data)
+        fsType = self.determineFsModelType(data)
 
         print fsType
         if fsType == "lowerShoulder" :
@@ -109,14 +109,24 @@ class IntervalApproachCwwEstimator(object):
         # Outlier processing
         intervalLengths = map(lambda x: x[1]-x[0], data)
         (lower,upper) = zip(*data)
-        firstQuartileLower = scoreatpercentile(lower,25)
-        thirdQuartileLower = scoreatpercentile(lower,75)
+        # firstQuartileLower = scoreatpercentile(lower,25)
+        # thirdQuartileLower = scoreatpercentile(lower,75)
+        # interQtlRangeLower = thirdQuartileLower - firstQuartileLower
+        # firstQuartileUpper = scoreatpercentile(upper,25)
+        # thirdQuartileUpper = scoreatpercentile(upper,75)
+        # interQtlRangeUpper = thirdQuartileUpper - firstQuartileUpper
+        # firstQuartileInterval = scoreatpercentile(intervalLengths,25)
+        # thirdQuartileInterval = scoreatpercentile(intervalLengths,75)
+        # interQtlRangeInterval = thirdQuartileInterval - firstQuartileInterval
+
+        firstQuartileLower = scoreatpercentile(lower,30)
+        thirdQuartileLower = scoreatpercentile(lower,70)
         interQtlRangeLower = thirdQuartileLower - firstQuartileLower
-        firstQuartileUpper = scoreatpercentile(upper,25)
-        thirdQuartileUpper = scoreatpercentile(upper,75)
+        firstQuartileUpper = scoreatpercentile(upper,30)
+        thirdQuartileUpper = scoreatpercentile(upper,70)
         interQtlRangeUpper = thirdQuartileUpper - firstQuartileUpper
-        firstQuartileInterval = scoreatpercentile(intervalLengths,25)
-        thirdQuartileInterval = scoreatpercentile(intervalLengths,75)
+        firstQuartileInterval = scoreatpercentile(intervalLengths,30)
+        thirdQuartileInterval = scoreatpercentile(intervalLengths,70)
         interQtlRangeInterval = thirdQuartileInterval - firstQuartileInterval
         #print "lower", firstQuartileLower,thirdQuartileLower, interQtlRangeLower
         #print "upper", firstQuartileUpper,thirdQuartileUpper, interQtlRangeUpper
@@ -270,46 +280,66 @@ class IntervalApproachCwwEstimator(object):
                 data.append(d)
 
 
-    def getFsModelType(self,data):
+    def determineFsModelType(self,data,plot=False):
         # Admissible region determination
-        tTable=[6.314, 2.920, 2.353, 2.132, 2.015, 1.943, 1.895, 1.860, 1.833, 1.812, 
-                1.796, 1.782, 1.771, 1.761, 1.753, 1.746, 1.740, 1.734, 1.729, 1.725, 
-                1.721, 1.717, 1.714, 1.711, 1.708, 1.706, 1.703, 1.701, 1.699, 1.697, 1.684] 
-        tAlpha=tTable[min(len(data),30)]
+        #TODO: incorporate scipy stats:
+        #stats.t.ppf(1-0.05, 1...)
+        # tTable=[6.314, 2.920, 2.353, 2.132, 2.015, 1.943, 1.895, 1.860, 1.833, 1.812, 
+        #         1.796, 1.782, 1.771, 1.761, 1.753, 1.746, 1.740, 1.734, 1.729, 1.725, 
+        #         1.721, 1.717, 1.714, 1.711, 1.708, 1.706, 1.703, 1.701, 1.699, 1.697, 1.684] 
+        tTable = map(lambda df: t.ppf(1-0.05,df), range(1,35))
+        tAlpha=tTable[min(len(data)-1,30)]
         (lower,upper) = zip(*data)
         meanLower = nanmean(lower)
         meanUpper = nanmean(upper)
-        c = map(lambda x: x[1] - 5.831*x[0], data)
+        c = map(lambda x: (x[1] - 5.831*x[0])/(self.r[1]-self.r[0]), data)
         # as opp to Liu/Mendel, no assumption that FS is in [0,10]
-        # BUT WE DO ASSUME THAT r[0] is 0!
         d = map(lambda x: x[1] - 0.171*x[0] - .829*(self.r[1]-self.r[0]), data) 
         print "nanstd(c)", nanstd(c)
         print "nanstd(d)", nanstd(d)
-        shift1 = tAlpha * nanstd(c)/sqrt(len(data)) # todo: better name than shift
-        shift2 = tAlpha * nanstd(d)/sqrt(len(data)) # todo: better name than shift
-   
+        shift1 = tAlpha * nanstd(c)/sqrt(len(data)) 
+        shift2 = tAlpha * nanstd(d)/sqrt(len(data)) 
 
-        print "meanLower", meanLower, "meanUpper", meanUpper
-        print "shift1", shift1, "shift2", shift2
-        print "5.831*meanLower-shift1", 5.831*meanLower-shift1 
-        print ".829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:",.829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
+        final = None
+
+        if True is True:
+            print "meanLower", meanLower, "meanUpper", meanUpper
+            print "shift1", shift1, "shift2", shift2
+            print "5.831*meanLower-shift1", 5.831*meanLower-shift1 
+            print ".829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:",.829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
+            print "if meanUpper >= 5.831*meanLower-shift1"
+            step = self.r[1]-self.r[0]/200
+            x = range(self.r[0],self.r[1]+step,step)
+            y1 = map(lambda i: 5.831*i, x)
+            y2 = map(lambda i: 0.171*i + .829*(self.r[1]-self.r[0]), x)
+            
+            plt.plot(x,y1,color='black')
+            plt.plot(x,y2,color='black')
+            plt.plot(x,x,color='black')
+            plt.plot([meanLower],[meanUpper],'ro')
+            plt.axis([self.r[0],self.r[1],self.r[0],self.r[1]])
         # Establish nature of FOU 
         if meanUpper >= 5.831*meanLower-shift1: #left/lower shoulder T1FS
             print meanUpper, .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
             if meanUpper <= .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:
-                return "lowerShoulder"
+                final = "lowerShoulder"
             else:
                 #raise Exception("this matches both lower and upper shapes")
                 print "weird interior"
-                return "interior"
+                if (self.r[1]-meanUpper) < (meanLower-self.r[0]):
+                    final = "interior"
+                elif (self.r[1]-meanUpper) > (meanLower-self.r[0]):
+                    final = "lowerShoulder"
+                else:
+                    final = "interior"
         elif meanUpper > .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:
-            return "upperShoulder"
+            final = "upperShoulder"
         else:
             if meanUpper >= meanLower:
-                return "interior"
+                final =  "interior"
             else:
                 raise Exception("the meanLower is greater than the meanUpper: something is wrong")
-
+        return final
 
     def datumToLowerShoulderT1(self,datum):
         l,r = datum
@@ -361,7 +391,7 @@ class IntervalApproachCwwEstimator(object):
         else:
             height = (min(upper)-apex)/(min(upper)-min(middle))
         return (min(lower), min(middle), max(middle), max(upper),
-                max(lower), apex, apex, height)
+                max(lower), apex, apex, max(upper), height)
 
 
 

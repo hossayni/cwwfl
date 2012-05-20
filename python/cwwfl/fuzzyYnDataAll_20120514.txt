@@ -1,0 +1,3739 @@
+stimuli	l	u
+:) not sure, maybe	49	100
+:) not sure, maybe	47	100
+:) not sure, maybe	47	100
+:) not sure, maybe	7	75
+:) not sure, maybe	38	100
+:) not sure, maybe	25	72
+:) not sure, maybe	37	89
+:) not sure, maybe	45	100
+:) not sure, maybe	50	100
+:) not sure, maybe	47	100
+:) not sure, maybe	57	100
+:) not sure, maybe	22	22
+:) not sure, maybe	28	65
+:) not sure, maybe	0	52
+:) not sure, maybe	45	61
+:) not sure, maybe	0	29
+:) not sure, maybe	0	53
+:) not sure, maybe	35	100
+:) not sure, maybe	26	77
+:) not sure, maybe	0	56
+:) not sure, maybe	48	100
+:) not sure, maybe	49	100
+:) not sure, maybe	0	55
+:) not sure, maybe	48	68
+:) not sure, maybe	47	67
+:) not sure, maybe	23	74
+:) not sure, maybe	11	77
+:) not sure, maybe	44	49
+:) not sure, maybe	0	46
+:) not sure, maybe	49	100
+:) not sure, maybe	61	78
+:) not sure, maybe	28	70
+:) not sure, maybe	18	76
+:) not sure, maybe	58	58
+:) not sure, maybe	63	68
+:) not sure, maybe	24	74
+ah...hmmmm.... i guess i have to say no... 	0	24
+ah...hmmmm.... i guess i have to say no... 	0	16
+ah...hmmmm.... i guess i have to say no... 	32	66
+ah...hmmmm.... i guess i have to say no... 	2	100
+ah...hmmmm.... i guess i have to say no... 	0	40
+ah...hmmmm.... i guess i have to say no... 	4	100
+ah...hmmmm.... i guess i have to say no... 	0	27
+ah...hmmmm.... i guess i have to say no... 	0	46
+ah...hmmmm.... i guess i have to say no... 	13	100
+ah...hmmmm.... i guess i have to say no... 	10	54
+ah...hmmmm.... i guess i have to say no... 	16	100
+ah...hmmmm.... i guess i have to say no... 	0	13
+ah...hmmmm.... i guess i have to say no... 	3	26
+ah...hmmmm.... i guess i have to say no... 	18	41
+ah...hmmmm.... i guess i have to say no... 	20	100
+ah...hmmmm.... i guess i have to say no... 	48	100
+ah...hmmmm.... i guess i have to say no... 	0	11
+ah...hmmmm.... i guess i have to say no... 	0	29
+ah...hmmmm.... i guess i have to say no... 	0	16
+ah...hmmmm.... i guess i have to say no... 	7	16
+ah...hmmmm.... i guess i have to say no... 	9	100
+ah...hmmmm.... i guess i have to say no... 	34	53
+ah...hmmmm.... i guess i have to say no... 	6	7
+ah...hmmmm.... i guess i have to say no... 	16	16
+ah...hmmmm.... i guess i have to say no... 	5	5
+ah...hmmmm.... i guess i have to say no... 	34	100
+ah...hmmmm.... i guess i have to say no... 	0	57
+ah...hmmmm.... i guess i have to say no... 	0	58
+ah...hmmmm.... i guess i have to say no... 	10	55
+ah...hmmmm.... i guess i have to say no... 	0	32
+ah...hmmmm.... i guess i have to say no... 	10	51
+ah...hmmmm.... i guess i have to say no... 	15	52
+ah...hmmmm.... i guess i have to say no... 	24	100
+ah...hmmmm.... i guess i have to say no... 	20	27
+ah...hmmmm.... i guess i have to say no... 	89	100
+ah...hmmmm.... i guess i have to say no... 	18	75
+ah...hmmmm.... i guess i have to say no... 	24	34
+ah...hmmmm.... i guess i have to say no... 	17	45
+almost	51	78
+almost	33	65
+almost	31	77
+almost	0	71
+almost	62	83
+almost	84	100
+almost	23	100
+almost	77	100
+almost	45	53
+almost	31	55
+almost	71	100
+almost	18	83
+almost	50	100
+almost	0	67
+almost	100	100
+almost	0	46
+almost	52	76
+almost	66	89
+almost	67	89
+almost	55	100
+almost	71	85
+almost	50	93
+almost	29	71
+almost	68	95
+almost	72	100
+almost	70	100
+almost	0	100
+almost	31	64
+certainly	100	100
+certainly	100	100
+certainly	100	100
+certainly	96	100
+certainly	0	100
+certainly	73	100
+certainly	0	97
+certainly	82	100
+certainly	100	100
+certainly	90	100
+certainly	0	89
+certainly	100	100
+certainly	57	100
+certainly	0	100
+certainly	100	100
+certainly	82	100
+certainly	100	100
+certainly	91	100
+certainly	80	100
+certainly	0	93
+certainly	90	100
+certainly	100	100
+certainly	100	100
+certainly	0	94
+certainly	80	100
+certainly	92	99
+certainly	100	100
+certainly	81	100
+certainly	84	95
+certainly	100	100
+certainly	18	67
+certainly not	6	100
+certainly not	31	100
+certainly not	0	0
+certainly not	0	13
+certainly not	3	100
+certainly not	9	93
+certainly not	0	30
+certainly not	2	100
+certainly not	0	0
+certainly not	0	31
+certainly not	0	27
+certainly not	0	100
+certainly not	18	18
+certainly not	0	0
+certainly not	37	100
+certainly not	0	100
+certainly not	1	5
+certainly not	0	0
+certainly not	0	97
+certainly not	0	8
+certainly not	16	100
+certainly not	4	100
+certainly not	4	17
+certainly not	0	1
+certainly not	3	10
+certainly not	0	22
+could be both yes and no	50	100
+could be both yes and no	47	100
+could be both yes and no	51	100
+could be both yes and no	47	100
+could be both yes and no	46	51
+could be both yes and no	0	100
+could be both yes and no	0	100
+could be both yes and no	0	48
+could be both yes and no	0	52
+could be both yes and no	0	100
+could be both yes and no	12	87
+could be both yes and no	0	52
+could be both yes and no	0	48
+could be both yes and no	34	100
+could be both yes and no	0	46
+could be both yes and no	0	53
+could be both yes and no	29	68
+could be both yes and no	0	100
+could be both yes and no	49	100
+could be both yes and no	50	50
+could be both yes and no	50	55
+could be both yes and no	0	100
+could be both yes and no	8	88
+could be both yes and no	0	95
+could be both yes and no	52	54
+could be both yes and no	55	100
+could be both yes and no	0	59
+could be both yes and no	0	51
+could be both yes and no	46	50
+could be both yes and no	1	100
+could be both yes and no	26	83
+could be both yes and no	46	46
+could be both yes and no	0	100
+could be but not necessarily	51	100
+could be but not necessarily	29	100
+could be but not necessarily	51	100
+could be but not necessarily	26	26
+could be but not necessarily	48	100
+could be but not necessarily	47	100
+could be but not necessarily	0	55
+could be but not necessarily	53	100
+could be but not necessarily	39	83
+could be but not necessarily	35	65
+could be but not necessarily	38	100
+could be but not necessarily	77	100
+could be but not necessarily	0	30
+could be but not necessarily	0	47
+could be but not necessarily	69	85
+could be but not necessarily	0	51
+could be but not necessarily	12	56
+could be but not necessarily	19	56
+could be but not necessarily	0	71
+could be but not necessarily	0	56
+could be but not necessarily	53	100
+could be but not necessarily	30	75
+could be but not necessarily	9	19
+could be but not necessarily	0	29
+could be but not necessarily	0	29
+could be but not necessarily	39	61
+could be but not necessarily	26	87
+could be but not necessarily	46	54
+could be but not necessarily	15	84
+could be but not necessarily	34	77
+could be but not necessarily	24	71
+definitely	100	100
+definitely	0	95
+definitely	100	100
+definitely	100	100
+definitely	100	100
+definitely	100	100
+definitely	0	100
+definitely	88	100
+definitely	100	100
+definitely	83	100
+definitely	100	100
+definitely	0	100
+definitely	99	100
+definitely	89	100
+definitely	81	100
+definitely	55	77
+definitely	100	100
+definitely	83	99
+definitely	100	100
+definitely	74	100
+definitely	0	100
+definitely	0	100
+definitely	100	100
+definitely	100	100
+definitely	93	100
+definitely	100	100
+definitely	100	100
+definitely	100	100
+definitely	100	100
+definitely	0	96
+definitely	0	97
+definitely	100	100
+definitely	94	100
+definitely	100	100
+definitely	50	55
+definitely	0	46
+definitely	93	95
+definitely	0	95
+definitely	92	100
+definitely	0	88
+definitely	83	100
+definitely	61	100
+definitely	90	100
+definitely	85	95
+definitely	100	100
+definitely	94	100
+definitely	100	100
+definitely	100	100
+definitely	100	100
+definitely	80	100
+definitely	19	94
+definitely	100	100
+definitely	35	100
+definitely not	0	100
+definitely not	0	0
+definitely not	2	12
+definitely not	0	19
+definitely not	0	100
+definitely not	1	100
+definitely not	2	100
+definitely not	0	0
+definitely not	0	0
+definitely not	0	14
+definitely not	0	0
+definitely not	0	0
+definitely not	0	13
+definitely not	0	6
+definitely not	0	100
+definitely not	4	100
+definitely not	0	3
+definitely not	0	100
+definitely not	0	0
+definitely not	0	0
+definitely not	13	74
+definitely not	2	100
+definitely not	0	100
+definitely not	0	5
+definitely not	7	8
+definitely not	19	27
+definitely not	2	100
+definitely not	94	100
+definitely not	0	19
+definitely not	0	12
+definitely not	0	0
+definitely not	3	5
+definitely not	0	3
+depends	0	100
+depends	46	100
+depends	45	100
+depends	19	77
+depends	48	100
+depends	48	100
+depends	49	100
+depends	48	100
+depends	53	100
+depends	49	100
+depends	53	100
+depends	8	91
+depends	47	100
+depends	61	83
+depends	42	62
+depends	36	71
+depends	0	60
+depends	0	57
+depends	0	52
+depends	0	100
+depends	37	53
+depends	77	100
+depends	0	51
+depends	21	78
+depends	49	49
+depends	44	100
+depends	45	48
+depends	49	100
+depends	0	52
+depends	48	49
+depends	25	75
+depends	30	100
+depends	54	55
+depends	0	100
+depends	0	78
+depends	0	100
+depends	28	77
+eh... yes, you could say so. 	59	96
+eh... yes, you could say so. 	65	100
+eh... yes, you could say so. 	0	81
+eh... yes, you could say so. 	80	100
+eh... yes, you could say so. 	74	100
+eh... yes, you could say so. 	55	94
+eh... yes, you could say so. 	21	100
+eh... yes, you could say so. 	91	100
+eh... yes, you could say so. 	59	89
+eh... yes, you could say so. 	43	92
+eh... yes, you could say so. 	62	100
+eh... yes, you could say so. 	0	66
+eh... yes, you could say so. 	0	75
+eh... yes, you could say so. 	0	61
+eh... yes, you could say so. 	35	100
+eh... yes, you could say so. 	73	100
+eh... yes, you could say so. 	0	94
+eh... yes, you could say so. 	60	100
+eh... yes, you could say so. 	64	84
+eh... yes, you could say so. 	100	100
+eh... yes, you could say so. 	93	100
+eh... yes, you could say so. 	72	100
+eh... yes, you could say so. 	38	100
+eh... yes, you could say so. 	74	92
+eh... yes, you could say so. 	34	92
+eh... yes, you could say so. 	48	100
+eh... yes, you could say so. 	7	72
+eh... yes, you could say so. 	83	83
+eh... yes, you could say so. 	34	100
+generally	50	95
+generally	64	100
+generally	0	59
+generally	60	100
+generally	91	91
+generally	50	100
+generally	0	100
+generally	0	87
+generally	88	100
+generally	33	95
+generally	60	100
+generally	60	100
+generally	66	92
+generally	58	100
+generally	40	88
+generally	47	72
+generally	14	86
+generally	53	86
+generally	67	100
+generally	65	100
+generally	58	97
+generally	54	59
+generally	52	57
+generally	45	56
+generally	38	64
+generally	0	51
+generally	0	50
+generally	37	100
+generally	24	91
+generally	0	60
+generally	93	100
+generally	69	100
+generally	48	100
+generally	0	91
+generally	0	52
+generally	0	53
+generally	100	100
+generally	34	74
+generally	87	87
+generally	0	80
+generally	44	46
+generally	44	46
+generally	0	71
+generally	61	81
+generally	43	53
+generally	64	100
+generally	49	100
+generally	0	66
+generally	69	86
+generally	63	94
+generally	49	76
+generally	38	90
+generally	24	74
+generally	36	77
+generally	55	100
+generally	83	83
+generally	64	100
+generally	50	96
+generally	46	96
+generally	68	80
+generally	0	100
+generally	0	100
+generally	23	70
+generally	24	73
+generally	62	77
+generally yes, but not necessarily	75	100
+generally yes, but not necessarily	0	76
+generally yes, but not necessarily	82	100
+generally yes, but not necessarily	0	71
+generally yes, but not necessarily	0	75
+generally yes, but not necessarily	63	100
+generally yes, but not necessarily	64	100
+generally yes, but not necessarily	40	85
+generally yes, but not necessarily	59	100
+generally yes, but not necessarily	0	73
+generally yes, but not necessarily	0	91
+generally yes, but not necessarily	0	52
+generally yes, but not necessarily	33	100
+generally yes, but not necessarily	77	93
+generally yes, but not necessarily	85	85
+generally yes, but not necessarily	74	100
+generally yes, but not necessarily	70	100
+generally yes, but not necessarily	7	64
+generally yes, but not necessarily	51	98
+generally yes, but not necessarily	31	59
+generally yes, but not necessarily	66	85
+generally yes, but not necessarily	7	89
+generally yes, but not necessarily	15	100
+generally yes, but not necessarily	0	64
+generally yes, but not necessarily	35	92
+generally yes, but not necessarily	58	63
+generally yes, but not necessarily	57	92
+generally yes, but not necessarily	35	87
+generally yes, but not necessarily	37	94
+generally yes, but not necessarily	48	92
+generally yes, but not necessarily	64	65
+generally yes, but not necessarily	48	95
+generally yes, but not necessarily	13	18
+generally yes, but not necessarily	17	89
+hmm not exactly... (but again one could) 	30	100
+hmm not exactly... (but again one could) 	0	41
+hmm not exactly... (but again one could) 	35	100
+hmm not exactly... (but again one could) 	47	100
+hmm not exactly... (but again one could) 	9	100
+hmm not exactly... (but again one could) 	0	24
+hmm not exactly... (but again one could) 	14	66
+hmm not exactly... (but again one could) 	17	100
+hmm not exactly... (but again one could) 	46	100
+hmm not exactly... (but again one could) 	30	72
+hmm not exactly... (but again one could) 	0	100
+hmm not exactly... (but again one could) 	64	100
+hmm not exactly... (but again one could) 	42	47
+hmm not exactly... (but again one could) 	10	66
+hmm not exactly... (but again one could) 	18	57
+hmm not exactly... (but again one could) 	23	100
+hmm not exactly... (but again one could) 	21	66
+hmm not exactly... (but again one could) 	37	37
+hmm not exactly... (but again one could) 	0	75
+hmm not exactly... (but again one could) 	0	37
+hmm not exactly... (but again one could) 	0	59
+hmm not exactly... (but again one could) 	28	67
+hmm not exactly... (but again one could) 	0	87
+hmm not exactly... (but again one could) 	31	58
+hmm not exactly... (but again one could) 	28	62
+hmm not exactly... (but again one could) 	47	100
+hmm not exactly... (but again one could) 	29	69
+hmm not exactly... (but again one could) 	25	44
+hmm not exactly... (but again one could) 	3	100
+hmm not exactly... (but again one could) 	45	100
+hmm not exactly... (but again one could) 	34	53
+hmm not exactly... (but again one could) 	32	74
+hmm not exactly... (but again one could) 	29	49
+hmm not exactly... (but again one could) 	32	59
+hmm not exactly... (but again one could) 	1	49
+hmm not exactly... (but again one could) 	15	15
+hmm not exactly... (but again one could) 	20	27
+hmm not exactly... (but again one could) 	40	71
+hmm, I'd say yes in general 	37	100
+hmm, I'd say yes in general 	80	100
+hmm, I'd say yes in general 	85	85
+hmm, I'd say yes in general 	83	100
+hmm, I'd say yes in general 	17	100
+hmm, I'd say yes in general 	0	44
+hmm, I'd say yes in general 	70	100
+hmm, I'd say yes in general 	54	100
+hmm, I'd say yes in general 	50	81
+hmm, I'd say yes in general 	87	100
+hmm, I'd say yes in general 	69	92
+hmm, I'd say yes in general 	69	94
+hmm, I'd say yes in general 	66	97
+hmm, I'd say yes in general 	0	77
+hmm, I'd say yes in general 	47	89
+hmm, I'd say yes in general 	0	92
+hmm, I'd say yes in general 	47	100
+hmm, I'd say yes in general 	85	100
+hmm, I'd say yes in general 	0	86
+hmm, I'd say yes in general 	0	74
+hmm, I'd say yes in general 	86	100
+hmm, I'd say yes in general 	40	77
+hmm, I'd say yes in general 	76	86
+hmm, I'd say yes in general 	80	100
+hmm, I'd say yes in general 	71	91
+hmm, I'd say yes in general 	51	100
+hmm, I'd say yes in general 	71	87
+hmm, I'd say yes in general 	88	92
+hmm, I'd say yes in general 	17	95
+hmm, I'd say yes in general 	72	100
+hmm, I'd say yes in general 	91	91
+hmm, I'd say yes in general 	76	84
+hmm, I'd say yes in general 	38	99
+hmm, I'd say yes in general 	70	100
+I don't think so	30	100
+I don't think so	0	18
+I don't think so	28	100
+I don't think so	32	68
+I don't think so	0	0
+I don't think so	0	9
+I don't think so	24	100
+I don't think so	1	100
+I don't think so	18	100
+I don't think so	0	18
+I don't think so	9	100
+I don't think so	0	28
+I don't think so	4	34
+I don't think so	0	0
+I don't think so	3	100
+I don't think so	29	90
+I don't think so	17	100
+I don't think so	0	29
+I don't think so	0	31
+I don't think so	0	14
+I don't think so	0	18
+I don't think so	12	100
+I don't think so	2	76
+I don't think so	7	67
+I don't think so	17	100
+I don't think so	11	61
+I don't think so	69	100
+I don't think so	12	100
+I don't think so	4	79
+I don't think so	18	100
+I don't think so	21	58
+I don't think so	12	38
+I don't think so	0	70
+I don't think so	21	39
+I don't think so	0	0
+I don't think so	30	100
+I don't think so	20	100
+I don't think so	6	100
+I don't think so	0	22
+I don't think so	0	35
+I don't think so	0	41
+I don't think so	0	7
+I don't think so	0	65
+I don't think so	13	13
+I don't think so	0	12
+I don't think so	20	100
+I don't think so	0	100
+I don't think so	7	54
+I don't think so	11	43
+I don't think so	0	7
+I don't think so	15	25
+I don't think so	19	100
+I don't think so	4	16
+I don't think so	0	4
+I don't think so	15	100
+I don't think so	41	100
+I don't think so	0	61
+I don't think so	24	40
+I don't think so	2	55
+I don't think so	15	37
+I don't think so	18	23
+I don't think so	0	26
+I don't think so	36	61
+I don't think so	0	33
+I don't think so	13	100
+I don't think so	7	7
+I don't think so	0	40
+I don't think so	0	62
+I don't think so	0	66
+I don't think so	0	59
+I don't think so	32	67
+I don't think so	0	19
+I don't think so	31	67
+I think so	48	100
+I think so	42	100
+I think so	44	85
+I think so	50	92
+I think so	36	100
+I think so	68	100
+I think so	47	100
+I think so	21	68
+I think so	21	62
+I think so	0	82
+I think so	0	77
+I think so	100	100
+I think so	0	94
+I think so	46	97
+I think so	53	100
+I think so	63	100
+I think so	51	100
+I think so	52	100
+I think so	0	63
+I think so	39	100
+I think so	72	100
+I think so	9	100
+I think so	34	100
+I think so	41	100
+I think so	49	100
+I think so	45	87
+I think so	85	100
+I think so	0	100
+I think so	0	58
+I think so	0	42
+I think so	0	84
+I think so	0	96
+I think so	75	100
+I think so	20	58
+I think so	44	100
+I think so	52	100
+I think so	78	85
+I think so	0	82
+I think so	74	89
+I think so	47	100
+I think so	15	72
+I think so	11	83
+I think so	31	100
+I think so	78	81
+I think so	0	78
+I think so	56	94
+I think so	37	70
+I think so	73	91
+I think so	69	82
+I think so	74	80
+I think so	51	86
+I think so	58	89
+I think so	26	76
+I think so	32	54
+I think so	10	89
+I think so	47	100
+I think so	70	100
+I think so	58	100
+I think so	51	51
+I think so	81	83
+I think so	69	94
+I think so	46	85
+I think so	46	83
+I think so kind of	57	100
+I think so kind of	0	52
+I think so kind of	60	100
+I think so kind of	54	80
+I think so kind of	0	48
+I think so kind of	48	83
+I think so kind of	0	70
+I think so kind of	41	78
+I think so kind of	13	72
+I think so kind of	90	90
+I think so kind of	82	86
+I think so kind of	53	100
+I think so kind of	0	83
+I think so kind of	73	100
+I think so kind of	0	52
+I think so kind of	96	100
+I think so kind of	58	100
+I think so kind of	0	59
+I think so kind of	27	100
+I think so kind of	0	67
+I think so kind of	0	88
+I think so kind of	0	96
+I think so kind of	0	96
+I think so kind of	0	64
+I think so kind of	49	100
+I think so kind of	11	88
+I think so kind of	6	100
+I think so kind of	0	55
+I think so kind of	56	100
+I think so kind of	58	74
+I think so kind of	61	80
+I think so kind of	47	65
+I think so kind of	44	57
+I think so kind of	23	77
+I think so kind of	16	87
+I think so kind of	46	51
+I think so kind of	47	77
+I think so...	0	70
+I think so...	0	73
+I think so...	25	71
+I think so...	47	93
+I think so...	24	78
+I think so...	0	59
+I think so...	64	100
+I think so...	40	79
+I think so...	58	100
+I think so...	80	100
+I think so...	60	100
+I think so...	49	92
+I think so...	55	100
+I think so...	35	100
+I think so...	54	100
+I think so...	22	80
+I think so...	40	89
+I think so...	66	100
+I think so...	0	54
+I think so...	0	42
+I think so...	63	81
+I think so...	88	100
+I think so...	0	78
+I think so...	0	85
+I think so...	64	85
+I think so...	14	90
+I think so...	58	95
+I think so...	71	87
+I think so...	49	54
+I think so...	70	100
+I think so...	37	89
+I think so...	58	100
+I think so...	52	54
+I think so...	47	100
+I think so...	0	62
+i would say yes	83	100
+i would say yes	25	95
+i would say yes	22	96
+i would say yes	0	100
+i would say yes	94	94
+i would say yes	0	86
+i would say yes	76	100
+i would say yes	58	100
+i would say yes	27	100
+i would say yes	81	100
+i would say yes	0	74
+i would say yes	88	100
+i would say yes	72	72
+i would say yes	28	74
+i would say yes	81	100
+i would say yes	87	100
+i would say yes	0	88
+i would say yes	81	100
+i would say yes	0	100
+i would say yes	40	100
+i would say yes	0	91
+i would say yes	69	100
+i would say yes	83	100
+i would say yes	57	85
+i would say yes	100	100
+i would say yes	94	95
+i would say yes	72	100
+i would say yes	0	90
+i would say yes	83	100
+i would say yes	96	96
+i would say yes	24	77
+i would say yes	52	89
+i would say yes	100	100
+i would say yes	90	90
+I'm going to say yes	90	100
+I'm going to say yes	0	100
+I'm going to say yes	100	100
+I'm going to say yes	0	47
+I'm going to say yes	87	100
+I'm going to say yes	0	95
+I'm going to say yes	81	100
+I'm going to say yes	81	100
+I'm going to say yes	81	100
+I'm going to say yes	60	100
+I'm going to say yes	0	100
+I'm going to say yes	84	100
+I'm going to say yes	40	100
+I'm going to say yes	0	67
+I'm going to say yes	0	94
+I'm going to say yes	0	74
+I'm going to say yes	100	100
+I'm going to say yes	100	100
+I'm going to say yes	0	83
+I'm going to say yes	68	100
+I'm going to say yes	99	100
+I'm going to say yes	93	100
+I'm going to say yes	17	100
+I'm going to say yes	70	100
+I'm going to say yes	91	100
+I'm going to say yes	0	93
+I'm going to say yes	84	100
+I'm going to say yes	85	98
+I'm going to say yes	51	99
+I'm going to say yes	57	94
+I'm going to say yes	93	97
+I'm going to say yes	78	100
+I'm going to say yes	60	100
+I'm going to say yes	61	100
+I'm going to say yes	15	98
+I'm going to say yes	51	100
+in general no	6	100
+in general no	21	100
+in general no	21	100
+in general no	0	14
+in general no	0	22
+in general no	6	100
+in general no	0	17
+in general no	11	86
+in general no	9	100
+in general no	0	50
+in general no	7	100
+in general no	18	100
+in general no	13	13
+in general no	0	7
+in general no	0	21
+in general no	0	17
+in general no	0	25
+in general no	0	24
+in general no	12	100
+in general no	9	100
+in general no	0	14
+in general no	0	62
+in general no	0	15
+in general no	6	25
+in general no	20	100
+in general no	0	35
+in general no	11	56
+in general no	50	100
+in general no	7	100
+in general no	9	66
+in general no	1	79
+in general no	0	8
+in general no	0	9
+in general no	0	55
+in general no	0	17
+in general no	16	100
+in general no	8	100
+in general no	0	17
+in general no	0	15
+in general no	0	32
+in general no	11	38
+in general no	0	0
+in general no	10	100
+in general no	12	100
+in general no	5	100
+in general no	7	100
+in general no	0	100
+in general no	1	6
+in general no	10	100
+in general no	0	68
+in general no	10	43
+in general no	34	100
+in general no	17	100
+in general no	0	29
+in general no	0	34
+in general no	8	34
+in general no	2	100
+in general no	0	0
+in general no	6	15
+in general no	5	100
+in general no	0	42
+in general no	24	24
+in general no	20	21
+in general no	100	100
+in general yes	0	76
+in general yes	84	100
+in general yes	80	100
+in general yes	78	100
+in general yes	91	100
+in general yes	60	83
+in general yes	0	93
+in general yes	78	100
+in general yes	71	97
+in general yes	63	100
+in general yes	62	100
+in general yes	55	94
+in general yes	100	100
+in general yes	33	100
+in general yes	29	100
+in general yes	0	76
+in general yes	85	90
+in general yes	84	100
+in general yes	31	100
+in general yes	13	100
+in general yes	0	72
+in general yes	0	77
+in general yes	0	73
+in general yes	54	100
+in general yes	90	94
+in general yes	35	95
+in general yes	80	93
+in general yes	51	100
+in general yes	38	100
+in general, no	6	43
+in general, no	0	14
+in general, no	32	100
+in general, no	6	6
+in general, no	0	16
+in general, no	70	100
+in general, no	1	15
+in general, no	0	19
+in general, no	10	58
+in general, no	8	100
+in general, no	15	100
+in general, no	0	57
+in general, no	24	100
+in general, no	4	100
+in general, no	0	0
+in general, no	0	14
+in general, no	11	100
+in general, no	0	20
+in general, no	5	35
+in general, no	3	9
+in general, no	0	54
+in general, no	10	21
+in general, no	34	97
+in general, no	3	31
+in general, no	0	27
+in general, no	0	59
+in general, no	11	25
+in general, no	0	50
+in general, no	1	12
+in general, no	3	12
+in general, no	4	7
+in general, no	10	50
+in general, no	0	74
+in general, no	13	51
+in general, no	6	43
+it can be but not necessarily	38	100
+it can be but not necessarily	48	64
+it can be but not necessarily	44	100
+it can be but not necessarily	53	100
+it can be but not necessarily	50	100
+it can be but not necessarily	9	100
+it can be but not necessarily	61	85
+it can be but not necessarily	28	73
+it can be but not necessarily	43	100
+it can be but not necessarily	56	100
+it can be but not necessarily	13	91
+it can be but not necessarily	17	93
+it can be but not necessarily	0	21
+it can be but not necessarily	37	69
+it can be but not necessarily	28	64
+it can be but not necessarily	50	87
+it can be but not necessarily	59	100
+it can be but not necessarily	0	51
+it can be but not necessarily	20	44
+it can be but not necessarily	9	100
+it can be but not necessarily	14	55
+it can be but not necessarily	48	100
+it can be but not necessarily	22	100
+it can be but not necessarily	29	100
+it can be but not necessarily	16	75
+it can be but not necessarily	48	48
+it can be but not necessarily	17	48
+it can be but not necessarily	74	88
+it can be but not necessarily	28	72
+it can be but not necessarily	0	49
+it can be but not necessarily	13	85
+it can be but not necessarily	46	63
+it can be but not necessarily	6	45
+it can be but not necessarily	49	80
+it can be but not necessarily	0	100
+it depends	26	77
+it depends	49	100
+it depends	11	83
+it depends	47	100
+it depends	49	100
+it depends	33	56
+it depends	10	89
+it depends	27	100
+it depends	47	100
+it depends	48	53
+it depends	16	84
+it depends	51	100
+it depends	13	84
+it depends	9	82
+it depends	52	52
+it depends	35	60
+it depends	53	57
+it depends	44	64
+it depends	23	78
+it depends	47	100
+it depends	25	77
+it depends	42	100
+it depends	14	84
+it depends	25	71
+it depends	20	81
+it depends	34	57
+it depends	42	42
+it depends	23	77
+it depends	29	80
+it's possible, but generally i guess i'd say no 	42	100
+it's possible, but generally i guess i'd say no 	20	100
+it's possible, but generally i guess i'd say no 	15	77
+it's possible, but generally i guess i'd say no 	0	61
+it's possible, but generally i guess i'd say no 	27	100
+it's possible, but generally i guess i'd say no 	21	100
+it's possible, but generally i guess i'd say no 	41	100
+it's possible, but generally i guess i'd say no 	21	100
+it's possible, but generally i guess i'd say no 	75	100
+it's possible, but generally i guess i'd say no 	17	100
+it's possible, but generally i guess i'd say no 	6	100
+it's possible, but generally i guess i'd say no 	0	22
+it's possible, but generally i guess i'd say no 	8	57
+it's possible, but generally i guess i'd say no 	31	100
+it's possible, but generally i guess i'd say no 	13	100
+it's possible, but generally i guess i'd say no 	37	100
+it's possible, but generally i guess i'd say no 	12	60
+it's possible, but generally i guess i'd say no 	34	63
+it's possible, but generally i guess i'd say no 	0	79
+it's possible, but generally i guess i'd say no 	0	14
+it's possible, but generally i guess i'd say no 	0	21
+it's possible, but generally i guess i'd say no 	23	100
+it's possible, but generally i guess i'd say no 	6	58
+it's possible, but generally i guess i'd say no 	10	71
+it's possible, but generally i guess i'd say no 	17	60
+it's possible, but generally i guess i'd say no 	18	21
+it's possible, but generally i guess i'd say no 	7	38
+it's possible, but generally i guess i'd say no 	48	91
+it's possible, but generally i guess i'd say no 	3	45
+it's possible, but generally i guess i'd say no 	91	96
+it's possible, but generally i guess i'd say no 	0	58
+it's possible, but generally i guess i'd say no 	0	13
+it's possible, but generally i guess i'd say no 	34	69
+it's possible, but generally i guess i'd say no 	15	22
+it's possible, but generally i guess i'd say no 	0	73
+kind of	49	86
+kind of	39	79
+kind of	0	69
+kind of	26	100
+kind of	54	100
+kind of	57	100
+kind of	65	100
+kind of	24	73
+kind of	20	80
+kind of	0	58
+kind of	52	100
+kind of	0	55
+kind of	39	85
+kind of	17	85
+kind of	0	66
+kind of	24	53
+kind of	0	68
+kind of	43	70
+kind of	10	42
+kind of	81	100
+kind of	0	51
+kind of	49	54
+kind of	46	88
+kind of	33	71
+kind of	30	74
+kind of	45	70
+kind of	70	70
+kind of	49	58
+kind of	36	56
+kind of	60	67
+kind of	27	66
+kind of	29	61
+kind of	82	100
+kind of	0	100
+maybe	20	78
+maybe	46	100
+maybe	0	49
+maybe	52	52
+maybe	50	100
+maybe	0	65
+maybe	28	61
+maybe	0	48
+maybe	31	100
+maybe	0	51
+maybe	0	52
+maybe	25	78
+maybe	49	100
+maybe	48	53
+maybe	52	100
+maybe	6	93
+maybe	50	100
+maybe	53	100
+maybe	49	49
+maybe	49	100
+maybe	72	100
+maybe	0	54
+maybe	0	66
+maybe	0	62
+maybe	0	53
+maybe	0	57
+maybe	49	100
+maybe	63	71
+maybe	29	65
+maybe	52	77
+maybe	53	100
+maybe	0	57
+maybe	20	93
+maybe	46	63
+maybe	48	58
+maybe	43	47
+maybe	35	62
+maybe	0	51
+maybe	20	80
+maybe	0	100
+maybe	56	56
+mostly	78	100
+mostly	0	86
+mostly	77	100
+mostly	91	100
+mostly	0	63
+mostly	67	100
+mostly	0	32
+mostly	0	81
+mostly	81	100
+mostly	49	100
+mostly	49	94
+mostly	35	100
+mostly	0	69
+mostly	20	100
+mostly	27	88
+mostly	0	66
+mostly	62	100
+mostly	0	88
+mostly	0	84
+mostly	38	100
+mostly	21	80
+mostly	55	100
+mostly	59	100
+mostly not	44	100
+mostly not	9	100
+mostly not	18	100
+mostly not	11	100
+mostly not	14	100
+mostly not	33	100
+mostly not	0	33
+mostly not	0	58
+mostly not	6	100
+mostly not	0	30
+mostly not	3	80
+mostly not	6	43
+mostly not	0	17
+mostly not	0	45
+mostly not	11	100
+mostly not	28	100
+mostly not	16	100
+mostly not	0	23
+mostly not	0	27
+mostly not	11	100
+mostly not	21	100
+mostly not	14	63
+mostly not	7	100
+mostly not	14	100
+mostly not	4	53
+mostly not	5	100
+mostly not	17	100
+mostly not	1	22
+mostly not	0	20
+mostly not	18	100
+mostly not	16	24
+mostly not	4	63
+mostly not	9	18
+mostly not	9	34
+mostly not	4	21
+mostly not	34	63
+mostly not	0	34
+mostly not	13	17
+mostly not	48	48
+mostly not	7	14
+mostly not	0	37
+mostly not	22	100
+no	2	100
+no	0	100
+no	0	100
+no	0	100
+no	0	6
+no	1	1
+no	1	100
+no	0	0
+no	5	5
+no	0	100
+no	56	100
+no	0	0
+no	0	17
+no	0	5
+no	0	0
+no	0	0
+no	0	6
+no	0	7
+no	5	100
+no	0	0
+no	0	5
+no	0	100
+no	0	100
+no	0	4
+no	0	27
+no	0	100
+no	0	0
+no	0	0
+no	7	16
+no	7	25
+no	5	100
+no	0	0
+no	4	100
+no	2	100
+no	1	100
+no	0	2
+no	0	7
+no	0	100
+no	90	96
+no	0	3
+no	0	100
+no	5	100
+no	0	5
+no	2	100
+no	0	5
+no	5	100
+no	0	6
+no	92	98
+no	52	84
+no	11	76
+no	1	100
+no	0	100
+no	0	0
+no	0	6
+no	0	56
+no	0	50
+no	0	0
+no in general	0	25
+no in general	5	35
+no in general	82	100
+no in general	0	11
+no in general	0	52
+no in general	16	44
+no in general	6	100
+no in general	7	79
+no in general	0	21
+no in general	0	100
+no in general	0	19
+no in general	0	13
+no in general	12	100
+no in general	0	37
+no in general	0	0
+no in general	14	100
+no in general	0	53
+no in general	11	60
+no in general	1	100
+no in general	0	99
+no in general	1	100
+no in general	5	7
+no in general	0	22
+no in general	3	23
+no in general	47	96
+no in general	2	28
+no in general	7	27
+no in general	0	25
+no in general	19	100
+no in general	6	12
+no in general	3	37
+no in general	39	71
+no in general	12	83
+no in general	0	54
+no in general	0	0
+no it doesn't really relate	5	100
+no it doesn't really relate	4	100
+no it doesn't really relate	4	100
+no it doesn't really relate	93	100
+no it doesn't really relate	2	100
+no it doesn't really relate	7	100
+no it doesn't really relate	6	100
+no it doesn't really relate	0	23
+no it doesn't really relate	7	100
+no it doesn't really relate	0	33
+no it doesn't really relate	10	35
+no it doesn't really relate	0	53
+no it doesn't really relate	89	100
+no it doesn't really relate	0	44
+no it doesn't really relate	12	63
+no it doesn't really relate	0	0
+no it doesn't really relate	1	100
+no it doesn't really relate	0	12
+no it doesn't really relate	0	23
+no it doesn't really relate	0	8
+no it doesn't really relate	0	0
+no it doesn't really relate	9	100
+no it doesn't really relate	12	100
+no it doesn't really relate	3	100
+no it doesn't really relate	4	10
+no it doesn't really relate	1	1
+no it doesn't really relate	21	21
+no it doesn't really relate	0	42
+no it doesn't really relate	1	24
+no it doesn't really relate	14	40
+no it doesn't really relate	0	20
+no it doesn't really relate	9	36
+no it doesn't really relate	0	17
+no it doesn't really relate	11	19
+no it doesn't really relate	35	90
+no it doesn't really relate	0	100
+no it doesn't really relate	1	19
+no it doesn't really relate	0	28
+no it doesn't really relate	15	59
+no it doesn't really relate	39	49
+no not exactly	24	100
+no not exactly	31	100
+no not exactly	12	100
+no not exactly	5	57
+no not exactly	16	36
+no not exactly	0	37
+no not exactly	0	8
+no not exactly	4	100
+no not exactly	0	15
+no not exactly	9	100
+no not exactly	0	17
+no not exactly	7	58
+no not exactly	5	27
+no not exactly	23	100
+no not exactly	18	100
+no not exactly	6	6
+no not exactly	0	0
+no not exactly	11	53
+no not exactly	20	100
+no not exactly	0	41
+no not exactly	0	57
+no not exactly	0	13
+no not exactly	0	39
+no not exactly	0	31
+no not exactly	0	100
+no not exactly	9	31
+no not exactly	0	0
+no not exactly	0	59
+no not exactly	0	45
+no not exactly	0	18
+no not exactly	16	46
+no not exactly	58	90
+no not exactly	6	7
+no not exactly	21	100
+no not exactly	16	100
+no not exactly	40	100
+no not exactly	9	39
+no not exactly	46	95
+no not exactly	0	0
+no not exactly	0	42
+no not exactly	31	48
+no not exactly	4	33
+no not necessarily at least	12	100
+no not necessarily at least	15	100
+no not necessarily at least	0	25
+no not necessarily at least	13	76
+no not necessarily at least	0	36
+no not necessarily at least	0	33
+no not necessarily at least	7	38
+no not necessarily at least	0	35
+no not necessarily at least	19	100
+no not necessarily at least	0	0
+no not necessarily at least	0	29
+no not necessarily at least	0	15
+no not necessarily at least	11	100
+no not necessarily at least	0	32
+no not necessarily at least	8	39
+no not necessarily at least	0	42
+no not necessarily at least	8	21
+no not necessarily at least	0	53
+no not necessarily at least	7	10
+no not necessarily at least	0	18
+no not necessarily at least	2	100
+no not necessarily at least	7	18
+no not necessarily at least	8	45
+no not necessarily at least	4	42
+no not necessarily at least	2	37
+no not necessarily at least	14	48
+no not necessarily at least	10	86
+no not necessarily at least	26	26
+no not necessarily at least	18	18
+no not necessarily but could be	51	100
+no not necessarily but could be	19	69
+no not necessarily but could be	20	100
+no not necessarily but could be	33	100
+no not necessarily but could be	0	48
+no not necessarily but could be	26	100
+no not necessarily but could be	45	100
+no not necessarily but could be	21	78
+no not necessarily but could be	23	59
+no not necessarily but could be	0	38
+no not necessarily but could be	0	47
+no not necessarily but could be	26	85
+no not necessarily but could be	0	20
+no not necessarily but could be	50	67
+no not necessarily but could be	0	56
+no not necessarily but could be	8	8
+no not necessarily but could be	45	63
+no not necessarily but could be	48	53
+no not necessarily but could be	16	61
+no not necessarily but could be	28	75
+no not necessarily but could be	61	64
+no not necessarily but could be	11	41
+no not necessarily but could be	35	65
+no not necessarily but could be	50	92
+no not necessarily but could be	35	35
+no not necessarily but could be	23	31
+no not necessarily but could be	36	100
+no not necessarily but could be	0	73
+no not necessarily but could be	18	18
+no not necessarily but could be	0	100
+no not really	19	100
+no not really	3	31
+no not really	6	100
+no not really	31	100
+no not really	1	24
+no not really	1	100
+no not really	0	4
+no not really	5	48
+no not really	0	23
+no not really	23	100
+no not really	5	66
+no not really	0	28
+no not really	0	12
+no not really	10	100
+no not really	7	50
+no not really	0	23
+no not really	11	11
+no not really	0	9
+no not really	5	18
+no not really	29	100
+no not really	0	0
+no not really	0	15
+no not really	0	16
+no not really	0	20
+no not really	0	0
+no not really	0	23
+no not really	0	0
+no not really	0	22
+no not really	8	100
+no not really	0	48
+no not really	2	100
+no not really	33	100
+no not really	8	33
+no not really	8	15
+no not really	56	97
+no not really	2	100
+no not really	14	14
+no not really	27	40
+no not really	18	18
+no not really	13	22
+NO!	0	1
+NO!	0	100
+NO!	0	0
+NO!	0	0
+NO!	0	0
+NO!	1	100
+NO!	0	0
+NO!	3	100
+NO!	0	5
+NO!	0	0
+NO!	4	100
+NO!	0	5
+NO!	0	0
+NO!	0	0
+NO!	0	0
+NO!	2	100
+NO!	0	0
+NO!	0	0
+NO!	0	7
+NO!	2	7
+NO!	0	0
+NO!	2	100
+NO!	91	97
+NO!	0	1
+NO!	0	100
+NO!	0	3
+NO!	3	100
+NO!	0	100
+NO!	0	0
+NO!	47	100
+NO!	0	8
+NO!	0	100
+NO!	0	0
+NO!	0	0
+NO!	0	56
+NO!	0	0
+NO!	0	0
+NO!	0	100
+NO!	0	65
+no, it can be but not necessarily	98	100
+no, it can be but not necessarily	23	74
+no, it can be but not necessarily	58	75
+no, it can be but not necessarily	9	49
+no, it can be but not necessarily	0	9
+no, it can be but not necessarily	11	100
+no, it can be but not necessarily	0	55
+no, it can be but not necessarily	0	55
+no, it can be but not necessarily	33	100
+no, it can be but not necessarily	33	100
+no, it can be but not necessarily	0	25
+no, it can be but not necessarily	27	64
+no, it can be but not necessarily	0	47
+no, it can be but not necessarily	23	100
+no, it can be but not necessarily	37	61
+no, it can be but not necessarily	0	75
+no, it can be but not necessarily	14	32
+no, it can be but not necessarily	0	49
+no, it can be but not necessarily	0	51
+no, it can be but not necessarily	22	100
+no, it can be but not necessarily	17	61
+no, it can be but not necessarily	2	100
+no, it can be but not necessarily	10	41
+no, it can be but not necessarily	28	100
+no, it can be but not necessarily	11	39
+no, it can be but not necessarily	4	26
+no, it can be but not necessarily	14	60
+no, it can be but not necessarily	63	90
+no, it can be but not necessarily	0	66
+no, not at all	0	0
+no, not at all	0	9
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	3	21
+no, not at all	16	100
+no, not at all	0	65
+no, not at all	0	9
+no, not at all	1	1
+no, not at all	0	9
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	1	100
+no, not at all	0	31
+no, not at all	0	0
+no, not at all	44	100
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	0	0
+no, not at all	0	8
+no, not at all	0	100
+no, not at all	0	100
+no, not at all	0	20
+no, not at all	0	9
+no, not at all	0	7
+no, not at all	0	100
+no, not at all	0	0
+no, not at all	0	6
+no, not at all	2	5
+no, not at all	0	9
+no, not at all	0	0
+no, not at all	0	6
+no, not at all	29	100
+no, not at all	0	22
+no, not at all	1	8
+no, not generally	41	100
+no, not generally	8	38
+no, not generally	0	25
+no, not generally	6	49
+no, not generally	72	100
+no, not generally	0	19
+no, not generally	0	11
+no, not generally	0	57
+no, not generally	7	100
+no, not generally	0	23
+no, not generally	0	10
+no, not generally	7	7
+no, not generally	8	100
+no, not generally	38	100
+no, not generally	5	100
+no, not generally	24	100
+no, not generally	8	56
+no, not generally	0	20
+no, not generally	11	33
+no, not generally	12	52
+no, not generally	18	100
+no, not generally	14	67
+no, not generally	26	100
+no, not generally	6	91
+no, not generally	0	92
+no, not generally	7	53
+no, not necessarily	39	100
+no, not necessarily	0	67
+no, not necessarily	17	58
+no, not necessarily	8	8
+no, not necessarily	0	14
+no, not necessarily	0	17
+no, not necessarily	0	17
+no, not necessarily	0	55
+no, not necessarily	0	36
+no, not necessarily	13	63
+no, not necessarily	0	34
+no, not necessarily	8	35
+no, not necessarily	0	0
+no, not necessarily	59	100
+no, not necessarily	0	13
+no, not necessarily	0	23
+no, not necessarily	5	43
+no, not necessarily	0	23
+no, not necessarily	4	100
+no, not necessarily	7	100
+no, not necessarily	2	14
+no, not necessarily	0	100
+no, not necessarily	25	40
+no, not necessarily	7	10
+no, not necessarily	3	12
+no, not necessarily	12	100
+no, not necessarily	0	42
+no, not necessarily	1	100
+no, not necessarily	6	38
+no, not necessarily	15	17
+no, not necessarily	0	30
+no, not necessarily	6	92
+no, not necessarily	4	54
+no, not necessarily	20	84
+no, not necessarily	23	81
+no, not necessarily	0	36
+no, not necessarily	0	49
+no, not necessarily	0	33
+no, not normally	15	55
+no, not normally	0	24
+no, not normally	1	100
+no, not normally	91	100
+no, not normally	24	100
+no, not normally	0	0
+no, not normally	4	27
+no, not normally	2	100
+no, not normally	100	100
+no, not normally	10	100
+no, not normally	0	28
+no, not normally	0	13
+no, not normally	0	9
+no, not normally	91	100
+no, not normally	0	22
+no, not normally	11	100
+no, not normally	5	31
+no, not normally	0	0
+no, not normally	25	97
+no, not normally	0	2
+no, not normally	19	100
+no, not normally	14	100
+no, not normally	7	19
+no, not normally	0	37
+no, not normally	7	45
+no, not normally	9	95
+no, not normally	5	40
+no, not normally	28	100
+no, not normally	12	94
+no, not usuallly	7	33
+no, not usuallly	0	29
+no, not usuallly	0	22
+no, not usuallly	10	52
+no, not usuallly	13	66
+no, not usuallly	6	100
+no, not usuallly	7	100
+no, not usuallly	0	22
+no, not usuallly	0	55
+no, not usuallly	19	100
+no, not usuallly	7	63
+no, not usuallly	0	23
+no, not usuallly	0	14
+no, not usuallly	12	56
+no, not usuallly	18	18
+no, not usuallly	0	0
+no, not usuallly	0	13
+no, not usuallly	0	72
+no, not usuallly	0	8
+no, not usuallly	0	11
+no, not usuallly	5	100
+no, not usuallly	0	32
+no, not usuallly	23	100
+no, not usuallly	8	100
+no, not usuallly	3	25
+no, not usuallly	0	66
+no, not usuallly	4	4
+no, not usuallly	4	12
+no, not usuallly	36	100
+no, not usuallly	2	100
+no, not usuallly	0	20
+no, not usuallly	3	8
+no, not usuallly	0	43
+no, not usuallly	7	34
+no, not usuallly	14	54
+no, not usuallly	4	25
+no, not usuallly	0	20
+no, not usuallly	19	100
+no, not usuallly	0	38
+no, not usuallly	8	14
+no, not usuallly	0	59
+no, not usuallly	82	100
+nono	4	100
+nono	5	91
+nono	0	14
+nono	0	0
+nono	5	100
+nono	0	41
+nono	2	100
+nono	15	100
+nono	0	12
+nono	22	70
+nono	0	7
+nono	0	0
+nono	1	100
+nono	0	0
+nono	0	37
+nono	0	7
+nono	0	29
+nono	0	100
+nono	3	100
+nono	24	42
+nono	0	0
+nono	13	15
+nono	0	0
+nono	0	14
+nono	0	8
+nono	0	0
+nono	0	0
+nono	0	100
+nono	6	61
+nono	22	74
+nono	0	0
+nono	0	1
+nono	0	3
+nope	1	100
+nope	0	0
+nope	88	100
+nope	4	100
+nope	4	100
+nope	11	69
+nope	0	0
+nope	50	100
+nope	8	100
+nope	0	0
+nope	2	100
+nope	0	15
+nope	0	10
+nope	0	10
+nope	0	1
+nope	0	2
+nope	0	100
+nope	0	5
+nope	0	0
+nope	0	0
+nope	11	100
+nope	3	12
+nope	0	100
+nope	0	1
+nope	0	0
+nope	0	11
+nope	0	0
+nope	0	54
+nope	0	0
+nope	0	5
+nope	0	0
+nope	0	0
+nope	0	100
+nope	2	2
+nope	0	100
+nope	0	21
+nope	8	100
+nope	7	100
+nope	0	2
+nope	0	0
+nope	19	100
+nope	91	97
+nope	0	0
+nope	0	0
+nope	0	0
+nope	34	100
+nope	25	81
+nope	0	7
+nope	0	2
+nope	0	11
+nope	0	100
+not certainly	1	100
+not certainly	7	100
+not certainly	0	100
+not certainly	0	30
+not certainly	5	5
+not certainly	17	100
+not certainly	40	100
+not certainly	11	100
+not certainly	0	37
+not certainly	14	57
+not certainly	25	77
+not certainly	29	100
+not certainly	0	34
+not certainly	31	100
+not certainly	0	35
+not certainly	41	100
+not certainly	0	0
+not certainly	0	28
+not certainly	0	50
+not certainly	43	100
+not certainly	4	100
+not certainly	94	100
+not certainly	40	94
+not certainly	21	35
+not certainly	13	54
+not certainly	18	26
+not definitely	5	100
+not definitely	11	100
+not definitely	0	89
+not definitely	0	17
+not definitely	0	100
+not definitely	23	47
+not definitely	39	100
+not definitely	22	100
+not definitely	59	100
+not definitely	35	74
+not definitely	0	18
+not definitely	46	63
+not definitely	0	44
+not definitely	0	51
+not definitely	0	100
+not definitely	7	12
+not definitely	60	78
+not definitely	23	89
+not definitely	40	100
+not definitely	18	68
+not definitely	0	24
+not definitely	0	0
+not definitely	0	24
+not definitely	0	64
+not definitely	23	78
+not definitely	53	100
+not definitely	11	80
+not definitely	44	100
+not definitely	0	69
+not definitely	36	100
+not definitely	16	84
+not exactly	26	100
+not exactly	19	100
+not exactly	12	100
+not exactly	0	18
+not exactly	0	44
+not exactly	0	12
+not exactly	0	22
+not exactly	54	100
+not exactly	0	72
+not exactly	19	100
+not exactly	0	81
+not exactly	0	19
+not exactly	13	50
+not exactly	0	34
+not exactly	14	34
+not exactly	26	67
+not exactly	37	89
+not exactly	24	100
+not exactly	28	100
+not exactly	15	89
+not exactly	0	21
+not exactly	46	100
+not exactly	6	45
+not exactly	8	25
+not exactly	4	25
+not exactly	1	100
+not exactly	6	39
+not exactly	8	41
+not exactly	15	44
+not exactly	5	26
+not exactly	0	64
+not exactly	8	71
+not exactly	9	69
+not exactly	24	81
+not exactly	52	100
+not necessarily	5	68
+not necessarily	47	100
+not necessarily	28	100
+not necessarily	20	79
+not necessarily	18	18
+not necessarily	28	100
+not necessarily	0	43
+not necessarily	0	10
+not necessarily	21	38
+not necessarily	0	41
+not necessarily	0	45
+not necessarily	30	100
+not necessarily	10	45
+not necessarily	44	100
+not necessarily	0	26
+not necessarily	49	100
+not necessarily	1	22
+not necessarily	34	100
+not necessarily	0	39
+not necessarily	15	93
+not necessarily	0	30
+not necessarily	32	100
+not necessarily	12	12
+not necessarily	8	100
+not necessarily	33	59
+not necessarily	10	22
+not necessarily	5	100
+not necessarily	5	6
+not necessarily	9	44
+not necessarily	32	73
+not necessarily	17	62
+not necessarily	16	63
+not necessarily	0	78
+not necessarily	36	66
+not necessarily	0	28
+not necessarily	23	72
+not necessarily	0	100
+not possibly	3	100
+not possibly	52	59
+not possibly	0	44
+not possibly	0	14
+not possibly	0	24
+not possibly	15	100
+not possibly	3	34
+not possibly	0	15
+not possibly	3	8
+not possibly	0	17
+not possibly	24	100
+not possibly	28	65
+not possibly	0	9
+not possibly	32	100
+not possibly	13	13
+not possibly	0	34
+not possibly	19	32
+not possibly	4	100
+not possibly	15	100
+not possibly	0	51
+not possibly	7	7
+not possibly	0	0
+not possibly	22	28
+not possibly	8	15
+not possibly	35	70
+not possibly	10	20
+not probably	44	100
+not probably	36	69
+not probably	27	27
+not probably	6	24
+not probably	17	100
+not probably	10	100
+not probably	53	100
+not probably	2	100
+not probably	0	14
+not probably	10	42
+not probably	7	31
+not probably	30	100
+not probably	0	32
+not probably	0	29
+not probably	9	100
+not probably	5	30
+not probably	0	23
+not probably	0	26
+not probably	5	22
+not probably	0	12
+not probably	13	100
+not probably	0	5
+not probably	13	57
+not probably	0	53
+not probably	0	57
+not probably	8	8
+not probably	18	100
+not probably	38	100
+not probably	25	30
+not probably	7	57
+not probably	14	31
+not probably	12	42
+not probably	5	52
+not probably	26	81
+not probably	13	33
+not probably	0	100
+not quite	37	100
+not quite	32	100
+not quite	19	51
+not quite	0	37
+not quite	0	7
+not quite	6	25
+not quite	33	100
+not quite	82	100
+not quite	29	29
+not quite	100	100
+not quite	0	19
+not quite	0	28
+not quite	32	100
+not quite	39	100
+not quite	0	39
+not quite	0	32
+not quite	0	55
+not quite	47	71
+not quite	0	0
+not quite	7	100
+not quite	0	51
+not quite	0	100
+not quite	0	60
+not quite	2	100
+not quite	35	69
+not quite	5	35
+not quite	10	34
+not quite	0	45
+not quite	5	68
+not quite	15	89
+not quite	10	37
+not really	39	100
+not really	4	47
+not really	7	7
+not really	15	47
+not really	3	100
+not really	4	28
+not really	14	36
+not really	0	40
+not really	30	100
+not really	16	100
+not really	7	100
+not really	7	16
+not really	19	100
+not really	1	100
+not really	0	0
+not really	0	16
+not really	1	100
+not really	0	16
+not really	0	24
+not really	0	8
+not really	0	13
+not really	10	10
+not really	0	0
+not really	10	32
+not really	8	62
+not really	83	95
+not really	4	29
+not really	13	100
+not really	7	24
+not really	0	14
+not really	0	100
+not really	0	21
+not really	0	100
+not that much	0	19
+not that much	7	52
+not that much	3	100
+not that much	5	59
+not that much	0	24
+not that much	0	29
+not that much	29	52
+not that much	37	67
+not that much	37	67
+not that much	26	100
+not that much	0	37
+not that much	29	100
+not that much	36	100
+not that much	0	26
+not that much	0	32
+not that much	8	22
+not that much	5	24
+not that much	19	100
+not that much	49	65
+not that much	16	25
+not that much	21	72
+not that much	18	100
+not that much	7	20
+not that much	0	52
+not that much	7	52
+not that much	22	64
+not that much	20	20
+not that much	6	48
+not that much	13	20
+not that much	16	90
+not that much	0	30
+not that much	9	9
+not usually	3	100
+not usually	53	100
+not usually	8	34
+not usually	71	100
+not usually	69	86
+not usually	11	90
+not usually	5	65
+not usually	10	100
+not usually	12	100
+not usually	9	100
+not usually	7	8
+not usually	0	18
+not usually	0	19
+not usually	0	14
+not usually	24	48
+not usually	0	42
+not usually	7	100
+not usually	27	49
+not usually	0	36
+not usually	79	100
+not usually	17	59
+not usually	0	32
+not usually	4	44
+not usually	4	75
+not usually	0	57
+not usually	14	60
+not usually	2	2
+not usually	12	100
+not usually	0	23
+not usually	0	9
+not usually	37	100
+not usually	0	60
+not usually	12	100
+not usually	0	17
+not usually	4	30
+not usually	6	100
+not usually	8	15
+not usually	0	28
+not usually	0	63
+not usually	8	8
+not usually	8	100
+not usually	10	40
+not usually	55	100
+not usually	3	29
+not usually	11	38
+not usually	0	54
+not usually	0	21
+not usually	12	88
+not usually	46	100
+not usually	0	4
+not usually	18	100
+not usually	18	34
+not usually	3	51
+not usually	3	11
+not usually	7	31
+not usually	15	19
+not usually	9	35
+not usually	10	45
+not usually	0	53
+not usually	29	100
+not usually	12	12
+not usually	8	53
+not usually	66	73
+not usually	0	51
+not usually	7	37
+not usually	31	100
+perhaps	44	100
+perhaps	72	100
+perhaps	87	100
+perhaps	40	79
+perhaps	49	100
+perhaps	59	100
+perhaps	43	78
+perhaps	0	49
+perhaps	12	76
+perhaps	33	69
+perhaps	50	100
+perhaps	66	66
+perhaps	48	100
+perhaps	23	81
+perhaps	0	76
+perhaps	0	75
+perhaps	0	48
+perhaps	18	100
+perhaps	0	66
+perhaps	0	53
+perhaps	30	100
+perhaps	54	100
+perhaps	33	50
+perhaps	0	60
+perhaps	53	100
+perhaps	49	77
+perhaps	50	100
+perhaps	49	100
+perhaps	27	77
+perhaps	50	100
+perhaps	27	68
+perhaps	70	100
+perhaps	38	87
+perhaps	46	96
+perhaps	53	100
+perhaps	58	83
+perhaps	100	100
+perhaps	56	100
+perhaps	24	83
+perhaps	0	62
+perhaps	35	66
+perhaps	0	45
+perhaps	95	100
+perhaps	0	65
+perhaps	0	73
+perhaps	0	75
+perhaps	0	46
+perhaps	0	15
+perhaps	49	100
+perhaps	0	53
+perhaps	71	100
+perhaps	29	63
+perhaps	22	63
+perhaps	59	80
+perhaps	71	82
+perhaps	45	45
+perhaps	0	57
+perhaps	46	100
+perhaps	47	100
+perhaps	39	85
+perhaps	0	52
+perhaps	22	77
+perhaps	55	58
+perhaps	16	84
+perhaps	50	80
+perhaps	43	96
+perhaps	37	57
+perhaps	0	52
+perhaps	54	86
+perhaps	47	100
+perhaps	33	100
+perhaps	19	100
+perhaps	33	69
+perhaps	48	63
+perhaps	32	63
+perhaps	25	77
+perhaps	100	100
+possibly	57	75
+possibly	54	92
+possibly	47	100
+possibly	11	100
+possibly	80	100
+possibly	42	100
+possibly	44	89
+possibly	35	100
+possibly	60	76
+possibly	51	51
+possibly	52	100
+possibly	48	100
+possibly	0	100
+possibly	49	89
+possibly	37	68
+possibly	37	100
+possibly	51	100
+possibly	0	100
+possibly	32	76
+possibly	6	94
+possibly	24	71
+possibly	64	100
+possibly	76	100
+possibly	0	62
+possibly	0	56
+possibly	0	46
+possibly	0	53
+possibly	0	78
+possibly	41	68
+possibly	0	68
+possibly	0	66
+possibly	49	49
+possibly	40	100
+possibly	48	100
+possibly	53	62
+possibly	7	100
+possibly	0	51
+possibly	22	61
+possibly	27	63
+possibly	51	56
+possibly	51	71
+possibly	43	100
+possibly	58	100
+possibly	17	78
+possibly	0	79
+possibly	72	89
+possibly	57	64
+possibly	49	77
+possibly	50	53
+possibly	38	74
+possibly	38	67
+possibly	33	64
+possibly	0	60
+possibly	0	100
+possibly	55	100
+possibly	21	77
+possibly	19	78
+possibly	73	79
+possibly	26	78
+possibly	30	64
+possibly	0	100
+possibly but it's doubtful	4	40
+possibly but it's doubtful	49	100
+possibly but it's doubtful	32	47
+possibly but it's doubtful	0	58
+possibly but it's doubtful	14	100
+possibly but it's doubtful	3	37
+possibly but it's doubtful	27	100
+possibly but it's doubtful	0	69
+possibly but it's doubtful	31	100
+possibly but it's doubtful	42	100
+possibly but it's doubtful	30	61
+possibly but it's doubtful	0	59
+possibly but it's doubtful	0	50
+possibly but it's doubtful	0	73
+possibly but it's doubtful	17	40
+possibly but it's doubtful	0	14
+possibly but it's doubtful	20	48
+possibly but it's doubtful	0	10
+possibly but it's doubtful	0	19
+possibly but it's doubtful	9	100
+possibly but it's doubtful	0	50
+possibly but it's doubtful	9	100
+possibly but it's doubtful	18	61
+possibly but it's doubtful	22	22
+possibly but it's doubtful	13	100
+possibly but it's doubtful	23	32
+possibly but it's doubtful	19	63
+possibly but it's doubtful	14	46
+possibly but it's doubtful	63	100
+possibly but it's doubtful	5	100
+possibly but it's doubtful	32	48
+possibly but it's doubtful	15	100
+possibly but it's doubtful	0	62
+possibly but it's doubtful	12	19
+possibly but it's doubtful	24	44
+possibly but it's doubtful	24	44
+possibly but it's doubtful	6	44
+possibly but it's doubtful	48	100
+possibly but it's doubtful	75	100
+possibly but it's doubtful	18	86
+possibly but it's doubtful	30	58
+possibly not	46	100
+possibly not	27	76
+possibly not	0	26
+possibly not	10	53
+possibly not	4	75
+possibly not	26	100
+possibly not	9	100
+possibly not	6	32
+possibly not	0	51
+possibly not	8	69
+possibly not	26	100
+possibly not	13	100
+possibly not	26	61
+possibly not	0	39
+possibly not	0	30
+possibly not	25	100
+possibly not	18	49
+possibly not	0	28
+possibly not	0	74
+possibly not	0	100
+possibly not	17	57
+possibly not	12	65
+possibly not	10	44
+possibly not	13	30
+possibly not	35	100
+possibly not	50	100
+possibly not	9	26
+possibly not	10	58
+possibly not	26	100
+possibly not	50	50
+possibly not	0	68
+possibly not	27	70
+possibly not	0	45
+possibly not	0	1
+possibly, yes	53	100
+possibly, yes	76	88
+possibly, yes	63	100
+possibly, yes	75	100
+possibly, yes	0	81
+possibly, yes	0	80
+possibly, yes	65	65
+possibly, yes	38	93
+possibly, yes	70	100
+possibly, yes	0	68
+possibly, yes	0	70
+possibly, yes	0	61
+possibly, yes	27	90
+possibly, yes	0	69
+possibly, yes	90	100
+possibly, yes	80	98
+possibly, yes	71	89
+possibly, yes	0	100
+possibly, yes	3	84
+possibly, yes	71	91
+possibly, yes	55	100
+possibly, yes	41	94
+possibly, yes	68	86
+possibly, yes	0	100
+possibly, yes	38	92
+possibly, yes	67	99
+possibly, yes	25	100
+probably	62	96
+probably	0	60
+probably	63	100
+probably	87	100
+probably	77	100
+probably	59	100
+probably	0	85
+probably	17	50
+probably	91	91
+probably	54	100
+probably	70	100
+probably	81	100
+probably	69	92
+probably	45	86
+probably	87	100
+probably	35	83
+probably	0	100
+probably	50	100
+probably	44	100
+probably	48	92
+probably	0	66
+probably	74	100
+probably	0	68
+probably	56	94
+probably	0	66
+probably	76	100
+probably	0	63
+probably	78	100
+probably	0	82
+probably	92	100
+probably	0	75
+probably	0	73
+probably	0	52
+probably	0	93
+probably	18	81
+probably	55	100
+probably	0	84
+probably	99	100
+probably	62	90
+probably	70	78
+probably	31	61
+probably	55	69
+probably	0	74
+probably	31	74
+probably	16	86
+probably	0	51
+probably	0	50
+probably	22	100
+probably	59	100
+probably	78	89
+probably	49	84
+probably	67	87
+probably	44	89
+probably	58	72
+probably	77	100
+probably	44	53
+probably	72	100
+probably	26	75
+probably	15	100
+probably	51	61
+probably	0	100
+probably	0	100
+probably	94	94
+probably	0	100
+probably not	6	47
+probably not	1	100
+probably not	51	100
+probably not	11	100
+probably not	0	58
+probably not	0	19
+probably not	0	31
+probably not	4	59
+probably not	16	100
+probably not	23	100
+probably not	8	41
+probably not	0	23
+probably not	0	7
+probably not	0	43
+probably not	0	88
+probably not	8	21
+probably not	19	19
+probably not	29	100
+probably not	1	58
+probably not	1	20
+probably not	7	31
+probably not	9	34
+probably not	12	81
+probably not	0	53
+rarely	6	14
+rarely	48	100
+rarely	0	12
+rarely	10	49
+rarely	6	100
+rarely	0	12
+rarely	6	100
+rarely	0	14
+rarely	15	100
+rarely	0	16
+rarely	0	39
+rarely	12	100
+rarely	25	100
+rarely	0	17
+rarely	23	100
+rarely	0	44
+rarely	0	23
+rarely	1	21
+rarely	0	9
+rarely	0	13
+rarely	22	75
+rarely	5	23
+rarely	16	45
+sometimes	65	100
+sometimes	47	100
+sometimes	54	100
+sometimes	44	84
+sometimes	37	100
+sometimes	0	55
+sometimes	52	100
+sometimes	30	69
+sometimes	52	100
+sometimes	69	100
+sometimes	35	62
+sometimes	68	100
+sometimes	0	57
+sometimes	0	62
+sometimes	46	100
+sometimes	0	47
+sometimes	0	52
+sometimes	28	75
+sometimes	0	52
+sometimes	49	100
+sometimes	52	100
+sometimes	19	80
+sometimes	1	100
+sometimes	34	100
+sometimes	45	51
+sometimes	54	100
+sometimes	26	100
+sometimes	52	52
+sometimes	51	100
+sometimes	100	100
+sometimes	0	71
+sometimes	0	48
+sometimes	82	100
+sometimes	0	51
+sometimes	36	100
+sometimes	0	53
+sometimes	0	53
+sometimes	0	47
+sometimes	30	66
+sometimes	49	80
+sometimes	50	100
+sometimes	50	100
+sometimes	39	60
+sometimes	49	70
+sometimes	46	46
+sometimes	20	78
+sometimes	20	73
+sometimes	47	49
+sometimes	0	55
+sometimes	40	58
+sometimes	43	90
+sometimes	35	64
+sometimes	35	64
+sometimes	40	45
+sometimes	51	82
+sometimes	37	57
+sometimes	68	76
+sometimes	49	55
+sometimes	5	86
+sometimes	0	100
+sometimes	27	71
+sometimes	0	86
+sort of	47	100
+sort of	30	83
+sort of	70	100
+sort of	40	87
+sort of	46	100
+sort of	42	100
+sort of	0	64
+sort of	26	72
+sort of	0	68
+sort of	54	100
+sort of	0	45
+sort of	34	94
+sort of	24	93
+sort of	22	100
+sort of	11	86
+sort of	28	88
+sort of	50	100
+sort of	0	56
+sort of	0	54
+sort of	58	100
+sort of	31	72
+sort of	0	52
+sort of	49	82
+sort of	20	79
+sort of	53	71
+sort of	0	45
+sort of	81	100
+sort of	0	47
+sort of	0	51
+sort of	34	89
+sort of	0	51
+sort of	0	52
+sort of	0	81
+sort of	0	70
+sort of	22	65
+sort of	46	100
+sort of	49	100
+sort of	48	100
+sort of	0	69
+sort of	18	82
+sort of	22	80
+sort of	48	100
+sort of	55	80
+sort of	15	86
+sort of	43	44
+sort of	38	100
+sort of	0	52
+sort of	63	87
+sort of	57	78
+sort of	57	87
+sort of	51	100
+sort of	13	69
+sort of	7	84
+sort of	33	100
+sort of	0	100
+sort of	63	85
+that's a hard one... I guess not really	84	100
+that's a hard one... I guess not really	0	20
+that's a hard one... I guess not really	34	100
+that's a hard one... I guess not really	0	33
+that's a hard one... I guess not really	8	47
+that's a hard one... I guess not really	0	17
+that's a hard one... I guess not really	0	38
+that's a hard one... I guess not really	15	52
+that's a hard one... I guess not really	20	67
+that's a hard one... I guess not really	3	8
+that's a hard one... I guess not really	24	100
+that's a hard one... I guess not really	17	100
+that's a hard one... I guess not really	0	45
+that's a hard one... I guess not really	16	50
+that's a hard one... I guess not really	9	32
+that's a hard one... I guess not really	0	42
+that's a hard one... I guess not really	6	100
+that's a hard one... I guess not really	0	34
+that's a hard one... I guess not really	20	100
+that's a hard one... I guess not really	13	23
+that's a hard one... I guess not really	28	28
+that's a hard one... I guess not really	1	100
+that's a hard one... I guess not really	28	92
+that's a hard one... I guess not really	23	36
+that's a hard one... I guess not really	0	56
+that's a hard one... I guess not really	38	40
+that's a hard one... I guess not really	15	38
+that's a hard one... I guess not really	9	44
+that's a hard one... I guess not really	28	39
+that's a hard one... I guess not really	36	42
+that's a hard one... I guess not really	28	28
+that's a hard one... I guess not really	29	29
+that's a hard one... I guess not really	42	100
+Uhm not necessarily	7	46
+Uhm not necessarily	40	51
+Uhm not necessarily	21	100
+Uhm not necessarily	28	28
+Uhm not necessarily	18	100
+Uhm not necessarily	0	72
+Uhm not necessarily	14	42
+Uhm not necessarily	42	51
+Uhm not necessarily	19	82
+Uhm not necessarily	30	100
+Uhm not necessarily	0	18
+Uhm not necessarily	50	100
+Uhm not necessarily	29	100
+Uhm not necessarily	0	0
+Uhm not necessarily	47	100
+Uhm not necessarily	43	100
+Uhm not necessarily	4	13
+Uhm not necessarily	28	100
+Uhm not necessarily	0	81
+Uhm not necessarily	0	38
+Uhm not necessarily	8	8
+Uhm not necessarily	19	100
+Uhm not necessarily	32	57
+Uhm not necessarily	3	15
+Uhm not necessarily	28	100
+Uhm not necessarily	4	15
+Uhm not necessarily	2	51
+Uhm not necessarily	10	27
+Uhm not necessarily	23	74
+Uhm not necessarily	4	37
+Uhm not necessarily	33	100
+Uhm not necessarily	21	21
+Uhm not necessarily	11	84
+Uhm not necessarily	22	62
+usually	0	68
+usually	52	100
+usually	79	95
+usually	0	52
+usually	54	80
+usually	61	100
+usually	83	100
+usually	29	94
+usually	15	84
+usually	55	100
+usually	81	100
+usually	0	88
+usually	0	68
+usually	83	93
+usually	0	92
+usually	68	100
+usually	82	100
+usually	64	90
+usually	72	89
+usually	17	84
+usually	48	91
+usually	72	100
+usually	76	100
+usually	0	63
+usually	69	100
+usually	47	90
+usually	27	100
+usually	0	77
+usually	73	100
+usually	65	100
+usually	0	74
+usually	0	67
+usually	0	72
+usually	0	78
+usually	0	62
+usually	42	100
+usually	0	94
+usually	0	93
+usually	0	88
+usually	85	96
+usually	76	100
+usually	0	100
+usually	48	86
+usually	83	100
+usually	13	81
+usually	72	100
+usually	64	80
+usually	38	81
+usually	44	100
+usually	66	74
+usually	38	75
+usually	19	87
+usually	25	86
+usually	67	91
+usually	62	86
+usually	49	100
+usually	83	83
+usually	85	100
+usually	45	96
+usually	26	34
+usually	6	73
+usually not	7	67
+usually not	0	21
+usually not	0	49
+usually not	12	50
+usually not	17	17
+usually not	1	100
+usually not	6	100
+usually not	1	37
+usually not	0	37
+usually not	6	22
+usually not	0	41
+usually not	11	100
+usually not	17	100
+usually not	20	25
+usually not	4	32
+usually not	25	77
+usually not	0	11
+usually not	0	55
+usually not	9	9
+usually not	0	15
+usually not	0	100
+usually not	17	17
+usually not	11	54
+usually not	12	39
+usually not	16	16
+usually not	0	64
+usually not	27	89
+usually, yes	0	55
+usually, yes	52	83
+usually, yes	81	100
+usually, yes	90	100
+usually, yes	0	80
+usually, yes	57	97
+usually, yes	65	93
+usually, yes	54	100
+usually, yes	69	74
+usually, yes	98	100
+usually, yes	84	100
+usually, yes	0	96
+usually, yes	0	48
+usually, yes	0	85
+usually, yes	0	88
+usually, yes	0	77
+usually, yes	60	80
+usually, yes	42	100
+usually, yes	0	92
+usually, yes	46	100
+usually, yes	37	100
+usually, yes	85	85
+usually, yes	77	91
+usually, yes	93	100
+usually, yes	43	100
+usually, yes	22	59
+usually, yes	0	94
+usually, yes	85	100
+usually, yes	82	96
+usually, yes	52	99
+usually, yes	67	96
+usually, yes	57	87
+usually, yes	12	54
+usually, yes	82	85
+usually, yes	57	92
+usually, yes	63	100
+yea	74	100
+yea	0	100
+yea	0	100
+yea	100	100
+yea	69	93
+yea	0	100
+yea	85	100
+yea	0	99
+yea	95	100
+yea	0	56
+yea	54	100
+yea	91	100
+yea	89	100
+yea	97	100
+yea	0	100
+yea	72	100
+yea	20	66
+yea	100	100
+yea	0	99
+yea	20	100
+yea	75	100
+yea	41	57
+yea	100	100
+yea	0	97
+yea	75	100
+yea	100	100
+yea	93	93
+yea	5	17
+yea	50	83
+yea	87	100
+yea	92	99
+yea	54	79
+yea	69	100
+yea	100	100
+yea	94	100
+yea	80	100
+yea	89	89
+yep	0	88
+yep	81	100
+yep	3	96
+yep	0	98
+yep	0	11
+yep	77	100
+yep	99	100
+yep	100	100
+yep	67	100
+yep	95	100
+yep	93	100
+yep	0	100
+yep	0	100
+yep	93	100
+yep	100	100
+yep	0	90
+yep	87	96
+yep	100	100
+yep	30	100
+yep	81	100
+yes	100	100
+yes	100	100
+yes	81	100
+yes	100	100
+yes	0	100
+yes	100	100
+yes	0	100
+yes	100	100
+yes	96	100
+yes	0	100
+yes	100	100
+yes	0	45
+yes	100	100
+yes	100	100
+yes	0	96
+yes	0	3
+yes	100	100
+yes	0	94
+yes	100	100
+yes	93	93
+yes	100	100
+yes	95	100
+yes	100	100
+yes	47	100
+yes	100	100
+yes	0	100
+yes	100	100
+yes	99	100
+yes	0	98
+yes	99	100
+yes	100	100
+yes	68	68
+yes	100	100
+yes	0	100
+yes	100	100
+yes	0	100
+yes	100	100
+yes	47	100
+yes	0	100
+yes	0	95
+yes	100	100
+yes	0	100
+yes	0	100
+yes	0	100
+yes	100	100
+yes	85	100
+yes	93	100
+yes	100	100
+yes	92	100
+yes	99	100
+yes	49	100
+yes	100	100
+yes	96	100
+yes	90	100
+yes	0	97
+yes	100	100
+yes	96	100
+yes	100	100
+yes	100	100
+yes	90	97
+yes	100	100
+yes	87	97
+yes	94	100
+yes	100	100
+yes	93	100
+yes	100	100
+yes	46	100
+yes	79	99
+yes	100	100
+yes at least possibly	38	95
+yes at least possibly	49	100
+yes at least possibly	71	71
+yes at least possibly	55	100
+yes at least possibly	24	100
+yes at least possibly	0	64
+yes at least possibly	61	96
+yes at least possibly	38	85
+yes at least possibly	62	100
+yes at least possibly	70	100
+yes at least possibly	63	100
+yes at least possibly	24	100
+yes at least possibly	57	57
+yes at least possibly	54	93
+yes at least possibly	0	80
+yes at least possibly	0	62
+yes at least possibly	0	62
+yes at least possibly	47	100
+yes at least possibly	0	22
+yes at least possibly	25	100
+yes at least possibly	84	100
+yes at least possibly	78	88
+yes at least possibly	43	71
+yes at least possibly	44	100
+yes at least possibly	69	91
+yes at least possibly	16	100
+yes at least possibly	81	94
+yes at least possibly	44	56
+yes at least possibly	0	94
+yes at least possibly	0	87
+yes at least possibly	74	100
+yes at least possibly	65	86
+yes at least possibly	50	100
+yes at least possibly	17	21
+yes at least possibly	66	91
+yes at least possibly	35	100
+yes at least possibly	71	71
+yes at least possibly	24	91
+yes but not necessarily	77	100
+yes but not necessarily	18	100
+yes but not necessarily	77	100
+yes but not necessarily	45	91
+yes but not necessarily	34	100
+yes but not necessarily	46	82
+yes but not necessarily	84	100
+yes but not necessarily	0	53
+yes but not necessarily	56	100
+yes but not necessarily	0	100
+yes but not necessarily	36	93
+yes but not necessarily	0	61
+yes but not necessarily	59	59
+yes but not necessarily	24	88
+yes but not necessarily	0	70
+yes but not necessarily	0	83
+yes but not necessarily	0	17
+yes but not necessarily	61	78
+yes but not necessarily	68	85
+yes but not necessarily	0	68
+yes but not necessarily	64	76
+yes but not necessarily	24	100
+yes but not necessarily	0	79
+yes but not necessarily	62	76
+yes but not necessarily	0	88
+yes but not necessarily	51	100
+yes but not necessarily	78	100
+yes but not necessarily	0	70
+yes but not necessarily	46	100
+yes but not necessarily	19	21
+yes but not necessarily	58	94
+yes but not necessarily	39	89
+yes but not necessarily	34	83
+yes but not necessarily	35	41
+yes but not necessarily	39	39
+yes but not necessarily	40	88
+yes but not necessarily	31	76
+yes but not necessarily	31	69
+yes but not necessarily	29	71
+yes but not necessarily	61	100
+yes but not necessarily	47	100
+yes definitely	0	100
+yes definitely	100	100
+yes definitely	93	100
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	60	100
+yes definitely	100	100
+yes definitely	0	99
+yes definitely	0	100
+yes definitely	61	100
+yes definitely	100	100
+yes definitely	0	100
+yes definitely	0	100
+yes definitely	0	98
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	0	100
+yes definitely	89	100
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	99	100
+yes definitely	94	100
+yes definitely	85	100
+yes definitely	94	100
+yes definitely	90	98
+yes definitely	100	100
+yes definitely	93	100
+yes definitely	90	96
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	100	100
+yes definitely	25	100
+yes definitely	92	100
+yes definitely	75	100
+yes I suppose	62	100
+yes I suppose	73	87
+yes I suppose	84	100
+yes I suppose	80	100
+yes I suppose	92	100
+yes I suppose	62	92
+yes I suppose	77	93
+yes I suppose	79	100
+yes I suppose	76	100
+yes I suppose	0	60
+yes I suppose	74	74
+yes I suppose	28	100
+yes I suppose	0	84
+yes I suppose	87	100
+yes I suppose	0	64
+yes I suppose	61	100
+yes I suppose	0	67
+yes I suppose	100	100
+yes I suppose	0	60
+yes I suppose	100	100
+yes I suppose	19	100
+yes I suppose	2	78
+yes I suppose	71	100
+yes I suppose	41	73
+yes I suppose	73	98
+yes I suppose	71	100
+yes I suppose	87	87
+yes I suppose	58	100
+yes I suppose	69	75
+yes I suppose	39	95
+yes I suppose	70	100
+yes i would assume so yes 	89	100
+yes i would assume so yes 	88	100
+yes i would assume so yes 	20	89
+yes i would assume so yes 	0	89
+yes i would assume so yes 	94	94
+yes i would assume so yes 	42	85
+yes i would assume so yes 	73	100
+yes i would assume so yes 	0	50
+yes i would assume so yes 	19	100
+yes i would assume so yes 	82	94
+yes i would assume so yes 	75	100
+yes i would assume so yes 	0	62
+yes i would assume so yes 	86	100
+yes i would assume so yes 	83	100
+yes i would assume so yes 	0	86
+yes i would assume so yes 	100	100
+yes i would assume so yes 	0	26
+yes i would assume so yes 	0	91
+yes i would assume so yes 	25	100
+yes i would assume so yes 	72	87
+yes i would assume so yes 	0	100
+yes i would assume so yes 	0	86
+yes i would assume so yes 	59	100
+yes i would assume so yes 	50	88
+yes i would assume so yes 	94	99
+yes i would assume so yes 	36	100
+yes i would assume so yes 	100	100
+yes i would assume so yes 	80	100
+yes i would assume so yes 	82	100
+yes i would assume so yes 	0	60
+yes i would assume so yes 	87	97
+yes i would assume so yes 	52	88
+yes i would assume so yes 	45	89
+yes i would assume so yes 	35	83
+yes i would assume so yes 	87	100
+yes i would assume so yes 	62	69
+yes i would assume so yes 	66	100
+yes i would assume so yes 	47	100
+yes i would assume so yes 	100	100
+yes in general	77	92
+yes in general	69	98
+yes in general	0	85
+yes in general	92	100
+yes in general	89	100
+yes in general	89	100
+yes in general	0	93
+yes in general	90	100
+yes in general	49	100
+yes in general	84	100
+yes in general	81	100
+yes in general	65	100
+yes in general	86	100
+yes in general	77	100
+yes in general	100	100
+yes in general	0	9
+yes in general	0	88
+yes in general	12	100
+yes in general	91	100
+yes in general	0	94
+yes in general	100	100
+yes in general	92	100
+yes in general	68	89
+yes in general	80	89
+yes in general	75	100
+yes in general	37	83
+yes in general	86	100
+yes in general	78	88
+yes in general	68	92
+yes in general	73	96
+yes in general	56	85
+yes in general	88	88
+yes in general	100	100
+yes it can be	79	100
+yes it can be	79	100
+yes it can be	82	82
+yes it can be	0	93
+yes it can be	49	100
+yes it can be	78	100
+yes it can be	79	95
+yes it can be	24	100
+yes it can be	0	81
+yes it can be	0	83
+yes it can be	0	72
+yes it can be	0	97
+yes it can be	90	100
+yes it can be	48	100
+yes it can be	91	91
+yes it can be	0	93
+yes it can be	0	92
+yes it can be	50	94
+yes it can be	47	75
+yes it can be	80	89
+yes it can be	0	99
+yes it can be	99	99
+yes it can be	11	58
+yes it can be	78	100
+yes it can be	44	96
+yes it can be	88	88
+yes it can be	31	74
+yes it can be	58	91
+yes it can be	24	57
+yes it can be	89	100
+yes it can be	63	100
+yes it can be	26	100
+yes it can be	33	57
+yes it can be	0	100
+yes to some extent	62	100
+yes to some extent	46	100
+yes to some extent	62	100
+yes to some extent	60	93
+yes to some extent	0	58
+yes to some extent	55	100
+yes to some extent	69	100
+yes to some extent	35	100
+yes to some extent	70	100
+yes to some extent	0	69
+yes to some extent	82	100
+yes to some extent	0	59
+yes to some extent	37	100
+yes to some extent	0	84
+yes to some extent	54	89
+yes to some extent	95	100
+yes to some extent	0	62
+yes to some extent	0	85
+yes to some extent	53	81
+yes to some extent	92	92
+yes to some extent	0	77
+yes to some extent	65	88
+yes to some extent	67	85
+yes to some extent	62	78
+yes to some extent	61	78
+yes to some extent	48	100
+yes to some extent	84	92
+yes to some extent	0	47
+yes to some extent	80	100
+yes to some extent	87	100
+yes to some extent	59	100
+yes to some extent	56	98
+yes to some extent	81	82
+yes to some extent	76	96
+yes to some extent	32	100
+yes to some extent	8	67
+yes to some extent	49	89
+yes to some extent	0	7
+yes usually	22	85
+yes usually	89	100
+yes usually	32	100
+yes usually	0	84
+yes usually	90	100
+yes usually	31	100
+yes usually	85	100
+yes usually	72	100
+yes usually	0	84
+yes usually	88	100
+yes usually	70	100
+yes usually	91	100
+yes usually	32	91
+yes usually	32	91
+yes usually	85	100
+yes usually	64	92
+yes usually	100	100
+yes usually	0	84
+yes usually	83	100
+yes usually	0	93
+yes usually	0	82
+yes usually	0	47
+yes usually	72	100
+yes usually	74	100
+yes usually	77	91
+yes usually	39	64
+yes usually	45	95
+yes usually	84	100
+yes usually	88	88
+yes usually	80	87
+yes usually	41	93
+yes usually	57	91
+yes usually	35	86
+yes usually	65	87
+yes usually	20	100
+yes!	100	100
+yes!	8	26
+yes!	94	100
+yes!	91	100
+yes!	0	99
+yes!	92	100
+yes!	100	100
+yes!	0	97
+yes!	100	100
+yes!	93	100
+yes!	94	100
+yes!	100	100
+yes!	100	100
+yes!	100	100
+yes!	98	100
+yes!	91	100
+yes!	100	100
+yes!	100	100
+yes!	0	97
+yes!	100	100
+yes!	100	100
+yes!	100	100
+yes!	100	100
+yes!	0	100
+yes!	89	100
+yes!	86	100
+yes!	85	100
+yes!	0	95
+yes!	100	100
+yes!	100	100
+yes!	89	100
+yes!	84	100
+yes!	0	100
+yes!	92	100
+yes!	0	100
+yes!	47	71
+yes!	0	100
+yes!!	100	100
+yes!!	0	74
+yes!!	0	100
+yes!!	100	100
+yes!!	100	100
+yes!!	100	100
+yes!!	100	100
+yes!!	100	100
+yes!!	93	100
+yes!!	47	100
+yes!!	0	97
+yes!!	94	100
+yes!!	93	100
+yes!!	100	100
+yes!!	100	100
+yes!!	100	100
+yes!!	0	100
+yes!!	79	100
+yes!!	100	100
+yes!!	0	100
+yes!!	0	100
+yes!!	0	100
+yes!!	100	100
+yes!!	80	100
+yes!!	100	100
+yes!!	0	96
+yes!!	93	100
+yes!!	0	100
+yes!!	100	100
+yes!!	3	9
+yes!!	97	100
+yes!!	95	100
+yes!!	98	100
+yes!!	90	100
+yes!!	100	100
+yes!!	100	100
+yes!!	100	100
+yes!!	88	100
+yes!!	91	100
+yes!!	95	100
+yes!!	62	100
+yes!!!	100	100
+yes!!!	70	100
+YES!!!	100	100
+yes!!!	100	100
+YES!!!	98	100
+yes!!!	100	100
+yes!!!	100	100
+yes!!!	100	100
+YES!!!	0	100
+yes!!!	100	100
+YES!!!	100	100
+YES!!!	96	100
+YES!!!	100	100
+YES!!!	93	100
+yes!!!	100	100
+YES!!!	100	100
+YES!!!	100	100
+YES!!!	0	100
+yes!!!	100	100
+yes!!!	100	100
+YES!!!	0	100
+YES!!!	100	100
+YES!!!	93	100
+yes!!!	0	100
+YES!!!	0	100
+yes!!!	89	96
+YES!!!	100	100
+yes!!!	100	100
+yes!!!	0	96
+YES!!!	0	100
+YES!!!	89	99
+yes!!!	94	100
+YES!!!	94	100
+YES!!!	100	100
+YES!!!	100	100
+yes!!!	100	100
+YES!!!	99	100
+yes!!!	0	100
+YES!!!	100	100
+YES!!!	0	96
+YES!!!	100	100
+YES!!!	0	100
+yes!!!	0	100
+yes!!!	81	100
+YES!!!	100	100
+yes!!!	100	100
+YES!!!	92	100
+yes!!!	89	96
+YES!!!	100	100
+yes!!!	100	100
+yes!!!	100	100
+yes!!!	88	100
+YES!!!	93	100
+yes!!!	100	100
+yes!!!	100	100
+YES!!!	99	100
+YES!!!	100	100
+yes, definitely	0	100
+yes, definitely	86	100
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	0	96
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	95	100
+yes, definitely	96	100
+yes, definitely	65	100
+yes, definitely	95	96
+yes, definitely	92	100
+yes, definitely	100	100
+yes, definitely	0	33
+yes, definitely	100	100
+yes, definitely	0	100
+yes, definitely	0	100
+yes, definitely	0	100
+yes, definitely	0	94
+yes, definitely	94	100
+yes, definitely	0	96
+yes, definitely	32	100
+yes, definitely	100	100
+yes, definitely	5	13
+yes, definitely	0	96
+yes, definitely	0	100
+yes, definitely	100	100
+yes, definitely	23	92
+yes, definitely	100	100
+yes, definitely	89	100
+yes, definitely	100	100
+yes, definitely	100	100
+yes, definitely	94	99
+yes, definitely	64	98
+yes, definitely	0	100
+yes, definitely	100	100
+yes, I think so	54	100
+yes, I think so	69	100
+yes, I think so	71	100
+yes, I think so	89	100
+yes, I think so	21	100
+yes, I think so	55	100
+yes, I think so	81	100
+yes, I think so	73	100
+yes, I think so	65	65
+yes, I think so	74	93
+yes, I think so	100	100
+yes, I think so	0	65
+yes, I think so	0	81
+yes, I think so	0	77
+yes, I think so	0	99
+yes, I think so	0	85
+yes, I think so	88	96
+yes, I think so	62	100
+yes, I think so	71	93
+yes, I think so	0	84
+yes, I think so	0	78
+yes, I think so	66	100
+yes, I think so	32	94
+yes, I think so	65	100
+yes, I think so	6	67
+yes, I think so	27	78
+yes, I think so	45	100
+yes, in general	80	100
+yes, in general	0	74
+yes, in general	0	93
+yes, in general	78	100
+yes, in general	88	100
+yes, in general	59	97
+yes, in general	50	100
+yes, in general	74	95
+yes, in general	84	100
+yes, in general	65	65
+yes, in general	100	100
+yes, in general	18	61
+yes, in general	85	100
+yes, in general	0	78
+yes, in general	12	100
+yes, in general	0	88
+yes, in general	44	100
+yes, in general	90	100
+yes, in general	0	88
+yes, in general	87	100
+yes, in general	88	96
+yes, in general	96	100
+yes, in general	18	100
+yes, in general	81	81
+yes, in general	70	84
+yes, in general	26	61
+yes, in general	0	63
+yes, in general	66	100
+yes, in general	58	93
+yes, in general	65	95
+yes, in general	65	95
+yes, in general	33	94
+yes, in general	55	100
+yes, in general	71	100
+yes, in general	90	90
+yes, in general	57	57
+yes, in general	16	86
+yes, in general	76	76
+yes, in general	49	100
+yes, in general	40	100
+yes, it can be	0	61
+yes, it can be	17	91
+yes, it can be	67	90
+yes, it can be	62	100
+yes, it can be	0	80
+yes, it can be	90	90
+yes, it can be	74	100
+yes, it can be	65	93
+yes, it can be	0	79
+yes, it can be	80	80
+yes, it can be	0	83
+yes, it can be	22	100
+yes, it can be	0	77
+yes, it can be	78	98
+yes, it can be	22	74
+yes, it can be	81	100
+yes, it can be	54	100
+yes, it can be	36	76
+yes, it can be	84	93
+yes, it can be	48	90
+yes, it can be	42	88
+yes, it can be	65	100
+yes, it can be	43	100
+yes, it can be	83	100
+yes, it can be	100	100
+yes, it can be	58	58
+yes, it can be	44	87
+yes, it can be	0	74
+yes, it can be	60	94
+yes, it could	96	100
+yes, it could	0	57
+yes, it could	44	100
+yes, it could	84	100
+yes, it could	54	84
+yes, it could	0	100
+yes, it could	63	93
+yes, it could	0	68
+yes, it could	26	100
+yes, it could	84	100
+yes, it could	70	100
+yes, it could	20	100
+yes, it could	31	96
+yes, it could	95	100
+yes, it could	0	51
+yes, it could	0	75
+yes, it could	76	100
+yes, it could	54	95
+yes, it could	0	81
+yes, it could	100	100
+yes, it could	0	78
+yes, it could	32	67
+yes, it could	0	80
+yes, it could	95	98
+yes, it could	0	63
+yes, it could	0	80
+yes, it could	33	100
+yes, it could	68	99
+yes, it could	0	72
+yes, it could	62	89
+yes, it could	65	84
+yes, it could	79	90
+yes, it could	73	100
+yes, it could	0	88
+yes, it could	0	75
+yes, it could	80	100
+yes, it could	27	76
+yes, it could	81	90
+yes, it could	51	100
+yes, it could	0	72
+yes, it could	35	83
+yes, it could	67	100
+yes, it could	49	97
+yes, it could	0	100
+yes, it could	15	100
+yes, it could	71	100
+yes, it is possible	65	100
+yes, it is possible	23	58
+yes, it is possible	94	94
+yes, it is possible	0	45
+yes, it is possible	68	100
+yes, it is possible	71	100
+yes, it is possible	0	100
+yes, it is possible	93	100
+yes, it is possible	0	100
+yes, it is possible	74	100
+yes, it is possible	83	100
+yes, it is possible	55	100
+yes, it is possible	48	100
+yes, it is possible	99	100
+yes, it is possible	0	89
+yes, it is possible	67	100
+yes, it is possible	12	87
+yes, it is possible	0	90
+yes, it is possible	100	100
+yes, it is possible	71	100
+yes, it is possible	87	95
+yes, it is possible	0	85
+yes, it is possible	84	96
+yes, it is possible	26	100
+yes, it is possible	87	100
+yes, it is possible	66	78
+yes, it is possible	0	98
+yes, it is possible	81	84
+yes, it is possible	74	100
+yes, it is possible	50	99
+yes, it is possible	89	89
+yes, it is possible	48	95
+yes, it is possible	31	75
+yes, it is possible	36	100
+yes, it is possible	80	100
+yes, it is possible	30	88
+yes, it is possible	51	100
+yes, it is possible	0	100
+yes, that's right	100	100
+yes, that's right	60	100
+yes, that's right	100	100
+yes, that's right	43	50
+yes, that's right	78	100
+yes, that's right	100	100
+yes, that's right	93	100
+yes, that's right	100	100
+yes, that's right	100	100
+yes, that's right	42	100
+yes, that's right	83	100
+yes, that's right	77	100
+yes, that's right	0	91
+yes, that's right	100	100
+yes, that's right	0	96
+yes, that's right	0	97
+yes, that's right	0	100
+yes, that's right	88	94
+yes, that's right	9	100
+yes, that's right	6	24
+yes, that's right	75	100
+yes, that's right	99	99
+yes, that's right	93	100
+yes, that's right	100	100
+yes, that's right	90	96
+yes, that's right	22	95
+yes, that's right	77	97
+yes, that's right	100	100
+yes, that's right	100	100
+yes, that's right	96	100
+yes, that's right	100	100
+yes, that's right	84	100
+yes, very likely	0	72
+yes, very likely	92	100
+yes, very likely	0	100
+yes, very likely	95	100
+yes, very likely	95	95
+yes, very likely	91	100
+yes, very likely	85	100
+yes, very likely	83	100
+yes, very likely	83	100
+yes, very likely	100	100
+yes, very likely	40	90
+yes, very likely	91	100
+yes, very likely	72	100
+yes, very likely	0	100
+yes, very likely	0	91
+yes, very likely	0	64
+yes, very likely	100	100
+yes, very likely	0	89
+yes, very likely	91	100
+yes, very likely	99	100
+yes, very likely	0	96
+yes, very likely	0	97
+yes, very likely	0	97
+yes, very likely	91	98
+yes, very likely	93	100
+yes, very likely	78	78
+yes, very likely	0	89
+yes, very likely	87	96
+yes, very likely	69	93
+yes, very likely	45	97
+yes, very likely	64	100
+yes, very likely	95	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	0	100
+YESSSSS!!!!! :):)	88	100
+YESSSSS!!!!! :):)	99	100
+YESSSSS!!!!! :):)	0	96
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	0	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	91	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	0	100
+YESSSSS!!!!! :):)	93	100
+YESSSSS!!!!! :):)	95	100
+YESSSSS!!!!! :):)	96	96
+YESSSSS!!!!! :):)	95	100
+YESSSSS!!!!! :):)	99	100
+YESSSSS!!!!! :):)	2	7
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	80	100
+YESSSSS!!!!! :):)	96	100
+YESSSSS!!!!! :):)	94	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	45	92
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	94	100
+YESSSSS!!!!! :):)	100	100
+YESSSSS!!!!! :):)	100	100
+yup	74	100
+yup	92	98
+yup	89	100
+yup	100	100
+yup	46	100
+yup	100	100
+yup	100	100
+yup	89	100
+yup	83	100
+yup	86	100
+yup	0	83
+yup	88	100
+yup	0	96
+yup	0	100
+yup	0	95
+yup	86	100
+yup	0	96
+yup	100	100
+yup	95	95
+yup	0	97
+yup	100	100
+yup	48	88
+yup	45	100
+yup	48	100
+yup	0	88
+yup	72	100
+yup	0	98
+yup	94	100
+yup	85	100
+yup	93	100
+yup	86	100
+yup	86	100
+yup	97	99
+yup	35	90
+yup	100	100
+yup	87	88
+yup	95	100
+yup	0	100
+yup	0	100
+yup	77	83
