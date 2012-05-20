@@ -10,6 +10,7 @@
 #     for line in fh:
 #         print line.split("\t")[4]
 
+from __future__ import division
 from collections import defaultdict 
 import sys
 from scipy.stats import scoreatpercentile,nanmean,nanstd,t
@@ -17,7 +18,6 @@ import random
 from math import sqrt,log
 import fuzzyset as fs
 import matplotlib.pyplot as plt
-
 import numpy as np
 
 class IntervalApproachCwwEstimator(object):
@@ -375,10 +375,16 @@ class IntervalApproachCwwEstimator(object):
         (lower,upper) = zip(*t1fss)
         print t1fss
         middle = map(lambda d: (d[0]+d[1])/2,t1fss)
+        print "min(lower)=%f"%min(lower)
+        print "max(lower)=%f"%max(lower)
+        print "min(middle)=%f"%min(middle)
+        print "max(middle)=%f"%max(middle)
+        print "min(upper)=%f"%min(upper)
+        print "max(upper)=%f"%max(upper)
         #tmp = (min(upper)-min(middle))/(max(middle)-max(lower))
         #apex = (min(upper)+tmp*max(lower))/(1+tmp)
         if max(middle)-max(lower) + min(upper)-min(middle) == 0:
-            apex = max(middle)
+            apex = (max(middle) + min(middle))/2
         else:
             apex = ( min(upper)*(max(middle)-max(lower)) + 
                      max(lower)*(min(upper)-min(middle))   ) / \
@@ -390,8 +396,21 @@ class IntervalApproachCwwEstimator(object):
             height = 0
         else:
             height = (min(upper)-apex)/(min(upper)-min(middle))
+        try:
+            assert min(lower) <= min(middle) <= max(middle) <= max(upper) and height >= 0
+        except AssertionError:
+            print "caught assert error: from skipping reasonable interval processing"
+            #this is a hack: when reasonable interval processing fails, there
+            #is a possibility that the order of the max/min for upper and
+            #lower will overlap, so here we resort them
+            out = sorted([min(lower),max(lower), min(middle), max(middle), min(upper),max(upper),apex,apex])
+            height = 0
+            return (out[0],out[2],out[-3],out[-1],
+                    out[1],out[3],out[4],out[-2],height)
+
+
         return (min(lower), min(middle), max(middle), max(upper),
-                max(lower), apex, apex, max(upper), height)
+                max(lower), apex, apex, min(upper), height)
 
 
 

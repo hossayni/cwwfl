@@ -197,7 +197,7 @@ class TriangularMf(Mf):
         Mf.__init__(self,f=func)
 
     def __repr__(self): 
-        return "TriangularMf(%d,%d,%d)" % (self.a,
+        return "TriangularMf(%f,%f,%f)" % (self.a,
                                            self.b,
                                            self.c)
 
@@ -231,7 +231,7 @@ class TrapezoidalMf(Mf):
 
         
     def __repr__(self): 
-        return "TrapezoidalMf(%d,%d,%d,%d,%d)" % (self.a,
+        return "TrapezoidalMf(%f,%f,%f,%f,%f)" % (self.a,
                                                   self.b,
                                                   self.c,
                                                   self.d,
