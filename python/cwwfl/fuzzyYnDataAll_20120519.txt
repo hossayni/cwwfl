@@ -1998,7 +1998,6 @@ usually not	6	22
 usually not	0	41
 usually not	20	25
 usually not	4	32
-usually not	25	77
 usually not	0	11
 usually not	0	55
 usually not	9	9
@@ -2008,7 +2007,6 @@ usually not	11	54
 usually not	12	39
 usually not	16	16
 usually not	0	64
-usually not	27	89
 usually, yes	0	55
 usually, yes	52	83
 usually, yes	81	100

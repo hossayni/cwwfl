@@ -302,7 +302,7 @@ class IntervalApproachCwwEstimator(object):
 
         final = None
 
-        if True is True:
+        if plot is True:
             print "meanLower", meanLower, "meanUpper", meanUpper
             print "shift1", shift1, "shift2", shift2
             print "5.831*meanLower-shift1", 5.831*meanLower-shift1 
