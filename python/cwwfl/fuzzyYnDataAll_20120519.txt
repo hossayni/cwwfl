@@ -2266,13 +2266,10 @@ yes it can be	50	94
 yes it can be	47	75
 yes it can be	80	89
 yes it can be	99	99
-yes it can be	11	58
 yes it can be	44	96
 yes it can be	88	88
 yes it can be	31	74
 yes it can be	58	91
-yes it can be	24	57
-yes it can be	33	57
 yes to some extent	62	100
 yes to some extent	46	100
 yes to some extent	62	100

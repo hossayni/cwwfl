@@ -162,15 +162,80 @@ class TrapezoidalFs(RealDomainFs):
 # for now, they don't derive from fuzzy set, but IT2 FS's are composed of
 # trapezoidal FSs
 class intervalType2FS(object):
-    def __init__(self,umf=None,lmf=None):
+    def __init__(self,umf=None,lmf=None,r=(0,100)):
         self.umf = umf
         self.lmf = lmf
-        
+        self.r = r
+
     def __repr__(self):
         return "IntervalType2FS(umf=%s,lmf=%s)" % (self.umf,
                                                    self.lmf)
+    def __call__(self,i):
+        if type(i) is float or type(i) is int:
+            return (self.lmf(i),self.umf(i))
+        else:
+            print type(i)
+            raise NotImplementedError()
 
+    def centerOfMass(self):
+        step = (self.r[1]-self.r[0])/100
+        x = range(self.r[0],self.r[1]+step,step)
+        umf = map(self.umf,x)
+        lmf = map(self.lmf,x)
+        theta = map(lambda (l,u): (l+u)/2, zip(lmf,umf))
+        cprime = sum(map(lambda (w,p): w*p, zip(x,theta))) /  sum(theta) 
+        return cprime
 
+    def centroid(self):
+        step = (self.r[1]-self.r[0])/100
+        x = range(self.r[0],self.r[1]+step,step)
+        umf = map(self.umf,x)
+        lmf = map(self.lmf,x)
+        assert len(x) is not 0
+        #special case: lmf is zero
+        if max(lmf) == 0:
+            return (self.umf.a, self.umf.d)
+        #special case: x is singleton
+        if len(x) == 1:
+            return (x[0],x[0])
+        #calc c_u, the upper centroid value: see apendix in
+        # http://sipi.usc.edu/~mendel/publications/MendelWuINS2007.pdf
+        #step 1, initialize what is theta_i in the paper
+        theta = map(lambda (l,u): (l+u)/2, zip(lmf,umf))
+        cprime = sum(map(lambda (w,p): w*p, zip(x,theta))) /  sum(theta) 
+        #step 2-3, find k such that x_k <= cprime <= x_{k+1}
+        cprime2 = None
+        while True :
+            ind = filter(lambda i: x[i] <= cprime, xrange(len(x)))[0]
+            theta = map(lambda i: lmf[i] if i <= ind else umf[i],
+                        xrange(len(x)))
+            cprime2 = sum(map(lambda (w,p): w*p, zip(x,theta))) / sum(theta) 
+            if cprime == cprime2:
+                break
+            else:
+                cprime = cprime2
+
+            
+        c_u = cprime
+        #calc c_l, the upper centroid value:
+        #step 1, initialize what is theta_i in the paper
+        theta = map(lambda (l,u): (l+u)/2, zip(lmf,umf))
+        cprime = sum(map(lambda (w,p): w*p, zip(x,theta))) / sum(theta) 
+        #step 2-3, find k such that x_k <= cprime <= x_{k+1}
+        cprime2 = None
+        while True :
+            ind = filter(lambda i: x[i] <= cprime, xrange(len(x)))
+            theta = map(lambda i: umf[i] if i <= ind[0] else lmf[i],
+                        xrange(len(x)))
+            cprime2 = sum(map(lambda (w,p): w*p, zip(x,theta))) / sum(theta) 
+            if cprime == cprime2:
+                break
+            else:
+                cprime = cprime2
+        c_l = cprime
+        return tuple(sorted([c_l,c_u]))
+
+        
 
 class Mf(object):
     def __init__(self,f=None):
@@ -214,19 +279,13 @@ class TrapezoidalMf(Mf):
 
         def func(x):
             if x < a: return 0         # less than support
-            if a <= x <= b:            # on the rising side
-                if b-a ==0:
-                    return 0
-                else:
-                    return e/(b-a)*(x-a) 
+            if a <= x < b:            # on the rising side
+                return e/(b-a)*(x-a) 
             if b <= x <= c: return e   # on the top shelf, (e.g. next to patron silver j/k)
-            if c <= x <= d:            # on the decreasing side
-                if d-c==0:
-                    return 0
-                else:
-                    return e - e/(d-c)*(x-c) 
+            if c < x <= d:            # on the decreasing side
+                return e - e/(d-c)*(x-c) 
             if x > d: return 0         # greater than support
-            else: return Exception()
+            return Exception()
         Mf.__init__(self,f=func)
 
         
