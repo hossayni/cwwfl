@@ -318,7 +318,12 @@ class IntervalApproachCwwEstimator(object):
             plt.plot(x,x,color='black')
             plt.plot([meanLower],[meanUpper],'ro')
             plt.axis([self.r[0],self.r[1],self.r[0],self.r[1]])
+            plt.show()
         # Establish nature of FOU 
+        elif meanLower == self.r[0]:
+            return "lowerShoulder"
+        elif meanUpper == self.r[1]:
+            return "upperShoulder"
         if meanUpper >= 5.831*meanLower-shift1: #left/lower shoulder T1FS
             print meanUpper, .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2
             if meanUpper <= .829*(self.r[1]-self.r[0]) +0.171*meanLower-shift2:
@@ -445,6 +450,247 @@ class IntervalApproachCwwEstimator(object):
         print
         return 1
 
+
+class EnhancedIntervalApproachCwwEstimator(IntervalApproachCwwEstimator):
+    """ this class performs the enhansed interval approach as described in
+    http://www-scf.usc.edu/~dongruiw/files/Enhanced_Interval_Approach_for_Encoding_Words_into_Interval_Type-2_Fuzzy_Sets_and_Convergence_of_the_Word_FOUs.pdf
+
+    __call__ is the main function (it allows the object instance to be
+    "callable", while the other member functions perform the various
+    sub-steps, e.g., bad data processing, outlier processing, tolerance limit
+    processing, reasonable interval processing, admissible region
+    determination, establishing the nature of the footprint of uncertainty
+    (FOU), and computing the mathematical model for the FOU (the output) 
+
+    most of the methods are inherited from the normal
+    IntervalApproachCwwEstimator except the tolerance limit processing
+    reasonable interval processing
+
+    """
+
+
+
+    def outlierProcessing(self,data):
+        # Outlier processing in the EIA, limits are first
+        # performed for the upper and lower bounds, then afterward for the
+        # interval lengths (as opposed to all at once
+        (lower,upper) = zip(*data)
+        firstQuartileLower = scoreatpercentile(lower,25)
+        thirdQuartileLower = scoreatpercentile(lower,75)
+        interQtlRangeLower = thirdQuartileLower - firstQuartileLower
+        firstQuartileUpper = scoreatpercentile(upper,25)
+        thirdQuartileUpper = scoreatpercentile(upper,75)
+        interQtlRangeUpper = thirdQuartileUpper - firstQuartileUpper
+
+        acceptableLower = (firstQuartileLower-1.5*interQtlRangeLower,thirdQuartileLower+1.5*interQtlRangeLower)
+        acceptableUpper = (firstQuartileUpper-1.5*interQtlRangeUpper,thirdQuartileUpper+1.5*interQtlRangeUpper)
+        for (l,u) in data[:]:
+            try:
+                if not acceptableLower[0] <= l <= acceptableLower[1]:
+                    raise ValueError("Outlier: lower bound %s not in  %s" % (str(l), str(acceptableLower)),(l,u))
+                if not acceptableUpper[0] <= u <= acceptableUpper[1]:
+                    raise ValueError("Outlier: upper bound %s not in %s" % (str(u), str(acceptableUpper)),(l,u))
+            except ValueError as (e,d):
+                #print e
+                #print "Outlier: removing data point %s" % str(d)
+                data.remove(d)
+
+        print   len(data), "after outlier processing, part 1"
+        if len(data)==0: raise ValueError("No Remaining intervals")
+
+        intervalLengths = map(lambda x: x[1]-x[0], data)
+        (lower,upper) = zip(*data)
+        firstQuartileInterval = scoreatpercentile(intervalLengths,25)
+        thirdQuartileInterval = scoreatpercentile(intervalLengths,75)
+        interQtlRangeInterval = thirdQuartileInterval - firstQuartileInterval
+        interQtlRangeInterval = thirdQuartileInterval - firstQuartileInterval
+        acceptableInterval = (firstQuartileInterval-1.5*interQtlRangeInterval,thirdQuartileInterval+1.5*interQtlRangeInterval)
+        for (l,u) in data[:]:
+            try:
+                if not acceptableInterval[0] <= u-l <= acceptableInterval[1]:
+                    raise ValueError("Outlier: interval length %s not in %s" % (str(u-l), str(acceptableInterval)),(l,u))
+            except ValueError as (e,d):
+                #print e
+                #print "Outlier: removing data point %s" % str(d)
+                data.remove(d)
+        print   len(data), "after outlier processing, part 1"
+        if len(data)==0: raise ValueError("No Remaining intervals")
+
+
+    def toleranceLimitProcessing(self,data):
+        # Tolerance limit processing in the EIA, tolerance limits are first
+        # performed for the upper and lower bounds, then afterward for the
+        # interval lengths (as opposed to all at once
+
+        random.seed(1)
+        resampledData = [random.choice(data) for x in xrange(2000)]
+        (resampLower,resampUpper) = zip(*resampledData)
+        meanLower = nanmean(resampLower)
+        stdLower = nanstd(resampLower) * sqrt(len(data)) # *sqrt is to get population std from sample 
+        meanUpper = nanmean(resampUpper)
+        stdUpper = nanstd(resampUpper) * sqrt(len(data)) # ditto
+        K=[32.019, 32.019, 8.380, 5.369, 4.275, 3.712, 3.369, 3.136, 2.967, 2.839,
+           2.737, 2.655, 2.587, 2.529, 2.48, 2.437, 2.4, 2.366, 2.337, 2.31,
+           2.31, 2.31, 2.31, 2.31, 2.208] # taken from Liu/Mendel matlab code, in turn from Walpole,Myers,Myers,Ye2008
+        k = K[min(len(data),24)]
+        acceptableLower = (meanLower-k*stdLower, meanLower+k*stdLower)
+        acceptableUpper = (meanUpper-k*stdUpper, meanUpper+k*stdUpper)
+        for (l,u) in data[:]:
+            try:
+                if not acceptableLower[0] <= l <= acceptableLower[1]:
+                    raise ValueError("Intolerable: lower bound %s not in  %s" % (str(l), str(acceptableLower)),(l,u))
+                if not acceptableUpper[0] <= u <= acceptableUpper[1]:
+                    raise ValueError("Intolerable: upper bound %s not in %s" % (str(u), str(acceptableUpper)),(l,u))
+            except ValueError as (e,d):
+                #print e
+                #print "Intolerable: removing data point %s" % str(d)
+                data.remove(d)
+
+        print len(data), "after tolerance limit processing, part 1"
+        if len(data)==0: raise ValueError("No Remaining intervals")
+ 
+        resampledData = [random.choice(data) for x in xrange(2000)]
+        (resampLower,resampUpper) = zip(*resampledData)
+        resampInterval = map(lambda x: x[1]-x[0], resampledData)
+        meanInterval = nanmean(resampInterval)
+        stdInterval = nanstd(resampInterval) * sqrt(len(data)) # ditto
+        K=[32.019, 32.019, 8.380, 5.369, 4.275, 3.712, 3.369, 3.136, 2.967, 2.839,
+           2.737, 2.655, 2.587, 2.529, 2.48, 2.437, 2.4, 2.366, 2.337, 2.31,
+           2.31, 2.31, 2.31, 2.31, 2.208] # taken from Liu/Mendel matlab code, in turn from Walpole,Myers,Myers,Ye2008
+        k = K[min(len(data),24)]
+        acceptableInterval = (meanInterval-k*stdInterval, meanInterval+k*stdInterval)
+        for (l,u) in data[:]:
+            try:
+                if not acceptableInterval[0] <= u-l <= acceptableInterval[1]:
+                    raise ValueError("Intolerable: interval %s greater than %s" % (str(u-l), str(acceptableInterval)),(l,u))
+            except ValueError as (e,d):
+                #print e
+                #print "Intolerable: removing data point %s" % str(d)
+                data.remove(d)
+
+        print len(data), "after tolerance limit processing part 2"
+        if len(data)==0: raise ValueError("No Remaining intervals")
+
+    def reasonableIntervalProcessing(self,data):
+        databackup = data[:]   #keep backup in case all intervals are deleted
+        random.seed(1)
+        resampledData = [random.choice(data) for x in xrange(2000)]
+        (resampLower,resampUpper) = zip(*resampledData)
+        resampInterval = map(lambda x: x[1]-x[0], resampledData)
+        meanLower = nanmean(resampLower)
+        stdLower = nanstd(resampLower) * sqrt(len(data)) # it appears *sqrt is done to estimate population std from sample 
+        meanUpper = nanmean(resampUpper)
+        stdUpper = nanstd(resampUpper) * sqrt(len(data)) # ditto
+        meanInterval = nanmean(resampInterval)
+        stdInterval = nanstd(resampInterval) * sqrt(len(data)) # ditto
+        if stdLower+stdUpper==0:
+            barrier = (meanLower+meanUpper)/2
+            print "barrierAvg", barrier
+        elif stdLower == 0:
+            barrier = meanLower+.5
+            print "barrierlower", barrier
+        elif stdUpper == 0:
+            barrier = meanUpper-.5
+            print "barrierupper", barrier
+
+        else:
+            barrier1 = ( 
+                (meanUpper*stdLower**2-meanLower*stdUpper**2) 
+                 + stdLower*stdUpper*sqrt((meanLower-meanUpper)**2 + 2*(stdLower**2-stdUpper**2)*log(stdLower/stdUpper))
+                 ) /(stdLower**2-stdUpper**2)
+                                                                                        
+            barrier2 = ( 
+                (meanUpper*stdLower**2-meanLower*stdUpper**2) 
+                 - stdLower*stdUpper*sqrt((meanLower-meanUpper)**2 + 2*(stdLower**2-stdUpper**2)*log(stdLower/stdUpper))
+                 )/(stdLower**2-stdUpper**2)
+                                                 
+            
+            print "barrier1", barrier1
+            print "barrier2", barrier2
+            if barrier1 >= meanLower and barrier1 <= meanUpper:
+                barrier = barrier1
+                print "barrier1", barrier
+            #elif barrier2 >= meanLower and barrier1 <= meanUpper:
+            else:
+                barrier = barrier2
+                print "barrier2", barrier
+        for (l,u) in data[:]:
+            try:
+                #if l > barrier+(.1*stdLower) or u < barrier-(.1*stdUpper):
+                #if l > barrier+stdLower or u < barrier-stdUpper:
+                #if l > barrier and u < barrier:
+                #if l > barrier+(.001*stdLower) or u < barrier-(.001*stdUpper):
+                if not (2*meanLower - barrier) <= l <= barrier <= u <= (2*meanUpper- barrier):
+                    
+                    raise ValueError("Unreasonable: interval %s does not cross reasonable barrier  %s" % (str((l,u)), str(barrier)),(l,u))
+            except ValueError as (e,d):
+                #print e
+                #print "Unreasonable: removing data point %s" % str(d)
+                data.remove(d)
+
+        print len(data), "after reasonable interval processing"
+        #if len(data)==0: raise ValueError("No Remaining intervals")
+        if len(data) == 0:
+            print "no remaining intervals: skipping resonable interval processing"            
+            for d in databackup:
+                data.append(d)
+        
+    def interiorT1ListToInteriorIT2(self,t1fss):
+        assert len(t1fss) > 0
+        """From paper: Because in practice we usually have fewer than 100
+        such embedded T1 FSs and the EIA is used off-line, we use exhaustive
+        search to ﬁnd this apex, i.e., ﬁnd all possible intersections of
+        left legs with right legs and then choose the apex as the
+        intersection with the minimum height."""
+        #this is an approximation of that statment
+        #throw away singletons: don't make sense for an interior
+        t1fss = filter(lambda i: i[0]!=i[1], t1fss)
+
+        (lower,upper) = zip(*t1fss)
+        print t1fss
+        middle = map(lambda d: (d[0]+d[1])/2,t1fss)
+        print "min(lower)=%f"%min(lower)
+        print "max(lower)=%f"%max(lower)
+        print "min(middle)=%f"%min(middle)
+        print "max(middle)=%f"%max(middle)
+        print "min(upper)=%f"%min(upper)
+        print "max(upper)=%f"%max(upper)
+        #this is a hack: when reasonable interval processing fails, there
+        #is a possibility that the order of the max/min for upper and
+        #lower will overlap, so here we resort them
+        if max(lower) > min(upper):
+            out = sorted([min(lower),max(lower), min(middle), max(middle), min(upper),max(upper)])
+            apex = (out[2]+out[3])/2
+            height = 1 - (out[4]-out[1])/(out[3]-out[2])
+            height = max(height,0)
+            return (out[0],out[2],out[3],out[-1],
+                    out[1],apex,apex,out[-2],height)
+
+
+        #apex = (min(upper)+tmp*max(lower))/(1+tmp)
+
+        #find intervals with lowerbound == max(lower)
+        lcandidates = filter(lambda i: i[0] == max(lower),t1fss)
+        #find intervals with upperbound == min(upper)
+        ucandidates = filter(lambda i: i[1] == min(upper),t1fss)
+        print lcandidates
+        print ucandidates
+        lslopes = map(lambda i: 1/(i[1]-i[0])/2, lcandidates)
+        uslopes = map(lambda i: 1/(i[1]-i[0])/2, ucandidates)
+        lslopes.sort()
+        uslopes.sort()
+        apex = (max(lower)*lslopes[0] + min(upper)*uslopes[0])/(lslopes[0]+uslopes[0])
+        print "apex = ", apex
+        print (apex-max(lower))*lslopes[0]
+        print (min(upper)-apex)*uslopes[0]
+        assert abs( (apex-max(lower))*lslopes[0] - (min(upper)-apex)*uslopes[0]) < 0.000000000001
+        height = (apex-max(lower))*lslopes[0]
+        height = max(height,0)
+
+
+        
+        return (min(lower), min(middle), max(middle), max(upper),
+                max(lower), apex, apex, min(upper), height)
 
 ###########################################
 # Main
