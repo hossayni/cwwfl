@@ -17,6 +17,8 @@ import random
 from math import sqrt,log
 import fuzzyset as fs
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
+pp = PdfPages('multipage.pdf')
 
 import numpy as np
 
@@ -79,9 +81,9 @@ class VadSurveyTaskResults(list):
                          map(self.dom.umf, x),
                          map(self.dom.lmf, x))
         ax3.set_xlabel('dominance')
-
-        plt.show()
-
+        
+        #plt.show()
+        pp.savefig()
 
 
 
@@ -168,7 +170,7 @@ if __name__ == "__main__":
             data['turkish'][word].dom = ia([x for x in 
                                             data['turkish'][word].dominance()])
             
-            #data['turkish'][word].plot()
+            data['turkish'][word].plot()
         
         except ValueError as e:
             print word, e
@@ -177,7 +179,7 @@ if __name__ == "__main__":
     #    print resp['stimuli'] 
 
 
-
+pp.close() #for pdf plotting
 # then iterate over each word of each task and compute fuzzy set membership
 # functions for each dimension (valence, activation, and dominance)
 
