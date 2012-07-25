@@ -22,3 +22,18 @@ Requirements
 
 - web-friendly
 
+- lazy evaluation: when you "and" or "or" together two fuzzy sets, the result
+  is a fuzzy set, but it's membership function need not be computed.  Rather,
+  keep the two fuzzy set operands saved in the result and only evaluated when
+  needed.
+
+Notes
+======
+
+pyinterval
+-----------
+
+- had to install crlibm (correctly rounded math library)
+  http://lipforge.ens-lyon.fr/projects/crlibm
+
+   - had to use the -fPIC flag, via ./configure CFLAGS=-fPIC
