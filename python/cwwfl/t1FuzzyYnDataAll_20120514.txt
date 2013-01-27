@@ -1,0 +1,7866 @@
+stimuli	p
+yes	100
+sometimes	50
+usually not	11
+it depends	50
+sort of	50
+mostly	85
+probably	85
+possibly not	38
+generally	87
+in general yes	82
+not probably	30
+no	0
+nope	0
+yep	100
+certainly	100
+perhaps	37
+definitely	100
+I think so	89
+usually	87
+not certainly	76
+not possibly	0
+definitely not	0
+usually	82
+no	0
+generally	90
+perhaps	36
+rarely	7
+yep	100
+definitely not	0
+possibly not	9
+not usually	6
+it depends	47
+generally	82
+perhaps	50
+possibly	60
+sometimes	45
+not definitely	54
+no	0
+not probably	34
+certainly	100
+probably not	16
+sort of	49
+rarely	10
+not possibly	0
+yep	100
+not certainly	66
+probably	75
+nope	0
+in general yes	92
+not definitely	37
+possibly not	24
+definitely not	0
+not certainly	71
+I don't think so	10
+definitely	99
+definitely not	0
+I think so	83
+usually not	11
+not possibly	0
+in general yes	84
+certainly	100
+not definitely	79
+perhaps	55
+no	0
+possibly	28
+possibly not	19
+probably	91
+probably not	7
+usually	90
+not probably	16
+in general no	11
+yep	100
+it depends	46
+certainly not	0
+sometimes	59
+certainly	100
+mostly	74
+in general yes	85
+generally	72
+sort of	50
+rarely	8
+probably not	11
+usually not	19
+not possibly	0
+not usually	10
+usually	87
+perhaps	35
+probably	89
+definitely not	0
+it depends	50
+possibly	50
+possibly not	50
+not probably	21
+not certainly	63
+no	0
+in general no	11
+definitely	100
+I don't think so	50
+I think so	50
+yes	92
+usually not	21
+yes	100
+certainly	100
+sort of	43
+not probably	30
+certainly not	56
+probably	63
+usually not	55
+not certainly	21
+I don't think so	24
+possibly not	38
+nope	32
+not definitely	33
+not definitely	43
+in general no	14
+not definitely	58
+not certainly	55
+no	0
+I think so	43
+not certainly	57
+perhaps	62
+no	0
+usually	43
+generally	83
+yep	55
+probably not	14
+perhaps	52
+in general yes	55
+sometimes	51
+not possibly	26
+mostly	81
+usually	83
+I don't think so	20
+it depends	50
+certainly not	4
+I don't think so	24
+yep	89
+not usually	13
+nope	9
+in general no	12
+not possibly	5
+possibly	43
+rarely	28
+mostly	81
+probably not	7
+in general no	32
+in general no	19
+yes	98
+nope	0
+certainly not	0
+possibly not	43
+probably	83
+generally	72
+yep	95
+possibly not	6
+definitely	100
+I think so	80
+it depends	56
+in general yes	82
+definitely not	0
+yes	100
+certainly	99
+probably not	19
+not probably	100
+definitely not	4
+not probably	52
+not possibly	31
+in general yes	79
+yep	100
+possibly not	47
+perhaps	43
+not usually	86
+possibly	66
+certainly	57
+it depends	51
+rarely	6
+no	32
+not usually	36
+in general yes	87
+not probably	31
+mostly	78
+probably	100
+definitely not	0
+mostly	43
+not definitely	38
+sort of	59
+probably not	98
+it depends	43
+possibly	54
+I don't think so	0
+generally	84
+yes	55
+sometimes	55
+perhaps	100
+generally	100
+not usually	33
+in general no	100
+sometimes	43
+definitely	100
+rarely	44
+possibly not	12
+in general no	0
+not probably	34
+not probably	19
+not usually	0
+yes	100
+probably	43
+definitely not	100
+usually not	6
+no	0
+possibly not	35
+certainly	100
+sort of	63
+yep	2
+sort of	82
+sometimes	60
+sometimes	64
+nope	31
+certainly	99
+probably not	12
+no	100
+not certainly	12
+in general no	7
+nope	3
+nope	2
+mostly	87
+usually	76
+not definitely	87
+definitely	98
+rarely	11
+not possibly	6
+rarely	98
+not possibly	8
+possibly	100
+no	0
+certainly	99
+sort of	100
+probably	82
+usually	99
+in general yes	91
+usually not	29
+not possibly	1
+I don't think so	99
+not possibly	0
+not certainly	42
+not certainly	4
+perhaps	50
+I think so	100
+not usually	14
+yep	100
+not probably	0
+certainly not	2
+not certainly	0
+mostly	98
+sometimes	99
+sort of	59
+usually not	0
+in general yes	100
+yep	99
+usually	84
+yes	100
+mostly	89
+I think so	100
+it depends	100
+it depends	50
+yes	100
+I don't think so	2
+nope	0
+no	0
+usually not	10
+rarely	3
+usually	94
+definitely	98
+it depends	51
+I think so	87
+certainly	25
+sort of	88
+generally	24
+rarely	12
+perhaps	0
+it depends	89
+definitely not	78
+definitely	16
+sometimes	20
+no	24
+I think so	71
+possibly	61
+yes	94
+usually	14
+certainly not	96
+probably not	90
+not probably	94
+it depends	42
+I don't think so	97
+probably	86
+not certainly	9
+possibly	55
+nope	0
+mostly	81
+in general no	13
+no	1
+not definitely	13
+sort of	60
+usually not	13
+possibly not	32
+generally	80
+certainly	100
+rarely	2
+usually not	6
+probably	65
+not possibly	20
+not definitely	18
+not usually	21
+yes	100
+mostly	87
+not probably	22
+it depends	59
+not probably	9
+usually not	4
+sometimes	44
+it depends	51
+I think so	89
+rarely	5
+definitely not	0
+possibly not	28
+in general no	8
+probably not	10
+not certainly	34
+not possibly	27
+generally	83
+in general yes	100
+probably	40
+possibly not	39
+possibly	50
+no	0
+probably not	30
+I don't think so	23
+not usually	18
+yep	100
+definitely	95
+probably	88
+yes	98
+definitely not	0
+in general no	0
+I don't think so	6
+sort of	75
+possibly	41
+definitely	100
+definitely	100
+certainly	98
+nope	0
+usually not	25
+probably not	16
+not definitely	7
+I think so	82
+sort of	65
+perhaps	95
+yep	94
+in general no	6
+usually	87
+certainly not	3
+definitely not	0
+I don't think so	0
+yep	100
+sometimes	42
+not certainly	33
+mostly	72
+possibly not	20
+not definitely	19
+not probably	23
+nope	0
+generally	59
+I think so	64
+in general yes	100
+rarely	44
+usually not	23
+I don't think so	36
+mostly	74
+definitely not	0
+in general yes	86
+sort of	57
+not definitely	28
+nope	2
+not usually	8
+no	0
+in general no	9
+certainly not	0
+probably not	14
+rarely	8
+possibly	59
+definitely	99
+sometimes	74
+possibly not	37
+generally	62
+probably	80
+not possibly	39
+I think so	84
+usually	90
+not certainly	72
+yep	100
+rarely	10
+in general no	6
+it depends	53
+yes	100
+no	2
+not definitely	8
+not usually	19
+nope	14
+possibly	73
+usually	88
+yep	89
+probably not	11
+mostly	68
+I don't think so	15
+definitely not	0
+perhaps	56
+mostly	82
+probably	83
+probably	50
+nope	1
+definitely not	3
+generally	93
+perhaps	72
+probably not	23
+not probably	11
+certainly not	0
+definitely	99
+not usually	18
+possibly not	10
+rarely	24
+I think so	83
+it depends	65
+in general no	15
+sort of	66
+not possibly	2
+yep	100
+yes	100
+not certainly	6
+not possibly	12
+not certainly	12
+generally	81
+I don't think so	12
+not probably	30
+usually	71
+I think so	67
+not definitely	8
+certainly	80
+possibly	66
+not certainly	28
+in general yes	74
+I don't think so	29
+perhaps	55
+sometimes	50
+usually not	28
+no	29
+yep	55
+I think so	53
+in general yes	54
+in general no	27
+possibly not	29
+not possibly	28
+probably not	30
+probably	46
+usually	55
+not probably	21
+certainly not	30
+certainly	97
+possibly	46
+nope	29
+rarely	16
+not usually	27
+generally	44
+yes	99
+sometimes	46
+definitely	71
+possibly	48
+I don't think so	0
+yep	97
+nope	0
+usually not	12
+sometimes	44
+yes	99
+not possibly	4
+not certainly	18
+not definitely	14
+generally	85
+it depends	47
+no	0
+certainly not	0
+certainly	100
+yes	63
+perhaps	48
+usually	63
+probably	93
+certainly	99
+I think so	36
+in general yes	89
+probably not	0
+probably not	7
+not certainly	17
+definitely not	0
+sort of	34
+in general no	0
+usually not	0
+possibly not	24
+in general yes	100
+I think so	87
+not probably	3
+definitely	100
+nope	0
+mostly	87
+usually	91
+not possibly	7
+rarely	7
+generally	91
+it depends	47
+not definitely	5
+rarely	5
+possibly	62
+perhaps	68
+I don't think so	0
+no	2
+sort of	50
+not usually	5
+possibly not	8
+definitely not	0
+sometimes	49
+possibly not	17
+not possibly	13
+usually not	26
+definitely	100
+I don't think so	41
+definitely	99
+not probably	9
+not possibly	3
+no	0
+yep	65
+probably	57
+not probably	37
+certainly	100
+it depends	48
+perhaps	63
+in general yes	69
+certainly not	0
+not definitely	20
+not certainly	29
+probably not	40
+rarely	35
+usually	56
+certainly	75
+possibly	60
+probably	55
+mostly	81
+in general no	8
+yes	89
+not certainly	8
+in general no	29
+mostly	89
+yes	92
+yep	76
+not probably	8
+in general no	39
+it depends	50
+usually	92
+certainly not	2
+nope	9
+yep	93
+not certainly	23
+possibly not	11
+rarely	15
+certainly not	7
+perhaps	55
+I think so	93
+it depends	46
+not definitely	12
+probably	63
+not usually	9
+possibly	62
+not possibly	7
+no	0
+probably not	10
+in general yes	90
+usually not	13
+sort of	82
+possibly not	30
+perhaps	83
+mostly	66
+no	7
+usually	68
+I don't think so	11
+usually not	36
+definitely not	9
+sometimes	60
+nope	9
+probably not	14
+generally	71
+yes	100
+not definitely	10
+nope	3
+definitely not	1
+nope	1
+not possibly	35
+mostly	77
+perhaps	50
+in general yes	87
+not certainly	27
+it depends	50
+definitely	99
+yes	100
+definitely not	0
+not probably	25
+I don't think so	0
+possibly not	38
+no	0
+not definitely	40
+generally	70
+probably	65
+usually not	8
+yep	100
+rarely	32
+certainly	99
+not usually	11
+sometimes	60
+in general no	10
+certainly not	0
+definitely	100
+probably	74
+nope	7
+in general yes	93
+usually not	15
+not definitely	35
+I don't think so	34
+not probably	44
+generally	67
+possibly	70
+certainly	94
+sort of	58
+perhaps	54
+probably not	21
+not possibly	14
+usually	83
+certainly not	5
+not certainly	39
+it depends	60
+mostly	61
+in general no	23
+definitely not	3
+yep	87
+not usually	10
+sometimes	73
+in general yes	76
+no	0
+perhaps	54
+probably not	15
+not definitely	0
+possibly not	35
+sometimes	65
+not probably	20
+usually	81
+definitely	100
+yes	100
+not possibly	0
+not usually	16
+certainly not	0
+certainly	100
+not certainly	15
+I don't think so	12
+generally	66
+in general no	28
+nope	0
+mostly	88
+definitely not	0
+yep	100
+I think so	82
+probably	85
+mostly	91
+I think so	70
+not certainly	18
+probably	91
+definitely	100
+usually not	4
+definitely not	0
+possibly not	20
+probably not	6
+usually	79
+yes	100
+in general no	8
+certainly not	0
+it depends	49
+not definitely	12
+certainly	100
+not probably	5
+generally	72
+no	0
+not possibly	12
+sort of	54
+perhaps	60
+yep	95
+nope	6
+possibly	57
+not certainly	34
+perhaps	45
+yep	74
+usually	64
+definitely	100
+certainly	92
+definitely not	0
+nope	24
+sort of	56
+rarely	9
+probably	57
+not probably	36
+certainly not	4
+in general yes	61
+possibly	53
+yes	78
+in general no	38
+possibly not	37
+mostly	68
+it depends	53
+sometimes	61
+I think so	69
+probably not	30
+not definitely	28
+I don't think so	17
+not possibly	16
+not probably	15
+nope	2
+definitely not	0
+in general no	18
+I think so	75
+not definitely	0
+not certainly	65
+usually not	18
+possibly not	35
+generally	65
+definitely	100
+it depends	48
+sometimes	56
+in general yes	79
+yep	100
+rarely	23
+certainly not	1
+no	0
+mostly	85
+sort of	57
+usually	83
+perhaps	62
+probably	85
+I don't think so	21
+rarely	63
+not usually	34
+certainly	100
+certainly not	0
+I think so	64
+definitely not	6
+perhaps	58
+yep	76
+no	20
+I don't think so	36
+nope	24
+possibly not	32
+usually	59
+sort of	45
+in general no	23
+not possibly	43
+not definitely	14
+generally	67
+probably	54
+mostly	54
+it depends	50
+definitely	87
+in general yes	55
+not probably	31
+usually not	39
+yep	100
+nope	7
+perhaps	60
+definitely	100
+in general no	11
+possibly	55
+certainly	100
+I think so	59
+not probably	16
+possibly not	41
+not certainly	38
+it depends	59
+mostly	77
+probably	74
+definitely not	0
+sort of	62
+usually not	14
+not definitely	0
+probably not	17
+sometimes	72
+yes	100
+not possibly	9
+rarely	14
+certainly not	0
+not usually	17
+yep	72
+definitely	63
+probably	58
+not possibly	28
+no	0
+I don't think so	2
+mostly	66
+nope	0
+definitely not	0
+not usually	7
+yes	98
+sometimes	51
+rarely	48
+certainly not	0
+certainly	100
+possibly not	13
+probably not	6
+not probably	30
+usually	81
+in general no	30
+it depends	49
+in general yes	69
+generally	50
+sort of	50
+not certainly	42
+possibly	66
+not certainly	21
+not usually	68
+rarely	12
+probably not	23
+definitely not	0
+certainly not	0
+I think so	69
+I don't think so	27
+in general yes	77
+generally	79
+possibly not	21
+usually not	9
+not definitely	6
+mostly	87
+certainly	99
+not possibly	18
+nope	1
+in general no	14
+yep	98
+it depends	43
+I don't think so	51
+no	0
+sometimes	59
+perhaps	62
+not probably	17
+definitely	100
+not certainly	11
+sort of	5
+it depends	81
+not possibly	78
+rarely	8
+sometimes	66
+not usually	69
+possibly not	63
+usually	91
+mostly	77
+possibly	88
+yep	100
+certainly	97
+I think so	65
+usually not	14
+probably	60
+generally	69
+certainly not	0
+not definitely	0
+probably not	14
+definitely not	0
+in general yes	73
+perhaps	77
+no	0
+certainly	91
+certainly not	0
+definitely not	2
+possibly	63
+possibly not	27
+sort of	58
+not probably	22
+not usually	7
+not certainly	9
+rarely	10
+definitely	97
+in general yes	89
+I think so	86
+it depends	43
+nope	2
+not definitely	10
+not possibly	11
+generally	62
+sometimes	59
+yes	98
+yep	99
+no	2
+probably	76
+perhaps	60
+I don't think so	10
+not definitely	1
+certainly	100
+not probably	14
+not usually	38
+in general yes	69
+yes	100
+I don't think so	17
+sort of	58
+definitely	100
+generally	65
+probably not	32
+usually not	37
+perhaps	67
+certainly not	0
+yep	83
+possibly not	13
+definitely not	0
+usually	82
+no	0
+it depends	63
+possibly	66
+in general no	20
+probably	70
+nope	0
+sometimes	61
+no	0
+in general yes	77
+sort of	31
+definitely not	0
+not certainly	42
+not probably	39
+generally	68
+certainly	91
+nope	18
+in general no	26
+probably	79
+definitely	96
+probably not	23
+certainly not	6
+I don't think so	40
+I think so	64
+not definitely	38
+perhaps	68
+mostly	82
+possibly	62
+it depends	37
+sometimes	59
+usually not	23
+yes	100
+not usually	22
+usually	69
+sort of	49
+generally	57
+usually	67
+not certainly	44
+it depends	35
+not usually	65
+in general yes	40
+yes	98
+yes	40
+probably not	15
+it depends	71
+nope	1
+not possibly	39
+possibly	50
+sometimes	47
+certainly not	69
+certainly not	3
+mostly	41
+perhaps	71
+in general yes	89
+sometimes	40
+not certainly	6
+not definitely	36
+not usually	13
+probably	90
+no	66
+I think so	70
+generally	43
+I don't think so	11
+usually not	36
+certainly	81
+I don't think so	75
+no	4
+definitely	82
+mostly	81
+possibly not	63
+not probably	38
+rarely	58
+I think so	37
+definitely not	4
+nope	68
+not definitely	3
+definitely not	36
+in general no	9
+probably not	75
+not possibly	8
+probably	59
+usually not	11
+perhaps	55
+probably	86
+perhaps	54
+in general yes	90
+not possibly	0
+sometimes	54
+in general no	7
+usually	83
+I don't think so	5
+definitely	97
+possibly not	33
+yes	100
+generally	60
+usually not	26
+yep	97
+not usually	23
+not certainly	38
+possibly	70
+it depends	48
+not probably	7
+mostly	82
+I think so	63
+not definitely	52
+nope	2
+certainly	99
+rarely	7
+definitely not	2
+in general no	76
+not usually	100
+certainly not	100
+it depends	43
+not definitely	0
+in general yes	76
+not probably	21
+yes	100
+possibly not	26
+I don't think so	43
+probably not	28
+not certainly	0
+sometimes	43
+perhaps	64
+rarely	26
+I think so	47
+usually	81
+certainly	100
+definitely	99
+nope	1
+generally	83
+yep	100
+no	0
+not possibly	25
+definitely	87
+not usually	8
+not probably	33
+generally	59
+certainly not	8
+usually not	32
+in general no	9
+not definitely	34
+yes	100
+probably not	29
+usually	67
+no	0
+yep	87
+mostly	71
+sort of	59
+it depends	53
+definitely not	8
+I think so	67
+probably	65
+possibly not	34
+rarely	15
+certainly	85
+in general yes	82
+perhaps	60
+I don't think so	21
+usually	73
+probably not	17
+certainly	90
+not usually	13
+not definitely	60
+possibly	70
+definitely	86
+yes	100
+mostly	92
+I don't think so	6
+in general yes	96
+certainly not	6
+no	0
+in general no	13
+sometimes	65
+rarely	16
+possibly not	35
+generally	67
+perhaps	70
+probably	73
+sort of	68
+nope	18
+not possibly	42
+yep	74
+it depends	60
+not definitely	67
+I don't think so	8
+certainly not	1
+I think so	86
+perhaps	63
+probably not	19
+possibly	46
+yep	99
+possibly not	20
+in general no	13
+not usually	32
+not possibly	39
+usually	73
+probably	59
+not certainly	36
+generally	70
+in general yes	86
+usually not	24
+it depends	59
+nope	0
+definitely	100
+yes	99
+sort of	64
+mostly	86
+no	0
+in general yes	90
+certainly	100
+I don't think so	7
+sort of	50
+certainly not	0
+not possibly	0
+in general no	8
+I think so	72
+yep	100
+sometimes	50
+definitely	100
+perhaps	38
+possibly	57
+rarely	18
+generally	87
+possibly not	30
+not possibly	0
+it depends	50
+not probably	38
+not usually	10
+certainly	100
+definitely not	0
+possibly not	30
+probably	88
+probably not	11
+I think so	92
+nope	0
+no	0
+not certainly	66
+rarely	9
+usually not	15
+mostly	89
+could be but not necessarily	72
+maybe	50
+usually	88
+yes!	100
+mostly not	8
+it can be but not necessarily	74
+YES!!!	100
+I don't think so	7
+hmm not exactly... (but again one could) 	55
+NO!	0
+yes, it could	64
+not quite	26
+yes it can be	68
+no not exactly	21
+YESSSSS!!!!! :):)	100
+no in general	6
+yes I suppose	78
+I think so...	79
+yup	100
+nono	0
+no, not generally	6
+yes i would assume so yes 	80
+definitely	100
+:) not sure, maybe	38
+no, not normally	11
+no it doesn't really relate	8
+kind of	50
+no not necessarily but could be	64
+no, not usuallly	5
+not probably	59
+definitely	100
+generally	93
+not definitely	66
+in general no	6
+not definitely	33
+nope	0
+in general yes	69
+perhaps	66
+I think so	71
+sometimes	60
+yep	100
+generally	84
+usually	89
+yes	100
+mostly	88
+not certainly	40
+not certainly	6
+not possibly	29
+I don't think so	10
+probably not	0
+rarely	12
+NO!	0
+possibly not	18
+yup	100
+probably	89
+YESSSSS!!!!! :):)	100
+probably	86
+rarely	5
+ah...hmmmm.... i guess i have to say no... 	4
+not necessarily	13
+sometimes	52
+yes, definitely	100
+definitely not	100
+no not necessarily but could be	47
+generally	74
+yes, it is possible	71
+certainly not	9
+not usually	7
+mostly	19
+it's possible, but generally i guess i'd say no 	50
+sort of	50
+not definitely	12
+definitely	100
+yes I suppose	72
+perhaps	54
+usually	26
+mostly	84
+not possibly	18
+no, not necessarily	18
+nope	2
+yes	98
+I don't think so	38
+that's a hard one... I guess not really	39
+it depends	56
+sometimes	53
+mostly not	15
+I don't think so	6
+no not really	12
+no	24
+usually, yes	90
+not usually	42
+not that much	36
+yep	70
+possibly	66
+no in general	11
+usually	60
+in general yes	83
+yes, that's right	99
+no not necessarily at least	36
+perhaps	57
+possibly, yes	82
+yes i would assume so yes 	100
+sort of	60
+mostly	88
+rarely	47
+yes!	100
+no, not normally	5
+no, not at all	0
+yep	98
+not usually	38
+yes	100
+yes, in general	84
+generally	74
+yes but not necessarily	66
+yes!	100
+yes	75
+I think so...	60
+nope	0
+in general no	39
+almost	82
+no in general	6
+yes!!!	100
+hmm, I'd say yes in general 	87
+possibly	50
+I don't think so	14
+not exactly	19
+generally	57
+no, it can be but not necessarily	17
+yes, that's right	100
+nope	33
+no, not necessarily	17
+possibly not	66
+usually not	41
+probably	82
+possibly not	47
+eh... yes, you could say so. 	73
+no	1
+:) not sure, maybe	47
+that's a hard one... I guess not really	20
+yes at least possibly	59
+no not necessarily but could be	28
+I think so	61
+yes definitely	100
+yes, in general	85
+kind of	56
+yes, I think so	82
+yes usually	66
+rarely	71
+yes, it could	89
+generally yes, but not necessarily	67
+no not necessarily at least	39
+no not necessarily at least	32
+hmm not exactly... (but again one could) 	58
+could be both yes and no	51
+I think so kind of	62
+not that much	37
+no not exactly	6
+no in general	35
+yes, definitely	100
+I don't think so	19
+usually	91
+yes in general	69
+almost	75
+not possibly	1
+yup	100
+i would say yes	78
+could be but not necessarily	53
+yes	100
+i would say yes	97
+yes it can be	74
+rarely	16
+maybe	59
+it depends	52
+yup	64
+perhaps	52
+in general no	8
+probably	87
+certainly	100
+could be but not necessarily	36
+certainly not	9
+it can be but not necessarily	55
+sometimes	61
+sort of	56
+eh... yes, you could say so. 	65
+probably not	22
+nope	75
+in general no	13
+not definitely	42
+yes to some extent	67
+not necessarily	39
+definitely not	0
+possibly, yes	62
+usually not	43
+kind of	53
+generally	71
+yes, it could	72
+mostly not	15
+yes, that's right	100
+usually not	86
+not quite	43
+yup	100
+I think so...	63
+in general yes	89
+maybe	57
+no, it can be but not necessarily	43
+it can be but not necessarily	53
+usually	88
+eh... yes, you could say so. 	58
+ah...hmmmm.... i guess i have to say no... 	12
+no not necessarily at least	15
+possibly not	36
+certainly not	38
+sort of	41
+yes!	81
+yes it can be	81
+no, not usuallly	3
+yes, it can be	81
+hmm, I'd say yes in general 	80
+definitely	100
+yes, very likely	100
+not quite	35
+yes!!!	100
+not exactly	40
+no	100
+in general yes	62
+yes to some extent	69
+not exactly	32
+sometimes	51
+yes!!!	85
+generally yes, but not necessarily	82
+no in general	9
+i would say yes	70
+possibly but it's doubtful	35
+generally	97
+in general no	9
+yes, I think so	76
+no	43
+in general, no	13
+I think so	70
+yes to some extent	68
+usually not	14
+possibly but it's doubtful	55
+in general yes	93
+yes usually	94
+probably not	29
+yes, that's right	100
+not that much	13
+I think so kind of	42
+in general no	93
+yes, it can be	62
+not definitely	36
+yes at least possibly	63
+not usually	29
+certainly	96
+I think so	44
+hmm, I'd say yes in general 	63
+usually	87
+not possibly	36
+mostly not	33
+possibly not	94
+no, not normally	6
+yes at least possibly	63
+yes!!!	100
+definitely	90
+in general, no	4
+I think so	100
+depends	43
+yes	93
+usually, yes	92
+perhaps	100
+sort of	49
+yes, it is possible	64
+yes, it is possible	65
+definitely	48
+definitely	100
+generally yes, but not necessarily	45
+no, not necessarily	15
+Uhm not necessarily	40
+not definitely	0
+possibly, yes	53
+I think so	45
+yes, definitely	100
+sort of	96
+nono	36
+I think so...	54
+I don't think so	31
+definitely	100
+possibly but it's doubtful	33
+I don't think so	100
+no not necessarily at least	34
+that's a hard one... I guess not really	28
+no, not generally	4
+nope	14
+not necessarily	41
+sometimes	48
+i would say yes	56
+yes definitely	100
+nope	0
+not possibly	8
+I think so	64
+perhaps	49
+yea	67
+ah...hmmmm.... i guess i have to say no... 	30
+not definitely	39
+yes!!	100
+usually	71
+definitely not	100
+eh... yes, you could say so. 	39
+not certainly	34
+yep	24
+yes	100
+yes usually	86
+hmm, I'd say yes in general 	48
+yes but not necessarily	63
+definitely not	0
+possibly but it's doubtful	96
+I'm going to say yes	82
+no	100
+:) not sure, maybe	44
+i would say yes	87
+not possibly	35
+no, not normally	100
+no, not generally	12
+not certainly	0
+rarely	82
+no, not generally	37
+it can be but not necessarily	32
+yes	100
+not usually	17
+certainly not	99
+could be both yes and no	48
+yes!	65
+rarely	9
+depends	0
+YESSSSS!!!!! :):)	100
+no, it can be but not necessarily	35
+yes i would assume so yes 	60
+yes, that's right	98
+sometimes	50
+in general, no	46
+no, not usuallly	100
+definitely not	100
+mostly	93
+possibly but it's doubtful	21
+no not necessarily at least	0
+possibly, yes	59
+not exactly	50
+usually, yes	70
+not usually	58
+hmm, I'd say yes in general 	84
+yes in general	23
+perhaps	67
+yes at least possibly	44
+nope	100
+no not exactly	36
+not probably	36
+no, not usuallly	40
+probably not	77
+NO!	99
+probably	47
+yes	100
+yes but not necessarily	76
+almost	90
+in general, no	64
+possibly not	83
+no, not at all	41
+NO!	100
+YES!!!	100
+sometimes	100
+hmm, I'd say yes in general 	90
+hmm not exactly... (but again one could) 	38
+yes	50
+could be both yes and no	43
+ah...hmmmm.... i guess i have to say no... 	26
+maybe	45
+I think so	49
+perhaps	49
+possibly but it's doubtful	77
+certainly not	48
+yes to some extent	38
+rarely	48
+YES!!!	62
+no not exactly	73
+no, not usuallly	14
+in general, no	100
+generally	86
+yes, that's right	100
+yes usually	90
+yes, it is possible	60
+not usually	53
+not necessarily	97
+usually not	26
+not definitely	50
+rarely	75
+not usually	100
+in general yes	87
+no, it can be but not necessarily	70
+in general yes	63
+that's a hard one... I guess not really	17
+rarely	15
+mostly	62
+yes, it could	72
+possibly	100
+probably not	18
+sort of	82
+I think so...	42
+I think so	65
+I don't think so	44
+possibly not	69
+that's a hard one... I guess not really	67
+mostly not	0
+nope	48
+it depends	47
+not usually	95
+ah...hmmmm.... i guess i have to say no... 	29
+yes, in general	83
+NO!	33
+probably	64
+sometimes	50
+mostly	50
+generally yes, but not necessarily	98
+usually	71
+yes, in general	83
+I don't think so	4
+I'm going to say yes	55
+no, not generally	50
+in general yes	64
+YES!!!	100
+yep	100
+sort of	50
+no, it can be but not necessarily	91
+yup	88
+I think so	67
+no	50
+not certainly	6
+could be both yes and no	99
+i would say yes	100
+not possibly	19
+sort of	64
+it depends	43
+I think so...	76
+usually	76
+definitely not	50
+could be but not necessarily	32
+possibly	57
+Uhm not necessarily	12
+Uhm not necessarily	67
+not possibly	2
+in general no	26
+not necessarily	26
+certainly	100
+not probably	0
+I think so kind of	58
+definitely not	0
+no not necessarily at least	13
+eh... yes, you could say so. 	71
+it's possible, but generally i guess i'd say no 	94
+not usually	12
+yes to some extent	52
+no not really	43
+YESSSSS!!!!! :):)	100
+nope	0
+not that much	43
+yes, definitely	100
+yes usually	62
+not quite	50
+yes i would assume so yes 	82
+not necessarily	45
+not necessarily	11
+maybe	90
+no, not at all	100
+perhaps	81
+yes, I think so	98
+I'm going to say yes	55
+sometimes	43
+NO!	0
+yes, that's right	56
+depends	46
+yes usually	92
+I think so kind of	83
+yes to some extent	69
+not exactly	50
+usually	100
+nono	0
+no not really	31
+it can be but not necessarily	75
+possibly but it's doubtful	52
+yea	50
+:) not sure, maybe	58
+no in general	12
+it can be but not necessarily	100
+yes, very likely	91
+perhaps	50
+nono	36
+no it doesn't really relate	11
+yes	81
+that's a hard one... I guess not really	47
+yes!	100
+hmm not exactly... (but again one could) 	10
+hmm, I'd say yes in general 	69
+yes it can be	80
+yes usually	75
+it's possible, but generally i guess i'd say no 	34
+Uhm not necessarily	68
+definitely	100
+no, it can be but not necessarily	70
+:) not sure, maybe	69
+yes usually	95
+eh... yes, you could say so. 	82
+it can be but not necessarily	39
+could be but not necessarily	93
+no not necessarily at least	12
+no it doesn't really relate	11
+yes but not necessarily	56
+depends	100
+it's possible, but generally i guess i'd say no 	75
+no in general	44
+no not necessarily but could be	67
+could be but not necessarily	66
+possibly	100
+I'm going to say yes	92
+mostly not	5
+usually, yes	53
+usually	76
+almost	70
+yes, it could	61
+Uhm not necessarily	37
+I think so kind of	21
+not really	46
+no, not generally	31
+yes!	100
+yes, it could	86
+probably	73
+yes!!	100
+no not exactly	14
+yes i would assume so yes 	88
+yes i would assume so yes 	4
+certainly not	6
+yes I suppose	78
+yes, I think so	91
+no not necessarily but could be	35
+no in general	64
+not possibly	15
+yes, I think so	78
+yes, it is possible	79
+yes!	100
+yes, I think so	76
+no, it can be but not necessarily	15
+in general no	53
+definitely	100
+kind of	50
+not definitely	31
+I think so...	54
+no not really	50
+in general, no	38
+not usually	26
+no, it can be but not necessarily	24
+YESSSSS!!!!! :):)	50
+no, not normally	41
+no, not normally	16
+it depends	62
+possibly	74
+yup	100
+yes!!	50
+yes, it is possible	61
+mostly	38
+not really	50
+I don't think so	16
+could be both yes and no	100
+yup	100
+nope	50
+definitely not	8
+not necessarily	3
+:) not sure, maybe	45
+possibly not	27
+no it doesn't really relate	100
+I don't think so	86
+yes definitely	100
+no, it can be but not necessarily	45
+generally yes, but not necessarily	94
+no	6
+it depends	55
+eh... yes, you could say so. 	52
+perhaps	95
+no not necessarily but could be	12
+not usually	38
+yup	50
+i would say yes	90
+yes definitely	50
+in general no	38
+generally	82
+not definitely	43
+no not necessarily at least	50
+sort of	54
+that's a hard one... I guess not really	17
+certainly	94
+no not necessarily at least	15
+probably not	27
+no not necessarily but could be	77
+usually, yes	91
+mostly	79
+not definitely	56
+no, not at all	34
+Uhm not necessarily	19
+perhaps	64
+no	50
+could be but not necessarily	36
+probably	75
+definitely	87
+yep	50
+yes, that's right	100
+rarely	50
+kind of	60
+possibly	69
+sort of	50
+yes it can be	100
+sometimes	50
+usually	50
+no not exactly	28
+yes, definitely	92
+generally	50
+could be both yes and no	49
+usually not	50
+probably not	50
+yes in general	80
+in general yes	50
+probably	66
+could be both yes and no	50
+possibly	50
+possibly	65
+yes, it could	78
+certainly	50
+no, not generally	20
+I don't think so	50
+yea	50
+no, not generally	18
+yes, it could	50
+almost	81
+no not necessarily at least	33
+:) not sure, maybe	45
+generally yes, but not necessarily	78
+yes, it can be	64
+yes, that's right	83
+no, not usuallly	13
+hmm, I'd say yes in general 	64
+yes, very likely	82
+yes at least possibly	64
+ah...hmmmm.... i guess i have to say no... 	28
+not quite	39
+no, not necessarily	35
+nope	10
+yes, in general	79
+not exactly	50
+yes	50
+yup	89
+no, not necessarily	50
+yes usually	66
+nono	50
+no, not normally	50
+YES!!!	96
+i would say yes	50
+usually	46
+not that much	50
+yes it can be	70
+maybe	50
+I think so kind of	67
+maybe	50
+NO!	50
+yes, that's right	50
+yes	50
+yes, it is possible	60
+nope	50
+no in general	24
+no, not at all	33
+possibly but it's doubtful	59
+yep	80
+usually not	50
+perhaps	50
+generally yes, but not necessarily	48
+it's possible, but generally i guess i'd say no 	24
+not certainly	21
+yes, it can be	71
+I think so...	60
+no, not necessarily	17
+yea	78
+not probably	15
+i would say yes	85
+not probably	35
+probably not	6
+almost	43
+not certainly	70
+yes, it is possible	50
+not quite	33
+Uhm not necessarily	50
+yes	100
+usually, yes	64
+certainly	98
+yes usually	50
+perhaps	50
+probably	82
+yes to some extent	50
+yes but not necessarily	50
+sometimes	58
+eh... yes, you could say so. 	26
+possibly, yes	50
+usually, yes	50
+in general no	15
+yes	86
+it depends	48
+it's possible, but generally i guess i'd say no 	50
+yes!!	50
+depends	50
+not usually	25
+in general, no	50
+mostly not	50
+not really	50
+nope	0
+yes in general	50
+I think so	50
+almost	50
+definitely not	0
+usually	73
+:) not sure, maybe	50
+no not really	50
+could be both yes and no	50
+in general no	12
+yes it can be	74
+usually	87
+yes!!	100
+in general yes	94
+depends	48
+sort of	46
+no	1
+I think so	76
+yes!	100
+generally	79
+no in general	14
+no not really	6
+sort of	44
+yes but not necessarily	75
+YES!!!	100
+mostly not	28
+yes at least possibly	76
+hmm, I'd say yes in general 	69
+no, not normally	14
+yes usually	79
+yes, it is possible	82
+yes it can be	77
+no, not at all	0
+no not exactly	10
+no, not at all	0
+YESSSSS!!!!! :):)	100
+not probably	23
+no not necessarily but could be	31
+could be both yes and no	48
+yes, very likely	94
+I think so	77
+perhaps	60
+I think so	84
+certainly	84
+possibly but it's doubtful	39
+:) not sure, maybe	56
+yes	100
+usually not	15
+perhaps	64
+yes but not necessarily	80
+usually not	6
+:) not sure, maybe	58
+definitely	98
+I think so kind of	72
+it depends	36
+definitely not	2
+yes in general	76
+possibly not	27
+no, not necessarily	15
+in general no	10
+nono	0
+certainly not	5
+ah...hmmmm.... i guess i have to say no... 	13
+I don't think so	13
+rarely	16
+it's possible, but generally i guess i'd say no 	30
+ah...hmmmm.... i guess i have to say no... 	21
+generally	92
+no	1
+maybe	49
+yes, it could	72
+not definitely	11
+it can be but not necessarily	67
+mostly	94
+that's a hard one... I guess not really	9
+yes, that's right	56
+in general no	6
+not probably	3
+yes, I think so	70
+it's possible, but generally i guess i'd say no 	23
+not that much	13
+not that much	36
+not possibly	35
+perhaps	68
+no not necessarily at least	24
+probably	76
+perhaps	68
+I think so	68
+yea	73
+not usually	17
+yes	99
+no, not normally	24
+usually	86
+nope	2
+yes, very likely	86
+yep	97
+nope	0
+yes, it can be	74
+in general yes	88
+yes, definitely	100
+not usually	9
+eh... yes, you could say so. 	56
+no in general	5
+yes at least possibly	38
+could be but not necessarily	12
+no not really	19
+yes in general	65
+NO!	2
+no, not necessarily	26
+possibly, yes	72
+possibly but it's doubtful	37
+yes, it could	73
+eh... yes, you could say so. 	58
+no not necessarily but could be	29
+yes i would assume so yes 	65
+possibly	69
+in general, no	27
+no not necessarily at least	36
+hmm not exactly... (but again one could) 	26
+I think so...	67
+ah...hmmmm.... i guess i have to say no... 	21
+Uhm not necessarily	36
+i would say yes	92
+no it doesn't really relate	5
+it depends	59
+nono	2
+yup	85
+sort of	57
+yes but not necessarily	64
+definitely	98
+depends	58
+hmm, I'd say yes in general 	69
+yep	97
+it's possible, but generally i guess i'd say no 	22
+rarely	17
+usually	68
+yes, in general	78
+not certainly	34
+possibly	59
+I'm going to say yes	88
+no, it can be but not necessarily	29
+in general no	5
+no, not generally	10
+I'm going to say yes	91
+yes!	100
+yes to some extent	69
+not definitely	58
+yes!!!	100
+:) not sure, maybe	25
+I think so	74
+certainly not	61
+possibly	61
+not that much	19
+generally	87
+yes to some extent	61
+no not exactly	18
+usually not	11
+yes!!!	98
+:) not sure, maybe	55
+yep	1
+certainly	99
+yes, definitely	98
+not possibly	15
+it's possible, but generally i guess i'd say no 	24
+no, not at all	5
+probably	89
+yes, it could	64
+depends	58
+yes, that's right	98
+probably	87
+could be both yes and no	50
+yes, it is possible	73
+no in general	19
+yes in general	95
+yes in general	85
+not definitely	28
+yes, that's right	98
+YES!!!	100
+yes I suppose	86
+not quite	37
+usually not	63
+no, not normally	15
+not really	12
+nope	0
+in general, no	25
+definitely	96
+almost	91
+NO!	0
+no not necessarily at least	25
+yes	100
+possibly not	25
+yes it can be	90
+yes, in general	95
+usually	92
+I think so...	86
+no not really	13
+no	99
+yes to some extent	71
+possibly, yes	67
+yes at least possibly	70
+no not exactly	14
+yes, definitely	98
+rarely	79
+no it doesn't really relate	5
+no not really	10
+perhaps	52
+perhaps	62
+it can be but not necessarily	29
+i would say yes	92
+generally	57
+YESSSSS!!!!! :):)	100
+possibly	61
+hmm not exactly... (but again one could) 	42
+nope	26
+no, not at all	0
+it depends	66
+possibly not	97
+eh... yes, you could say so. 	89
+sometimes	62
+hmm, I'd say yes in general 	94
+usually	52
+not certainly	5
+it's possible, but generally i guess i'd say no 	30
+:) not sure, maybe	1
+no, not necessarily	21
+I don't think so	21
+no, not at all	63
+not exactly	29
+no in general	54
+no, it can be but not necessarily	67
+generally	13
+yes, very likely	81
+possibly, yes	64
+no not necessarily at least	34
+yep	0
+no not really	10
+no not necessarily but could be	44
+no it doesn't really relate	57
+probably not	100
+Uhm not necessarily	28
+perhaps	100
+hmm, I'd say yes in general 	56
+yes I suppose	83
+no	0
+no not necessarily but could be	22
+in general, no	6
+in general yes	99
+yes but not necessarily	69
+yes at least possibly	51
+possibly	100
+could be but not necessarily	56
+no, not necessarily	58
+mostly not	6
+certainly not	0
+I'm going to say yes	85
+yes!!!	100
+nope	0
+in general no	100
+mostly not	33
+definitely not	0
+usually	100
+I think so kind of	27
+yes	0
+yes, I think so	54
+hmm not exactly... (but again one could) 	100
+no not really	54
+kind of	99
+yea	0
+yes	100
+no, not at all	0
+yes	83
+not really	100
+no	8
+yes it can be	100
+usually not	51
+I think so	53
+yup	0
+hmm, I'd say yes in general 	100
+I think so	97
+possibly	63
+not necessarily	44
+:) not sure, maybe	100
+yes, it is possible	53
+no, not necessarily	100
+mostly	63
+probably	68
+no, it can be but not necessarily	100
+yup	22
+not definitely	24
+possibly	76
+yes, it is possible	100
+sometimes	65
+perhaps	63
+yes definitely	72
+mostly not	100
+I don't think so	23
+probably not	30
+sort of	82
+eh... yes, you could say so. 	100
+not probably	29
+ah...hmmmm.... i guess i have to say no... 	57
+probably not	33
+yes in general	100
+certainly	88
+I think so	78
+not definitely	23
+I think so...	41
+i would say yes	100
+nope	0
+it depends	61
+not that much	100
+sort of	70
+not probably	24
+definitely	99
+sort of	43
+it's possible, but generally i guess i'd say no 	100
+not certainly	20
+I think so kind of	100
+YESSSSS!!!!! :):)	96
+certainly not	29
+yes to some extent	99
+sometimes	100
+it depends	59
+probably	51
+definitely not	19
+not necessarily	100
+yes!!	99
+yes but not necessarily	21
+not necessarily	27
+certainly	70
+depends	100
+almost	86
+yes it can be	47
+yes!!	0
+yes!	100
+not certainly	40
+yes to some extent	51
+no not necessarily at least	100
+no, it can be but not necessarily	5
+not necessarily	21
+yes, it can be	100
+that's a hard one... I guess not really	36
+no, not necessarily	14
+generally yes, but not necessarily	56
+not quite	100
+no not necessarily but could be	100
+yes but not necessarily	58
+nono	0
+yes at least possibly	100
+kind of	57
+no it doesn't really relate	29
+almost	100
+it's possible, but generally i guess i'd say no 	42
+no in general	100
+depends	47
+not that much	35
+it's possible, but generally i guess i'd say no 	19
+could be but not necessarily	56
+no it doesn't really relate	100
+:) not sure, maybe	41
+no it doesn't really relate	43
+usually, yes	100
+mostly not	19
+no not really	30
+yes, I think so	87
+yea	71
+that's a hard one... I guess not really	22
+yes usually	93
+not exactly	34
+YESSSSS!!!!! :):)	98
+could be both yes and no	55
+not really	22
+no not necessarily but could be	45
+yes but not necessarily	78
+yes at least possibly	57
+yes, it could	62
+yes!!!	98
+hmm, I'd say yes in general 	62
+yup	87
+in general, no	43
+no, it can be but not necessarily	31
+no not necessarily at least	53
+i would say yes	85
+no, not generally	45
+yes it can be	75
+yes, I think so	60
+usually, yes	82
+I think so kind of	64
+YES!!!	100
+yes, it could	85
+eh... yes, you could say so. 	67
+no	22
+yes at least possibly	71
+yes, definitely	97
+Uhm not necessarily	28
+yes, it is possible	69
+it can be but not necessarily	39
+not exactly	41
+could be both yes and no	56
+yes, in general	67
+probably	77
+perhaps	65
+not possibly	5
+yes, it is possible	73
+usually	73
+definitely	97
+NO!	2
+probably	80
+yes, it can be	65
+not usually	22
+yes I suppose	80
+it depends	64
+yep	100
+almost	78
+definitely not	0
+yup	92
+I don't think so	18
+definitely	100
+certainly not	21
+not definitely	11
+not probably	59
+no	0
+yes	100
+probably not	12
+not probably	29
+maybe	66
+no, not generally	38
+no, not normally	24
+yes, that's right	80
+hmm, I'd say yes in general 	56
+sometimes	34
+yes, very likely	100
+yes but not necessarily	76
+definitely not	12
+probably	65
+yes!!!	100
+sometimes	58
+possibly not	19
+no	0
+yep	94
+not probably	25
+yes	100
+I think so	76
+no, not at all	9
+no not exactly	28
+probably	67
+certainly not	0
+possibly	80
+generally	86
+it depends	42
+no in general	25
+not possibly	0
+possibly	58
+usually, yes	82
+definitely not	0
+yep	91
+not usually	4
+not certainly	0
+definitely	100
+in general no	0
+generally	60
+rarely	9
+yes at least possibly	65
+sort of	61
+I think so	75
+hmm not exactly... (but again one could) 	26
+generally	76
+usually	61
+possibly not	24
+I think so kind of	71
+perhaps	59
+yes!!	100
+certainly	100
+kind of	41
+yes	69
+probably not	0
+yes!	100
+no	72
+could be but not necessarily	39
+YES!!!	100
+usually	70
+not that much	25
+yes, it is possible	100
+definitely	67
+yes, that's right	99
+in general, no	26
+possibly	75
+possibly but it's doubtful	40
+YESSSSS!!!!! :):)	88
+probably not	68
+maybe	54
+yes, it could	73
+mostly	44
+yes i would assume so yes 	80
+could be but not necessarily	20
+yes, definitely	100
+nope	46
+yes!	100
+yes to some extent	69
+not exactly	39
+yes definitely	100
+probably	73
+NO!	3
+almost	50
+yes it can be	88
+depends	53
+not usually	70
+yes, I think so	91
+I'm going to say yes	87
+sort of	70
+almost	73
+not quite	15
+rarely	71
+eh... yes, you could say so. 	84
+yes at least possibly	81
+YESSSSS!!!!! :):)	100
+kind of	52
+not possibly	71
+depends	47
+could be both yes and no	50
+I don't think so	76
+yea	94
+no, not normally	14
+yes, I think so	69
+yes it can be	66
+yes, very likely	86
+not that much	69
+no, not usuallly	0
+yes, definitely	86
+usually, yes	92
+not really	68
+Uhm not necessarily	12
+no, not at all	0
+that's a hard one... I guess not really	12
+yes, very likely	76
+:) not sure, maybe	43
+yes!!	100
+i would say yes	72
+that's a hard one... I guess not really	19
+could be both yes and no	74
+I think so kind of	66
+no, it can be but not necessarily	70
+no, not normally	0
+no not necessarily at least	14
+generally yes, but not necessarily	70
+usually, yes	86
+i would say yes	100
+kind of	74
+eh... yes, you could say so. 	1
+yes!	100
+in general, no	2
+yes, it could	72
+not usually	0
+nono	42
+nono	0
+yes I suppose	89
+I think so...	73
+i would say yes	92
+kind of	70
+no, not generally	2
+not exactly	68
+not exactly	19
+I think so...	62
+hmm, I'd say yes in general 	43
+almost	50
+no not really	2
+yes at least possibly	65
+depends	50
+yes at least possibly	77
+possibly, yes	76
+not really	22
+hmm not exactly... (but again one could) 	69
+no, not at all	0
+yea	44
+it can be but not necessarily	35
+yes i would assume so yes 	74
+no, not necessarily	0
+Uhm not necessarily	74
+eh... yes, you could say so. 	74
+yes!	71
+YES!!!	74
+not that much	15
+that's a hard one... I guess not really	69
+in general no	83
+no not necessarily but could be	72
+yes definitely	76
+yes, in general	77
+no it doesn't really relate	78
+I'm going to say yes	71
+rarely	50
+not probably	17
+usually	82
+in general no	87
+probably	91
+I don't think so	37
+it depends	50
+certainly	98
+I think so	73
+possibly not	17
+certainly not	2
+mostly	91
+usually not	12
+probably not	8
+no	0
+nope	11
+generally	79
+not probably	23
+usually	84
+not necessarily	22
+could be but not necessarily	26
+eh... yes, you could say so. 	65
+no, not at all	1
+possibly, yes	90
+no not really	20
+yes it can be	85
+yes usually	92
+I'm going to say yes	98
+could be both yes and no	50
+yes definitely	99
+mostly not	22
+that's a hard one... I guess not really	26
+kind of	69
+no, not normally	23
+no not exactly	31
+I think so kind of	65
+yes, in general	96
+not really	17
+definitely	98
+yes, that's right	100
+yes, I think so	74
+no not necessarily but could be	42
+possibly but it's doubtful	33
+yes i would assume so yes 	88
+yes to some extent	87
+yes, it is possible	77
+perhaps	35
+no it doesn't really relate	31
+it's possible, but generally i guess i'd say no 	30
+hmm not exactly... (but again one could) 	40
+no, not necessarily	25
+depends	50
+not usually	58
+usually not	61
+mostly	66
+yes	100
+in general no	61
+nope	0
+definitely not	0
+sometimes	67
+it depends	50
+in general yes	77
+definitely	86
+not definitely	57
+no	0
+not probably	26
+I don't think so	26
+certainly not	61
+not certainly	27
+certainly	98
+generally	65
+in general no	9
+yes	81
+possibly not	41
+certainly	92
+sort of	68
+probably not	24
+rarely	26
+I think so	86
+possibly not	37
+possibly	68
+not definitely	74
+it can be but not necessarily	57
+yes, it could	49
+I think so...	61
+not usually	67
+not that much	61
+no, not generally	71
+no not really	35
+yes, it can be	66
+yes it can be	77
+possibly	55
+nope	25
+YESSSSS!!!!! :):)	100
+not definitely	28
+no, not normally	6
+yes in general	94
+sort of	65
+perhaps	73
+no not necessarily but could be	87
+usually, yes	92
+nope	2
+sometimes	76
+usually	90
+rarely	31
+in general no	12
+certainly not	0
+not certainly	30
+hmm, I'd say yes in general 	93
+possibly not	40
+definitely	33
+yes, that's right	100
+certainly	99
+no, not usuallly	39
+definitely not	20
+definitely	98
+yes, it could	100
+rarely	18
+yes!	100
+generally	74
+YES!!!	100
+yes to some extent	64
+mostly	85
+not usually	23
+i would say yes	100
+I don't think so	21
+yes, I think so	72
+usually	86
+I don't think so	70
+not definitely	30
+hmm not exactly... (but again one could) 	21
+it depends	40
+hmm, I'd say yes in general 	58
+yup	97
+not really	0
+mostly not	4
+eh... yes, you could say so. 	57
+not exactly	69
+yes, very likely	99
+:) not sure, maybe	32
+no, not necessarily	45
+maybe	29
+I'm going to say yes	100
+yes, very likely	73
+YESSSSS!!!!! :):)	100
+yea	97
+generally yes, but not necessarily	85
+yes, it can be	68
+depends	54
+Uhm not necessarily	24
+yes!	98
+yes usually	63
+yes, that's right	100
+it can be but not necessarily	65
+yes, definitely	81
+no it doesn't really relate	6
+yes but not necessarily	76
+I'm going to say yes	90
+no not really	3
+I think so...	71
+no not exactly	22
+it's possible, but generally i guess i'd say no 	6
+possibly but it's doubtful	50
+possibly but it's doubtful	9
+:) not sure, maybe	32
+possibly, yes	60
+eh... yes, you could say so. 	83
+YES!!!	36
+yes, in general	88
+probably	72
+no, not at all	1
+generally yes, but not necessarily	87
+nono	0
+YESSSSS!!!!! :):)	26
+NO!	1
+nono	0
+yes i would assume so yes 	89
+NO!	75
+yes in general	89
+possibly, yes	72
+yes definitely	100
+perhaps	67
+generally yes, but not necessarily	62
+no, not usuallly	11
+no not necessarily but could be	12
+yes usually	89
+ah...hmmmm.... i guess i have to say no... 	39
+not that much	26
+that's a hard one... I guess not really	44
+yea	100
+not possibly	14
+yes to some extent	78
+usually, yes	56
+mostly not	16
+probably	64
+yes!!!	98
+no	58
+yep	94
+it depends	49
+no, it can be but not necessarily	63
+yes	95
+yes!	28
+in general no	30
+perhaps	53
+certainly not	5
+in general yes	64
+possibly	54
+sort of	50
+usually	75
+I think so	71
+definitely not	4
+probably not	21
+maybe	49
+yes definitely	100
+yes i would assume so yes 	81
+no not really	17
+yes, it can be	77
+yes, in general	76
+no, it can be but not necessarily	29
+yes, very likely	83
+possibly but it's doubtful	36
+could be but not necessarily	49
+YES!!!	100
+yes at least possibly	62
+definitely	98
+I think so kind of	57
+yes to some extent	64
+rarely	24
+generally yes, but not necessarily	51
+yes usually	77
+I think so...	62
+in general, no	27
+yes it can be	64
+possibly	82
+I'm going to say yes	65
+it can be but not necessarily	49
+in general no	35
+i would say yes	62
+yep	63
+yes, I think so	67
+certainly	83
+no in general	29
+sometimes	51
+not possibly	20
+not quite	41
+possibly not	64
+in general no	50
+ah...hmmmm.... i guess i have to say no... 	39
+mostly	85
+definitely not	92
+yes, it could	62
+definitely	91
+no, not generally	32
+I don't think so	90
+yes, that's right	95
+in general yes	50
+:) not sure, maybe	51
+in general yes	18
+probably	92
+I think so	90
+it depends	80
+mostly	75
+rarely	40
+yes, very likely	68
+yep	99
+YESSSSS!!!!! :):)	79
+not definitely	37
+yes but not necessarily	30
+yes, in general	63
+perhaps	49
+generally yes, but not necessarily	77
+not probably	20
+nope	2
+I think so kind of	23
+possibly but it's doubtful	82
+in general yes	75
+mostly not	32
+probably	57
+not really	92
+rarely	11
+yup	63
+yes	99
+in general, no	24
+sort of	53
+perhaps	79
+certainly	98
+usually	95
+definitely	100
+probably not	50
+no not necessarily at least	9
+no	0
+usually	50
+definitely not	50
+not possibly	50
+not necessarily	90
+not definitely	50
+possibly not	50
+maybe	90
+mostly	50
+not certainly	17
+yes	50
+certainly not	50
+it depends	50
+almost	80
+generally	50
+usually	82
+not certainly	50
+usually	50
+yes, it is possible	71
+in general yes	50
+in general no	4
+not usually	50
+not certainly	3
+yes!	86
+certainly not	50
+no, not generally	9
+possibly not	50
+not probably	50
+certainly	50
+Uhm not necessarily	85
+not probably	50
+yes, I think so	50
+definitely	100
+not necessarily	50
+no not exactly	50
+yea	84
+it's possible, but generally i guess i'd say no 	50
+yes, that's right	97
+no in general	50
+I don't think so	50
+I think so kind of	50
+yes definitely	98
+no it doesn't really relate	50
+hmm not exactly... (but again one could) 	66
+probably	50
+nope	86
+could be both yes and no	50
+sometimes	95
+nope	50
+no, not at all	2
+hmm, I'd say yes in general 	34
+ah...hmmmm.... i guess i have to say no... 	50
+I'm going to say yes	98
+I think so	50
+sort of	50
+that's a hard one... I guess not really	13
+eh... yes, you could say so. 	28
+I think so kind of	50
+not quite	50
+YESSSSS!!!!! :):)	50
+yes, in general	50
+no, not at all	92
+yea	50
+no not really	50
+yes, it could	50
+yes definitely	92
+almost	50
+yes usually	88
+yes it can be	50
+not that much	50
+possibly, yes	85
+that's a hard one... I guess not really	50
+maybe	50
+no not necessarily but could be	20
+NO!	90
+no, not necessarily	50
+no	50
+in general, no	50
+yea	75
+depends	77
+no, not generally	50
+YES!!!	50
+no in general	24
+probably	50
+no in general	6
+possibly	50
+yes, that's right	50
+yes, it can be	50
+yes in general	89
+in general yes	59
+not usually	50
+yes i would assume so yes 	74
+perhaps	92
+yes but not necessarily	50
+NO!	2
+possibly, yes	50
+no, not necessarily	90
+:) not sure, maybe	50
+not definitely	58
+possibly but it's doubtful	9
+yes, it can be	79
+nope	62
+yes in general	50
+not exactly	14
+certainly not	60
+yes!	99
+not usually	88
+definitely	89
+possibly, yes	85
+perhaps	50
+could be but not necessarily	50
+certainly	89
+hmm, I'd say yes in general 	83
+no	91
+yes, that's right	50
+not probably	86
+in general no	20
+yes, definitely	100
+sort of	89
+not possibly	91
+in general yes	70
+it depends	87
+yes!!	50
+YESSSSS!!!!! :):)	100
+possibly	93
+yes, it could	50
+rarely	88
+no not really	1
+possibly	34
+yes	90
+yes definitely	50
+not probably	12
+yes!	91
+I think so...	53
+I'm going to say yes	89
+definitely not	0
+usually, yes	86
+i would say yes	50
+could be both yes and no	58
+not necessarily	62
+no, not at all	50
+I think so	58
+that's a hard one... I guess not really	50
+yes to some extent	71
+not definitely	13
+I think so...	58
+yes I suppose	50
+I think so kind of	60
+yes, it could	71
+probably	63
+not that much	23
+ah...hmmmm.... i guess i have to say no... 	60
+no, not necessarily	50
+yes, I think so	86
+yes, that's right	90
+not possibly	0
+could be but not necessarily	91
+I think so	67
+definitely	50
+sort of	50
+yes i would assume so yes 	89
+yes, it could	87
+no	0
+yes, it can be	87
+yes!	50
+not certainly	39
+no, not necessarily	90
+mostly not	11
+not exactly	50
+not that much	88
+definitely	89
+probably	90
+I'm going to say yes	50
+I don't think so	28
+I think so...	50
+eh... yes, you could say so. 	86
+sometimes	50
+no it doesn't really relate	91
+no not really	30
+yes!!!	50
+YESSSSS!!!!! :):)	50
+hmm, I'd say yes in general 	93
+YES!!!	100
+yes i would assume so yes 	50
+yup	90
+almost	89
+not really	24
+generally yes, but not necessarily	50
+yes but not necessarily	92
+maybe	50
+yup	50
+yes!!!	86
+Uhm not necessarily	90
+mostly not	41
+that's a hard one... I guess not really	89
+no not necessarily but could be	50
+no in general	17
+hmm not exactly... (but again one could) 	90
+yes	50
+it can be but not necessarily	92
+in general, no	50
+no, not generally	89
+yes, I think so	60
+no, not usuallly	50
+I think so kind of	10
+yes it can be	92
+generally	50
+no, not normally	91
+yes in general	50
+yes I suppose	89
+yes i would assume so yes 	65
+maybe	50
+not certainly	46
+yes to some extent	57
+mostly	69
+yes it can be	56
+no	32
+depends	50
+possibly	64
+no, not normally	29
+in general no	43
+nope	20
+yea	65
+possibly not	54
+not usually	45
+no it doesn't really relate	37
+usually	77
+definitely not	18
+yes, it could	61
+not necessarily	41
+rarely	44
+no, not necessarily	37
+yep	88
+it can be but not necessarily	46
+not possibly	44
+it's possible, but generally i guess i'd say no 	28
+it depends	63
+sort of	65
+not exactly	45
+I'm going to say yes	55
+no, not necessarily	52
+I think so...	55
+sometimes	50
+yes	92
+perhaps	57
+no, it can be but not necessarily	36
+possibly but it's doubtful	57
+no not necessarily at least	40
+yes, very likely	73
+almost	65
+yes in general	67
+I don't think so	48
+it's possible, but generally i guess i'd say no 	41
+definitely not	17
+yes!!	95
+ah...hmmmm.... i guess i have to say no... 	38
+usually not	42
+no in general	43
+in general no	37
+yup	58
+possibly	57
+certainly	69
+no, not usuallly	39
+it depends	50
+certainly not	12
+no it doesn't really relate	30
+rarely	51
+no, it can be but not necessarily	55
+yes	91
+not probably	44
+nope	13
+sometimes	68
+probably	58
+sort of	54
+ah...hmmmm.... i guess i have to say no... 	43
+probably not	41
+no, not normally	34
+yes but not necessarily	55
+probably	73
+yes, it could	55
+no	8
+no not necessarily at least	48
+i would say yes	77
+generally yes, but not necessarily	57
+no	1
+no, not necessarily	41
+not necessarily	54
+eh... yes, you could say so. 	70
+ah...hmmmm.... i guess i have to say no... 	45
+not certainly	0
+yes i would assume so yes 	81
+not quite	53
+yes at least possibly	70
+in general no	0
+no not really	43
+yes definitely	90
+in general yes	100
+I think so...	55
+mostly not	44
+not definitely	17
+possibly but it's doubtful	55
+possibly, yes	65
+definitely	100
+nono	88
+nope	0
+I don't think so	45
+no, not at all	17
+perhaps	63
+yes, very likely	60
+in general, no	35
+not exactly	55
+sort of	66
+yes!!!	94
+yes, it could	68
+I think so	81
+no not necessarily at least	46
+yes in general	62
+hmm not exactly... (but again one could) 	56
+probably not	8
+not necessarily	44
+sometimes	56
+Uhm not necessarily	46
+no not exactly	43
+probably	83
+I think so	58
+maybe	58
+almost	61
+sometimes	72
+in general, no	33
+could be but not necessarily	61
+not possibly	8
+yes	100
+yes, it can be	65
+generally yes, but not necessarily	91
+yes definitely	97
+yes it can be	58
+almost	94
+definitely	96
+it depends	99
+yes at least possibly	60
+possibly but it's doubtful	41
+yup	72
+not exactly	12
+not really	9
+I think so	100
+yea	100
+definitely not	14
+probably	100
+I don't think so	9
+not definitely	84
+sort of	100
+generally	100
+that's a hard one... I guess not really	13
+not possibly	15
+probably not	83
+certainly not	21
+not usually	100
+yes!!	99
+I don't think so	100
+rarely	100
+sometimes	100
+could be both yes and no	50
+nope	32
+no, not generally	5
+no not really	70
+I think so kind of	1
+hmm, I'd say yes in general 	92
+hmm not exactly... (but again one could) 	100
+could be but not necessarily	100
+no in general	5
+no, not usuallly	100
+yes, very likely	84
+eh... yes, you could say so. 	86
+perhaps	99
+not exactly	100
+almost	100
+yes, it is possible	98
+Uhm not necessarily	5
+yes to some extent	100
+yes!	89
+no it doesn't really relate	1
+no, it can be but not necessarily	100
+not that much	38
+it can be but not necessarily	100
+yup	80
+yes to some extent	74
+no not exactly	86
+not that much	98
+depends	100
+:) not sure, maybe	57
+i would say yes	78
+no, not at all	19
+yes, in general	91
+nono	1
+no, not normally	77
+NO!	0
+usually, yes	87
+usually	100
+possibly but it's doubtful	100
+yes!	99
+YESSSSS!!!!! :):)	89
+usually, yes	89
+maybe	100
+not quite	100
+not really	100
+no in general	100
+no, it can be but not necessarily	32
+hmm, I'd say yes in general 	100
+could be but not necessarily	62
+yes definitely	99
+no not necessarily but could be	77
+hmm not exactly... (but again one could) 	50
+not necessarily	32
+yup	99
+it's possible, but generally i guess i'd say no 	8
+no, not necessarily	7
+I think so	55
+rarely	75
+certainly not	100
+no	100
+generally	45
+not certainly	15
+rarely	23
+not probably	16
+generally	72
+usually not	9
+sort of	80
+perhaps	53
+probably not	18
+no	0
+I think so	87
+I don't think so	36
+definitely not	11
+not usually	9
+probably	63
+in general no	8
+possibly	55
+usually not	36
+possibly not	43
+nope	0
+definitely not	82
+in general yes	92
+definitely	100
+in general yes	89
+I don't think so	38
+sometimes	50
+not usually	62
+not certainly	42
+yep	100
+definitely	100
+rarely	81
+sort of	50
+certainly	68
+yep	100
+not definitely	54
+usually	75
+nope	3
+not possibly	10
+not probably	31
+not definitely	34
+sort of	55
+yes	88
+no	0
+sometimes	52
+yep	100
+not possibly	33
+it depends	39
+yes, very likely	91
+perhaps	56
+not probably	6
+yes, it can be	68
+I think so kind of	56
+possibly not	93
+YESSSSS!!!!! :):)	100
+usually, yes	64
+not certainly	10
+not certainly	91
+no not necessarily at least	34
+ah...hmmmm.... i guess i have to say no... 	40
+no	99
+not usually	17
+yes!	100
+mostly	40
+it's possible, but generally i guess i'd say no 	37
+hmm, I'd say yes in general 	85
+could be both yes and no	50
+not exactly	34
+yes, definitely	100
+no not really	41
+usually not	81
+yes, definitely	100
+usually, yes	65
+I'm going to say yes	90
+not really	55
+YES!!!	100
+no not exactly	95
+NO!	0
+yes, in general	87
+Uhm not necessarily	40
+not quite	14
+almost	60
+hmm not exactly... (but again one could) 	53
+yes to some extent	60
+no not exactly	0
+it's possible, but generally i guess i'd say no 	44
+YES!!!	100
+yes, very likely	64
+I'm going to say yes	100
+yes, it could	62
+yea	57
+yes to some extent	71
+yes to some extent	84
+possibly but it's doubtful	46
+I don't think so	85
+possibly, yes	59
+that's a hard one... I guess not really	38
+yes, that's right	83
+yes but not necessarily	56
+no, not necessarily	28
+yes, it could	64
+I'm going to say yes	64
+hmm not exactly... (but again one could) 	44
+yes!!	100
+could be both yes and no	51
+not that much	57
+yup	100
+hmm not exactly... (but again one could) 	51
+usually	76
+not quite	44
+maybe	53
+i would say yes	76
+yes, I think so	60
+i would say yes	100
+yes!!	86
+almost	48
+possibly but it's doubtful	19
+yes!	87
+yes usually	79
+that's a hard one... I guess not really	47
+possibly, yes	71
+no, not generally	14
+NO!	89
+sort of	59
+sometimes	53
+yes it can be	69
+nono	0
+could be but not necessarily	51
+depends	50
+yes it can be	66
+no, not necessarily	84
+yes to some extent	69
+not necessarily	48
+that's a hard one... I guess not really	38
+possibly, yes	68
+no, not at all	0
+hmm, I'd say yes in general 	66
+yes i would assume so yes 	69
+YESSSSS!!!!! :):)	100
+nono	19
+yes, that's right	90
+:) not sure, maybe	55
+no, not necessarily	12
+not quite	27
+:) not sure, maybe	50
+it can be but not necessarily	57
+yes, in general	82
+could be but not necessarily	36
+maybe	50
+generally	74
+no, not usuallly	35
+depends	51
+nope	86
+ah...hmmmm.... i guess i have to say no... 	32
+ah...hmmmm.... i guess i have to say no... 	30
+mostly not	33
+no not necessarily but could be	27
+that's a hard one... I guess not really	36
+yes in general	60
+it can be but not necessarily	50
+yup	100
+ah...hmmmm.... i guess i have to say no... 	42
+yes, that's right	100
+could be both yes and no	55
+no not necessarily but could be	54
+no, not usuallly	5
+no in general	46
+not that much	61
+yes, in general	67
+no, it can be but not necessarily	59
+yes it can be	78
+it can be but not necessarily	54
+yes, in general	68
+yes but not necessarily	65
+no not exactly	33
+yes!!	100
+yes, very likely	93
+eh... yes, you could say so. 	58
+maybe	52
+not quite	35
+NO!	0
+possibly	52
+definitely	100
+in general, no	11
+usually, yes	86
+perhaps	30
+probably not	11
+certainly not	0
+no	1
+in general yes	89
+not possibly	62
+not usually	13
+usually	79
+certainly	83
+yep	95
+sometimes	69
+it depends	26
+possibly	66
+nope	3
+I don't think so	16
+yes usually	88
+yes, definitely	94
+yup	95
+no, it can be but not necessarily	27
+maybe	62
+I think so	77
+depends	26
+I think so kind of	79
+yes at least possibly	81
+YESSSSS!!!!! :):)	98
+no not really	13
+could be but not necessarily	32
+yes it can be	69
+no it doesn't really relate	15
+yes, in general	86
+I think so...	68
+yes!	100
+yes i would assume so yes 	94
+yes!!!	98
+sort of	58
+yes, it is possible	70
+Uhm not necessarily	27
+yes	100
+probably	73
+yes, that's right	100
+:) not sure, maybe	32
+yes, very likely	97
+could be both yes and no	49
+mostly not	13
+no, not necessarily	6
+hmm not exactly... (but again one could) 	50
+usually	87
+I don't think so	17
+generally	80
+usually not	15
+possibly	52
+definitely	100
+certainly not	0
+possibly not	28
+certainly	100
+not possibly	0
+in general yes	78
+mostly	77
+no	0
+definitely not	0
+sort of	55
+not really	27
+not exactly	33
+yes, in general	76
+no, not normally	29
+usually, yes	76
+not probably	24
+no, not usuallly	15
+perhaps	55
+yes!!!	100
+certainly	100
+sometimes	58
+kind of	56
+probably	61
+yes, very likely	89
+generally	74
+possibly, yes	63
+certainly not	0
+it depends	46
+perhaps	47
+I think so	71
+usually not	11
+not definitely	40
+no, it can be but not necessarily	41
+not certainly	44
+mostly	79
+definitely	98
+no not exactly	22
+possibly	48
+YES!!!	100
+i would say yes	74
+yes usually	91
+it can be but not necessarily	43
+yes to some extent	69
+yes at least possibly	67
+no, not generally	6
+no it doesn't really relate	3
+no not exactly	8
+yes, it can be	69
+yes, it is possible	63
+not that much	19
+yes!!	100
+yes, it could	82
+yes definitely	100
+yes but not necessarily	59
+not really	14
+no, not necessarily	35
+yes, it can be	78
+NO!	0
+no, not at all	2
+possibly but it's doubtful	26
+yes definitely	100
+usually, yes	84
+depends	47
+yup	95
+yes	100
+not definitely	0
+no, it can be but not necessarily	20
+could be but not necessarily	61
+definitely not	0
+I think so kind of	74
+certainly	100
+not certainly	27
+yes to some extent	77
+not necessarily	41
+probably not	25
+yes it can be	77
+I don't think so	26
+usually	100
+probably	77
+Uhm not necessarily	19
+probably	69
+yes, I think so	77
+YESSSSS!!!!! :):)	98
+sort of	57
+I think so	74
+kind of	60
+ah...hmmmm.... i guess i have to say no... 	33
+not probably	26
+yes, definitely	97
+no not necessarily at least	35
+in general no	11
+nope	0
+hmm not exactly... (but again one could) 	38
+rarely	0
+yup	71
+I think so...	72
+possibly but it's doubtful	35
+yes, it is possible	94
+i would say yes	86
+i would say yes	90
+generally yes, but not necessarily	65
+could be but not necessarily	41
+yes, it can be	73
+no, not usuallly	8
+could be both yes and no	53
+no, not normally	3
+yes it can be	71
+YES!!!	100
+YESSSSS!!!!! :):)	100
+hmm, I'd say yes in general 	65
+hmm not exactly... (but again one could) 	32
+yes, definitely	65
+yes in general	74
+possibly, yes	73
+generally	83
+no it doesn't really relate	18
+not necessarily	25
+possibly	16
+no, not necessarily	12
+no, not generally	25
+in general, no	29
+yea	85
+yes i would assume so yes 	79
+no not necessarily but could be	17
+no not exactly	26
+kind of	61
+usually, yes	77
+yes, very likely	67
+no, it can be but not necessarily	25
+no not necessarily at least	31
+yes, it could	69
+probably	43
+not usually	60
+certainly	89
+not possibly	34
+usually	64
+certainly not	97
+generally	59
+sort of	37
+yes	92
+sometimes	41
+usually not	24
+mostly	77
+probably not	28
+nope	21
+definitely not	7
+yup	68
+depends	50
+possibly but it's doubtful	36
+generally yes, but not necessarily	50
+not quite	32
+yes, that's right	62
+yes!	86
+in general, no	16
+usually, yes	76
+not that much	25
+yes, I think so	74
+could be but not necessarily	35
+yes it can be	62
+hmm not exactly... (but again one could) 	30
+definitely	99
+yes I suppose	65
+NO!	12
+not necessarily	27
+hmm, I'd say yes in general 	62
+yes, it could	63
+no not necessarily but could be	35
+kind of	44
+I think so	58
+no not necessarily at least	43
+yea	61
+yes i would assume so yes 	62
+no	16
+possibly	57
+no not exactly	33
+YESSSSS!!!!! :):)	78
+no it doesn't really relate	38
+maybe	50
+not definitely	68
+nope	86
+definitely not	69
+definitely	96
+usually	87
+mostly	74
+not probably	10
+perhaps	75
+in general no	12
+in general yes	89
+possibly not	86
+certainly not	89
+sort of	80
+generally	87
+yep	9
+yup	80
+probably	83
+ah...hmmmm.... i guess i have to say no... 	17
+not necessarily	88
+yes, very likely	81
+no not really	84
+it can be but not necessarily	78
+yes but not necessarily	80
+generally yes, but not necessarily	12
+I think so	80
+yes, I think so	83
+yes, it is possible	94
+no, not necessarily	81
+sometimes	88
+yes!!	92
+not quite	84
+yes to some extent	15
+could be both yes and no	79
+possibly, yes	77
+not really	79
+:) not sure, maybe	12
+yes it can be	88
+almost	77
+depends	70
+yes usually	5
+I think so kind of	10
+no not necessarily but could be	17
+no	80
+yes!	77
+in general, no	13
+i would say yes	81
+mostly not	22
+yes, it can be	76
+sort of	66
+certainly	99
+certainly not	3
+usually not	61
+not possibly	16
+perhaps	75
+probably not	75
+definitely not	0
+no	5
+in general yes	100
+sometimes	64
+I don't think so	4
+possibly	100
+not usually	8
+yes	97
+yes, it could	99
+yes!!!	100
+I think so kind of	60
+yes in general	100
+eh... yes, you could say so. 	100
+not quite	8
+yes definitely	100
+no not really	9
+mostly not	0
+yes!	100
+yes at least possibly	95
+yes usually	100
+it can be but not necessarily	27
+hmm not exactly... (but again one could) 	71
+:) not sure, maybe	88
+it's possible, but generally i guess i'd say no 	0
+not exactly	0
+possibly, yes	100
+mostly	46
+no, not necessarily	5
+generally	98
+I think so...	96
+not necessarily	14
+no, not usuallly	14
+yes, it is possible	100
+depends	58
+hmm, I'd say yes in general 	100
+no not exactly	0
+NO!	0
+yes!!	100
+usually not	37
+not usually	17
+kind of	63
+no not necessarily but could be	17
+usually, yes	96
+possibly not	53
+not definitely	57
+in general no	53
+not possibly	21
+possibly	55
+probably	56
+not certainly	19
+generally	43
+I think so	100
+not probably	10
+certainly not	18
+rarely	7
+not exactly	11
+yes!!	100
+it can be but not necessarily	40
+I don't think so	1
+sometimes	48
+definitely	100
+I think so...	99
+yes but not necessarily	61
+yes, it can be	65
+ah...hmmmm.... i guess i have to say no... 	5
+I think so kind of	55
+yes!	98
+usually, yes	94
+nope	16
+yes it can be	68
+depends	35
+no, not usuallly	6
+yes, it could	47
+no not really	15
+yes i would assume so yes 	84
+yes I suppose	78
+yes to some extent	83
+maybe	93
+perhaps	84
+no	19
+no not necessarily but could be	22
+not necessarily	21
+usually	39
+yes, it is possible	81
+yes	100
+yes at least possibly	63
+could be but not necessarily	21
+hmm not exactly... (but again one could) 	45
+sometimes	50
+certainly	71
+yep	63
+no	18
+mostly	64
+generally	59
+probably not	24
+definitely	100
+nope	30
+not possibly	24
+definitely not	0
+not usually	28
+it depends	45
+possibly not	41
+probably	84
+possibly but it's doubtful	54
+not exactly	38
+usually	66
+could be both yes and no	50
+almost	58
+no, not necessarily	35
+YES!!!	81
+no, not normally	28
+I think so	70
+it's possible, but generally i guess i'd say no 	35
+yes, it is possible	61
+yes but not necessarily	55
+yes i would assume so yes 	63
+YESSSSS!!!!! :):)	91
+NO!	9
+usually, yes	80
+yes definitely	99
+no not exactly	26
+yea	63
+I think so kind of	55
+yes to some extent	56
+not really	36
+yes, I think so	62
+not quite	33
+in general, no	39
+yes it can be	62
+no not really	29
+generally yes, but not necessarily	60
+Uhm not necessarily	31
+no, it can be but not necessarily	32
+yes, it can be	59
+yes, very likely	70
+not usually	30
+generally	76
+in general no	13
+I think so	62
+probably	18
+certainly	86
+in general yes	88
+certainly not	8
+certainly	94
+sometimes	54
+rarely	6
+probably	63
+not certainly	7
+usually not	24
+not definitely	14
+mostly	66
+probably not	26
+usually not	12
+not probably	40
+nope	43
+not usually	26
+possibly	50
+possibly	56
+yep	87
+not quite	56
+definitely not	3
+it depends	50
+could be both yes and no	49
+usually	69
+hmm, I'd say yes in general 	64
+not definitely	57
+sort of	55
+nope	1
+yes but not necessarily	71
+yes at least possibly	60
+not possibly	75
+mostly not	33
+it's possible, but generally i guess i'd say no 	20
+probably	61
+yea	52
+hmm, I'd say yes in general 	58
+ah...hmmmm.... i guess i have to say no... 	42
+kind of	55
+sometimes	56
+mostly not	32
+no, not usuallly	31
+yes i would assume so yes 	68
+yup	52
+certainly	74
+no not really	31
+not certainly	36
+definitely	68
+eh... yes, you could say so. 	62
+sort of	26
+could be but not necessarily	54
+not usually	36
+eh... yes, you could say so. 	57
+usually, yes	73
+definitely not	91
+nope	70
+yep	64
+no, not usuallly	13
+mostly	40
+maybe	76
+yes	97
+yes definitely	100
+I think so	63
+generally yes, but not necessarily	57
+I don't think so	28
+usually	45
+I think so kind of	52
+not really	35
+usually not	62
+kind of	54
+definitely not	64
+no, not generally	40
+possibly	63
+yes!!	100
+no, not generally	19
+yes, it could	60
+not that much	39
+yea	84
+yes, very likely	82
+yes, definitely	100
+no not really	18
+yes in general	86
+yes!!!	100
+not that much	57
+generally yes, but not necessarily	63
+no, not normally	24
+no, it can be but not necessarily	35
+yes, it is possible	59
+yes it can be	68
+no, not necessarily	10
+yes, it could	67
+no	0
+perhaps	50
+possibly	84
+that's a hard one... I guess not really	42
+yes to some extent	69
+yes, very likely	85
+NO!	2
+not probably	42
+almost	58
+certainly	85
+yes definitely	91
+yes	100
+not necessarily	19
+rarely	36
+usually	64
+yes at least possibly	56
+probably not	40
+YESSSSS!!!!! :):)	100
+yep	87
+I don't think so	42
+certainly not	92
+it depends	41
+not definitely	68
+yes, very likely	90
+could be but not necessarily	67
+i would say yes	89
+no, not normally	79
+usually	67
+yes!	98
+perhaps	63
+usually, yes	77
+no, not usuallly	73
+yes, it could	76
+yes, it is possible	66
+not really	65
+hmm not exactly... (but again one could) 	42
+no, not necessarily	65
+no it doesn't really relate	82
+possibly, yes	73
+no, it can be but not necessarily	33
+YESSSSS!!!!! :):)	100
+almost	64
+I think so...	40
+yes	99
+yup	96
+no in general	77
+Uhm not necessarily	38
+possibly not	29
+probably not	34
+yes I suppose	68
+in general yes	69
+yep	94
+not usually	23
+generally	54
+no not necessarily but could be	31
+perhaps	54
+rarely	54
+definitely	85
+nope	12
+no	96
+it depends	54
+certainly not	10
+possibly	54
+no	25
+certainly	57
+I think so kind of	57
+yes, very likely	68
+depends	65
+I think so	58
+not quite	39
+YESSSSS!!!!! :):)	86
+it can be but not necessarily	54
+yes i would assume so yes 	69
+nope	98
+yes	64
+no, not normally	16
+in general, no	19
+yes, definitely	71
+no not really	42
+yes but not necessarily	72
+yes, in general	96
+i would say yes	69
+probably	62
+no in general	63
+in general no	93
+possibly but it's doubtful	64
+no, not necessarily	22
+hmm, I'd say yes in general 	62
+not exactly	57
+no not really	93
+not really	30
+mostly not	30
+yes!	62
+yes, it is possible	76
+yes in general	61
+nono	25
+usually	63
+NO!	23
+hmm not exactly... (but again one could) 	37
+:) not sure, maybe	58
+yes, in general	65
+not that much	62
+yea	64
+yes	100
+usually not	50
+yep	81
+definitely not	0
+in general no	28
+generally	82
+nope	11
+I think so	76
+in general yes	66
+not usually	32
+rarely	42
+certainly not	0
+definitely	70
+probably	66
+sometimes	61
+I'm going to say yes	100
+yes, I think so	86
+perhaps	68
+not usually	19
+usually, yes	71
+probably	54
+yes to some extent	76
+sometimes	79
+yes, that's right	100
+not probably	18
+maybe	63
+no	0
+it's possible, but generally i guess i'd say no 	39
+yes usually	86
+not probably	12
+not certainly	21
+not definitely	0
+yes, very likely	84
+probably	72
+no in general	27
+it depends	48
+certainly	88
+definitely not	6
+in general no	18
+no, it can be but not necessarily	34
+perhaps	45
+nope	1
+possibly not	47
+yes definitely	100
+definitely	93
+generally yes, but not necessarily	40
+generally	65
+it depends	49
+certainly not	0
+hmm, I'd say yes in general 	67
+not definitely	26
+in general yes	76
+yes but not necessarily	57
+I think so	73
+no, not usuallly	31
+sort of	55
+YES!!!	100
+in general, no	20
+rarely	26
+probably not	35
+no not really	2
+yea	100
+sort of	55
+yes, that's right	99
+could be but not necessarily	37
+no, not at all	0
+sometimes	50
+not quite	22
+nope	30
+Uhm not necessarily	21
+no not necessarily but could be	61
+yes, it can be	74
+no, not normally	33
+yup	100
+yes!	100
+in general no	37
+that's a hard one... I guess not really	40
+no, not at all	20
+yes, it is possible	59
+yes, I think so	74
+not usually	36
+generally yes, but not necessarily	51
+in general, no	19
+maybe	50
+not quite	25
+yes usually	75
+probably	72
+yes I suppose	77
+no not really	33
+I don't think so	24
+no not exactly	22
+nope	50
+no, not usuallly	42
+yes, definitely	100
+yes	82
+no not necessarily but could be	48
+yes I suppose	71
+hmm, I'd say yes in general 	54
+I think so	76
+depends	51
+yes in general	73
+it depends	75
+possibly but it's doubtful	28
+yup	100
+in general no	80
+YESSSSS!!!!! :):)	97
+not exactly	30
+not possibly	50
+yes, it could	65
+I think so...	91
+perhaps	56
+yes!!	85
+not usually	65
+yes	100
+no, it can be but not necessarily	44
+not definitely	50
+Uhm not necessarily	31
+I don't think so	76
+generally	70
+yes i would assume so yes 	80
+eh... yes, you could say so. 	73
+yep	61
+yup	100
+yes, very likely	94
+certainly	50
+yes i would assume so yes 	91
+certainly not	62
+:) not sure, maybe	51
+depends	52
+not that much	23
+not necessarily	38
+usually	79
+yes usually	68
+possibly	56
+no not exactly	31
+yes!!	99
+ah...hmmmm.... i guess i have to say no... 	46
+yes it can be	74
+I'm going to say yes	69
+it can be but not necessarily	51
+it can be but not necessarily	57
+yes!	100
+NO!	0
+maybe	50
+I think so kind of	50
+I think so	66
+yes it can be	64
+possibly but it's doubtful	25
+possibly	78
+in general yes	77
+yes to some extent	59
+yes usually	74
+no it doesn't really relate	22
+it can be but not necessarily	79
+:) not sure, maybe	45
+no, not normally	8
+usually, yes	78
+not really	37
+usually	86
+I think so...	71
+in general, no	75
+that's a hard one... I guess not really	64
+could be both yes and no	79
+yes in general	67
+almost	77
+nono	64
+NO!	50
+no, not usuallly	50
+eh... yes, you could say so. 	72
+hmm not exactly... (but again one could) 	50
+yes, it is possible	66
+no, not necessarily	75
+usually, yes	74
+yes, that's right	69
+no not really	62
+not exactly	69
+sort of	77
+it depends	43
+not possibly	25
+sometimes	66
+usually	91
+not usually	14
+nope	1
+mostly	90
+yes	100
+probably not	8
+I don't think so	24
+I think so	78
+definitely	100
+certainly	100
+not probably	20
+not exactly	29
+yes!!	100
+I think so kind of	64
+mostly not	19
+could be both yes and no	50
+yes but not necessarily	69
+yes i would assume so yes 	82
+not quite	40
+:) not sure, maybe	57
+no not necessarily but could be	54
+eh... yes, you could say so. 	65
+no not exactly	44
+no, not normally	30
+yes, in general	83
+hmm not exactly... (but again one could) 	67
+not really	32
+generally	73
+possibly, yes	70
+it can be but not necessarily	62
+no, not generally	22
+possibly but it's doubtful	61
+yes!!!	100
+yea	100
+probably	75
+I think so...	62
+generally yes, but not necessarily	58
+yes, that's right	100
+yes, it can be	75
+no, not at all	0
+could be but not necessarily	69
+possibly	72
+yes, it could	83
+definitely	99
+probably	0
+usually not	70
+certainly	99
+sort of	32
+maybe	74
+rarely	22
+yea	75
+yep	100
+possibly, yes	68
+in general yes	70
+perhaps	64
+yes, in general	77
+kind of	75
+I don't think so	69
+no, not normally	76
+no	66
+I think so	66
+no, not at all	79
+nope	0
+it's possible, but generally i guess i'd say no 	68
+ah...hmmmm.... i guess i have to say no... 	50
+:) not sure, maybe	73
+yes to some extent	76
+yes!	67
+mostly	81
+yes	100
+not probably	27
+probably not	26
+not that much	24
+yes, it can be	84
+yes I suppose	65
+yes, it could	94
+yes it can be	90
+yes i would assume so yes 	68
+yes!!!	100
+no, not necessarily	0
+could be but not necessarily	59
+not quite	29
+no, not normally	0
+yes, it is possible	100
+no not exactly	0
+generally	52
+yup	79
+depends	60
+no it doesn't really relate	12
+possibly but it's doubtful	41
+yes, that's right	100
+nono	0
+no, not usuallly	0
+eh... yes, you could say so. 	17
+yes!	100
+kind of	63
+yes!!	98
+yes, definitely	100
+it can be but not necessarily	48
+yes at least possibly	55
+yes, very likely	78
+not exactly	14
+yes to some extent	64
+yes but not necessarily	50
+almost	50
+sort of	71
+certainly not	1
+perhaps	66
+rarely	7
+no	1
+mostly	85
+probably not	7
+not usually	13
+generally	91
+not probably	27
+certainly	99
+yep	100
+definitely	98
+nope	0
+in general no	5
+no in general	20
+NO!	1
+generally yes, but not necessarily	85
+hmm not exactly... (but again one could) 	65
+not quite	42
+depends	48
+it's possible, but generally i guess i'd say no 	42
+no it doesn't really relate	14
+possibly but it's doubtful	23
+I think so	80
+mostly not	15
+nono	0
+yes!!	99
+yes in general	83
+yes, very likely	95
+no, not usuallly	8
+yes, I think so	93
+could be both yes and no	49
+in general, no	10
+yes but not necessarily	59
+yes usually	84
+kind of	61
+ah...hmmmm.... i guess i have to say no... 	18
+yes!	100
+yes	98
+I don't think so	20
+yes to some extent	74
+no, not generally	29
+generally	59
+YESSSSS!!!!! :):)	98
+yep	75
+possibly	63
+not possibly	29
+yes at least possibly	72
+definitely not	0
+it depends	50
+yes	96
+usually	60
+definitely	100
+perhaps	39
+sometimes	54
+rarely	36
+possibly not	25
+in general yes	60
+certainly not	5
+probably not	39
+yes, it can be	67
+yes, very likely	87
+it's possible, but generally i guess i'd say no 	24
+almost	53
+no in general	17
+possibly, yes	61
+eh... yes, you could say so. 	29
+yes in general	62
+nope	25
+ah...hmmmm.... i guess i have to say no... 	26
+not really	32
+I think so	63
+i would say yes	63
+yes!!	24
+hmm, I'd say yes in general 	28
+kind of	29
+I think so...	70
+no, not necessarily	24
+NO!	13
+Uhm not necessarily	16
+generally yes, but not necessarily	63
+I think so kind of	55
+in general no	37
+yes I suppose	67
+hmm not exactly... (but again one could) 	27
+yea	64
+YES!!!	85
+could be but not necessarily	39
+no, not usuallly	35
+maybe	63
+yes!	85
+not exactly	38
+definitely	100
+probably not	0
+usually not	0
+not certainly	100
+certainly not	100
+no	100
+mostly	100
+generally	0
+definitely not	0
+in general no	0
+not probably	0
+I don't think so	100
+nope	0
+not usually	0
+sort of	0
+maybe	100
+nono	2
+it's possible, but generally i guess i'd say no 	100
+yes definitely	0
+yes but not necessarily	1
+yes!!	100
+that's a hard one... I guess not really	0
+YESSSSS!!!!! :):)	100
+yes it can be	0
+no not really	0
+no, not usuallly	0
+yes, it could	0
+yea	0
+I think so...	0
+not exactly	0
+I think so kind of	0
+I'm going to say yes	0
+no, not generally	0
+usually, yes	0
+:) not sure, maybe	100
+generally yes, but not necessarily	0
+no in general	0
+no not necessarily at least	0
+perhaps	0
+yes	100
+possibly but it's doubtful	0
+yes, very likely	100
+depends	0
+not necessarily	0
+ah...hmmmm.... i guess i have to say no... 	0
+yes, it can be	0
+no	80
+definitely	100
+not usually	24
+in general no	29
+not possibly	6
+possibly	78
+not probably	44
+yep	89
+sometimes	63
+perhaps	69
+certainly not	26
+nope	0
+possibly not	42
+I don't think so	20
+it depends	81
+sometimes	85
+definitely	88
+mostly	55
+certainly	95
+certainly not	4
+sort of	49
+perhaps	50
+possibly not	19
+no	5
+probably	60
+probably not	17
+definitely not	1
+usually not	18
+yes, it is possible	58
+yes at least possibly	63
+yes, definitely	100
+I think so kind of	49
+not quite	32
+NO!	0
+yes, it can be	68
+definitely not	34
+it's possible, but generally i guess i'd say no 	18
+I think so	60
+not really	12
+possibly but it's doubtful	29
+yes!	100
+yes, that's right	96
+usually	65
+nono	16
+not quite	32
+yup	82
+no, not necessarily	16
+no, not necessarily	16
+no not exactly	16
+yes i would assume so yes 	72
+no not necessarily at least	13
+YESSSSS!!!!! :):)	100
+could be both yes and no	51
+ah...hmmmm.... i guess i have to say no... 	40
+it depends	21
+generally yes, but not necessarily	65
+not that much	43
+mostly	69
+no in general	28
+not certainly	5
+in general, no	29
+eh... yes, you could say so. 	62
+usually not	14
+no not necessarily but could be	43
+not probably	3
+yes usually	65
+almost	57
+I think so...	55
+definitely not	2
+I'm going to say yes	59
+no	0
+:) not sure, maybe	59
+possibly not	19
+Uhm not necessarily	17
+hmm not exactly... (but again one could) 	38
+generally yes, but not necessarily	68
+I think so kind of	61
+not exactly	23
+yes I suppose	69
+depends	50
+yes	97
+possibly but it's doubtful	31
+not definitely	2
+I don't think so	30
+:) not sure, maybe	52
+generally	85
+that's a hard one... I guess not really	28
+no not exactly	37
+sometimes	50
+no, not generally	42
+I think so	85
+possibly	52
+yup	100
+probably	63
+yes in general	71
+definitely	94
+not necessarily	34
+usually, yes	83
+that's a hard one... I guess not really	5
+yes to some extent	61
+YES!!!	100
+sort of	63
+yes in general	85
+yes, it can be	59
+not exactly	12
+yes but not necessarily	66
+mostly not	33
+no not really	6
+I'm going to say yes	68
+eh... yes, you could say so. 	67
+usually	85
+yes, it could	85
+possibly, yes	62
+almost	72
+yes definitely	100
+yes, very likely	91
+NO!	0
+possibly, yes	67
+yes I suppose	67
+yes, very likely	81
+mostly not	35
+no in general	12
+hmm not exactly... (but again one could) 	44
+no not exactly	19
+not really	26
+yes, it is possible	57
+yea	76
+I don't think so	21
+no, not at all	0
+i would say yes	88
+could be but not necessarily	53
+kind of	52
+yes i would assume so yes 	75
+YESSSSS!!!!! :):)	100
+depends	54
+it's possible, but generally i guess i'd say no 	46
+yes, it could	70
+definitely not	0
+yep	99
+generally	73
+not probably	25
+not usually	26
+nope	4
+definitely	99
+probably not	23
+not certainly	65
+possibly not	45
+probably	72
+perhaps	58
+sort of	66
+I think so	72
+in general no	26
+i would say yes	67
+yes i would assume so yes 	70
+I'm going to say yes	57
+not quite	32
+hmm not exactly... (but again one could) 	43
+Uhm not necessarily	45
+no, not generally	24
+certainly not	27
+hmm, I'd say yes in general 	66
+usually	80
+possibly	90
+no, it can be but not necessarily	49
+kind of	63
+yes!!	97
+yea	92
+no it doesn't really relate	42
+ah...hmmmm.... i guess i have to say no... 	34
+no in general	27
+yes, very likely	78
+YESSSSS!!!!! :):)	98
+yes but not necessarily	55
+yes, I think so	67
+yes definitely	98
+not really	36
+no not necessarily but could be	52
+in general, no	24
+it can be but not necessarily	53
+I think so...	62
+it's possible, but generally i guess i'd say no 	38
+yes, it is possible	67
+eh... yes, you could say so. 	55
+yes!!!	97
+no, not normally	25
+I think so kind of	62
+that's a hard one... I guess not really	35
+not probably	76
+probably not	25
+definitely not	28
+not usually	26
+not definitely	45
+definitely	87
+in general no	12
+certainly not	11
+no	7
+probably not	35
+perhaps	62
+not possibly	19
+in general yes	85
+yep	77
+usually not	13
+not certainly	24
+rarely	12
+possibly not	16
+it depends	33
+certainly	74
+possibly not	41
+I don't think so	8
+yes, it can be	79
+usually	71
+could be but not necessarily	21
+probably	76
+usually, yes	91
+not probably	9
+Uhm not necessarily	14
+not certainly	16
+depends	50
+yep	95
+sometimes	50
+sort of	61
+I think so...	76
+yes, that's right	95
+yes, in general	89
+it's possible, but generally i guess i'd say no 	40
+hmm not exactly... (but again one could) 	50
+no not necessarily at least	21
+eh... yes, you could say so. 	71
+not exactly	35
+generally yes, but not necessarily	67
+no in general	15
+usually, yes	80
+sort of	79
+yes at least possibly	71
+yes, I think so	90
+not that much	27
+yes!!	98
+i would say yes	86
+sometimes	64
+yes to some extent	80
+possibly but it's doubtful	54
+no, not at all	1
+yes, it could	74
+yes usually	88
+yes at least possibly	68
+possibly	64
+yes!	99
+yes, I think so	71
+NO!	1
+could be both yes and no	50
+YES!!!	100
+that's a hard one... I guess not really	33
+YESSSSS!!!!! :):)	100
+I don't think so	13
+yes, in general	89
+perhaps	64
+it can be but not necessarily	40
+no, not usuallly	12
+yes usually	87
+no in general	16
+yes	90
+no, it can be but not necessarily	42
+no not really	15
+:) not sure, maybe	50
+yes i would assume so yes 	92
+mostly not	16
+mostly not	11
+i would say yes	95
+yes it can be	80
+maybe	50
+ah...hmmmm.... i guess i have to say no... 	18
+certainly	98
+Uhm not necessarily	42
+not that much	30
+nope	1
+not certainly	25
+maybe	58
+no not necessarily but could be	50
+certainly not	0
+yup	92
+not definitely	24
+sometimes	71
+could be but not necessarily	61
+perhaps	64
+it's possible, but generally i guess i'd say no 	47
+rarely	23
+yes, definitely	100
+in general yes	86
+YES!!!	98
+not usually	24
+probably	80
+usually not	28
+sort of	59
+I think so	71
+I don't think so	14
+yes I suppose	76
+yes usually	84
+I think so kind of	58
+yup	89
+yes but not necessarily	69
+generally yes, but not necessarily	65
+yes, I think so	81
+yes, that's right	99
+maybe	68
+ah...hmmmm.... i guess i have to say no... 	26
+no not necessarily but could be	40
+could be but not necessarily	31
+it can be but not necessarily	23
+Uhm not necessarily	29
+I think so...	62
+I'm going to say yes	78
+no, not normally	8
+not really	7
+yes!!	99
+not that much	22
+yea	99
+kind of	67
+YESSSSS!!!!! :):)	99
+in general, no	21
+no, it can be but not necessarily	35
+not exactly	26
+hmm not exactly... (but again one could) 	31
+could be both yes and no	52
+not possibly	42
+definitely not	27
+generally	83
+possibly	64
+definitely	87
+mostly	78
+probably	56
+perhaps	54
+yes	96
+sort of	45
+in general no	18
+possibly not	26
+usually	67
+not usually	36
+not probably	24
+generally	88
+yep	98
+no in general	20
+not probably	0
+hmm not exactly... (but again one could) 	51
+possibly	81
+not that much	43
+probably	83
+not definitely	10
+no not necessarily but could be	45
+certainly	99
+possibly but it's doubtful	29
+sort of	88
+mostly	95
+yes i would assume so yes 	67
+rarely	7
+not exactly	44
+yes but not necessarily	56
+not certainly	12
+not necessarily	31
+definitely not	1
+I think so kind of	56
+sometimes	73
+sometimes	55
+usually	82
+yes!	89
+I think so	87
+kind of	52
+yup	98
+YESSSSS!!!!! :):)	100
+I don't think so	15
+possibly, yes	93
+no not really	30
+yes, I think so	97
+yes to some extent	76
+yea	82
+I think so...	79
+that's a hard one... I guess not really	15
+no, not necessarily	10
+no not exactly	36
+yes	100
+hmm, I'd say yes in general 	60
+yes, it could	89
+yes in general	74
+yes, it is possible	82
+mostly not	29
+not that much	13
+possibly but it's doubtful	45
+no, not necessarily	27
+no not really	1
+nono	42
+mostly not	2
+no	2
+yes, it could	85
+no not necessarily but could be	6
+no, not at all	12
+definitely	99
+no, not generally	37
+yes, it is possible	67
+YESSSSS!!!!! :):)	100
+yes definitely	100
+yes!	100
+yes, definitely	100
+it's possible, but generally i guess i'd say no 	40
+no not necessarily at least	12
+could be both yes and no	50
+not really	10
+yes I suppose	60
+not possibly	0
+not usually	20
+rarely	30
+usually	80
+in general yes	89
+usually, yes	94
+not probably	20
+yes but not necessarily	55
+not usually	9
+usually	72
+no, it can be but not necessarily	17
+not probably	25
+in general yes	89
+eh... yes, you could say so. 	96
+perhaps	67
+generally yes, but not necessarily	92
+it depends	50
+definitely	99
+I think so	69
+probably not	11
+usually not	13
+I think so	94
+certainly	98
+mostly	79
+nope	0
+possibly	78
+yes	100
+sometimes	80
+mostly	84
+in general no	6
+probably not	13
+I don't think so	2
+generally	77
+generally	92
+possibly	60
+not possibly	34
+possibly, yes	87
+definitely	100
+probably	85
+yes, that's right	100
+no, not normally	5
+Uhm not necessarily	6
+no, it can be but not necessarily	6
+yes in general	94
+I'm going to say yes	95
+eh... yes, you could say so. 	100
+possibly but it's doubtful	11
+yes, it can be	88
+yes at least possibly	67
+hmm, I'd say yes in general 	86
+mostly not	7
+NO!	0
+i would say yes	87
+yes, I think so	88
+sort of	62
+yes, definitely	100
+usually, yes	89
+yes I suppose	89
+no not necessarily at least	8
+yes definitely	100
+I think so kind of	66
+probably	69
+not necessarily	27
+perhaps	63
+not exactly	36
+no, it can be but not necessarily	45
+yup	100
+in general, no	4
+possibly but it's doubtful	45
+not quite	4
+yes it can be	74
+it can be but not necessarily	30
+yea	80
+depends	50
+yes, in general	86
+no, not usuallly	9
+it's possible, but generally i guess i'd say no 	7
+kind of	61
+yes, very likely	92
+in general, no	8
+no, not necessarily	6
+maybe	72
+yes!!	100
+yes!	99
+no not really	12
+yes, that's right	100
+no, not at all	0
+could be both yes and no	50
+NO!	1
+no not exactly	4
+yes but not necessarily	59
+hmm not exactly... (but again one could) 	44
+not quite	39
+generally yes, but not necessarily	62
+yes!!	100
+yes, it is possible	78
+could be but not necessarily	45
+yes i would assume so yes 	66
+it's possible, but generally i guess i'd say no 	29
+that's a hard one... I guess not really	31
+possibly, yes	68
+rarely	68
+in general yes	100
+certainly	100
+yep	100
+it depends	43
+definitely	100
+generally	49
+not possibly	60
+usually	48
+possibly	92
+certainly not	35
+I don't think so	13
+in general no	11
+perhaps	56
+perhaps	66
+definitely not	0
+not definitely	42
+sort of	52
+not certainly	14
+in general no	18
+not probably	40
+yes	100
+not definitely	76
+sometimes	43
+not possibly	43
+possibly not	34
+probably not	9
+probably	88
+in general yes	47
+it depends	42
+yes I suppose	64
+sometimes	62
+no, not usuallly	10
+yes, in general	74
+mostly	54
+no, it can be but not necessarily	31
+no, not normally	10
+no, not generally	30
+definitely not	44
+generally yes, but not necessarily	72
+no not necessarily but could be	32
+I don't think so	23
+possibly, yes	60
+probably	59
+yes but not necessarily	59
+not that much	40
+almost	54
+not usually	9
+nope	12
+yes!!!	100
+no, not necessarily	32
+not necessarily	16
+hmm, I'd say yes in general 	71
+no	34
+yes, I think so	76
+no, not at all	0
+I'm going to say yes	87
+yes!	100
+yes to some extent	78
+it can be but not necessarily	48
+in general, no	7
+yes, definitely	100
+yes i would assume so yes 	71
+hmm not exactly... (but again one could) 	48
+I think so	52
+yes!!	100
+not that much	29
+nono	0
+no, not usuallly	16
+not exactly	31
+sort of	60
+no it doesn't really relate	22
+i would say yes	74
+yes but not necessarily	48
+yes it can be	72
+no, not normally	6
+kind of	53
+YESSSSS!!!!! :):)	100
+yes to some extent	77
+usually, yes	78
+possibly but it's doubtful	12
+in general, no	5
+eh... yes, you could say so. 	68
+yes!	100
+yes definitely	100
+Uhm not necessarily	29
+could be but not necessarily	52
+YES!!!	100
+not really	5
+i would say yes	94
+ah...hmmmm.... i guess i have to say no... 	10
+possibly, yes	71
+kind of	63
+yes	100
+I think so kind of	63
+yes, it can be	72
+no not exactly	14
+yes, definitely	100
+no it doesn't really relate	0
+eh... yes, you could say so. 	90
+yes	98
+not possibly	0
+in general no	4
+usually	74
+generally	84
+definitely	100
+probably not	7
+certainly not	3
+not probably	20
+sort of	56
+no, not generally	6
+it's possible, but generally i guess i'd say no 	37
+could be but not necessarily	41
+possibly but it's doubtful	28
+no, it can be but not necessarily	25
+yes, very likely	90
+eh... yes, you could say so. 	60
+yes, in general	91
+not usually	4
+maybe	52
+yes, that's right	100
+possibly	62
+Uhm not necessarily	22
+yes, it is possible	76
+mostly not	8
+yes I suppose	68
+no in general	6
+not exactly	23
+perhaps	62
+generally yes, but not necessarily	65
+yes i would assume so yes 	80
+I think so...	80
+no, not normally	5
+i would say yes	91
+yes, it could	79
+not that much	8
+no, not usuallly	11
+no it doesn't really relate	4
+yup	100
+that's a hard one... I guess not really	32
+no	0
+yea	88
+sort of	65
+in general yes	78
+usually not	6
+I don't think so	18
+in general no	3
+no	1
+perhaps	59
+definitely	99
+it depends	49
+not probably	10
+not probably	23
+probably	84
+in general yes	97
+yes	99
+not possibly	31
+I think so	81
+I think so	95
+yep	99
+in general no	15
+not certainly	4
+certainly not	0
+definitely not	0
+not usually	24
+rarely	8
+not certainly	8
+not usually	0
+possibly not	5
+nope	5
+probably	76
+perhaps	70
+no, it can be but not necessarily	34
+it's possible, but generally i guess i'd say no 	29
+almost	46
+no not necessarily but could be	50
+no it doesn't really relate	11
+yes, it is possible	65
+yes!	99
+yes in general	82
+yes, I think so	93
+not that much	35
+no not exactly	32
+could be both yes and no	50
+not really	10
+not really	33
+possibly	55
+yea	79
+could be but not necessarily	38
+yes	99
+usually, yes	81
+I think so...	79
+definitely	99
+nope	5
+I think so kind of	66
+kind of	60
+usually	81
+I'm going to say yes	86
+depends	58
+yes to some extent	75
+maybe	58
+no, not normally	24
+no, not necessarily	10
+eh... yes, you could say so. 	60
+yes I suppose	67
+no it doesn't really relate	36
+yes!!!	99
+sort of	59
+mostly not	26
+no, not generally	8
+could be both yes and no	50
+Uhm not necessarily	34
+yea	66
+nono	5
+yes i would assume so yes 	86
+YESSSSS!!!!! :):)	100
+it's possible, but generally i guess i'd say no 	28
+hmm not exactly... (but again one could) 	36
+YES!!!	98
+not that much	20
+possibly but it's doubtful	33
+in general, no	3
+yes, very likely	93
+yes it can be	75
+ah...hmmmm.... i guess i have to say no... 	21
+I'm going to say yes	93
+sometimes	63
+no not necessarily at least	5
+yes, in general	84
+yes usually	93
+no not necessarily at least	37
+no, not necessarily	35
+maybe	50
+yes!!	99
+depends	50
+no in general	20
+possibly	69
+probably	87
+yep	100
+it depends	50
+possibly not	32
+not probably	22
+generally	73
+nope	16
+definitely	100
+rarely	6
+perhaps	58
+sometimes	64
+not possibly	24
+probably not	15
+I think so	70
+no, not at all	16
+I think so kind of	65
+yes definitely	97
+generally yes, but not necessarily	68
+hmm not exactly... (but again one could) 	55
+not quite	32
+no not exactly	3
+that's a hard one... I guess not really	26
+ah...hmmmm.... i guess i have to say no... 	8
+usually	82
+YES!!!	100
+kind of	63
+no it doesn't really relate	29
+not necessarily	21
+possibly, yes	64
+i would say yes	73
+yes, it can be	75
+hmm, I'd say yes in general 	72
+yes in general	79
+mostly not	9
+maybe	66
+no	0
+not really	0
+nono	0
+no, it can be but not necessarily	38
+not exactly	13
+no, not necessarily	23
+no not really	12
+yes i would assume so yes 	100
+yes, that's right	100
+usually not	22
+sort of	60
+no	79
+not definitely	85
+perhaps	73
+rarely	24
+not usually	79
+not possibly	49
+generally	31
+not probably	60
+it depends	82
+not certainly	91
+usually	91
+yes	99
+possibly not	77
+no, it can be but not necessarily	6
+depends	87
+yes!	57
+eh... yes, you could say so. 	19
+not quite	66
+NO!	69
+I think so kind of	32
+no, not usuallly	85
+no it doesn't really relate	0
+yes to some extent	71
+possibly but it's doubtful	83
+yes it can be	89
+yes i would assume so yes 	100
+yes in general	84
+no not exactly	29
+I don't think so	3
+definitely	65
+yes!!	79
+yes, in general	100
+no not really	70
+yes but not necessarily	67
+yes, I think so	64
+it can be but not necessarily	36
+possibly, yes	77
+yes, it can be	73
+yes I suppose	23
+yes, definitely	80
+nono	0
+possibly	78
+no, not at all	25
+probably	55
+sometimes	75
+yes definitely	78
+I think so...	93
+nope	2
+I don't think so	30
+it depends	50
+usually not	35
+sometimes	55
+possibly	60
+not probably	13
+certainly not	3
+in general no	21
+in general yes	85
+I think so	78
+yes	99
+perhaps	59
+possibly not	37
+not possibly	22
+yes I suppose	71
+maybe	50
+no, not necessarily	21
+Uhm not necessarily	20
+possibly, yes	66
+generally	84
+mostly not	15
+it can be but not necessarily	50
+i would say yes	84
+yes!!	100
+yes at least possibly	64
+no in general	14
+I think so...	70
+depends	50
+not usually	29
+kind of	57
+:) not sure, maybe	50
+I think so kind of	64
+yes but not necessarily	62
+no not necessarily at least	18
+sort of	57
+not necessarily	24
+yes i would assume so yes 	87
+yes!	100
+definitely	100
+yes usually	87
+I'm going to say yes	72
+yes to some extent	66
+no, not at all	0
+almost	57
+no not necessarily but could be	37
+sort of	62
+certainly	98
+nope	1
+definitely not	1
+possibly not	30
+mostly	82
+I don't think so	23
+it depends	72
+yes	99
+sometimes	47
+not definitely	44
+it depends	46
+perhaps	54
+sometimes	46
+probably not	34
+in general no	8
+in general yes	86
+usually not	32
+definitely	88
+I think so	68
+I don't think so	37
+in general no	12
+rarely	55
+not certainly	74
+rarely	33
+no	20
+not definitely	29
+I think so	60
+yes but not necessarily	82
+nope	5
+yes, definitely	100
+possibly not	29
+yes usually	90
+yes it can be	72
+usually, yes	90
+yes definitely	87
+yes!!!	100
+in general, no	7
+probably	81
+no not necessarily at least	10
+hmm, I'd say yes in general 	86
+generally	82
+no it doesn't really relate	2
+depends	46
+possibly	72
+no, not generally	19
+yes!!!	96
+yes, in general	84
+no	2
+yup	90
+no in general	18
+yes, that's right	94
+Uhm not necessarily	17
+i would say yes	90
+usually	89
+in general, no	12
+NO!	0
+no, not necessarily	32
+I think so kind of	62
+not usually	26
+hmm, I'd say yes in general 	66
+yes, it can be	81
+eh... yes, you could say so. 	84
+yes!!	94
+not exactly	33
+yes to some extent	92
+not necessarily	32
+usually, yes	97
+no, not necessarily	30
+possibly but it's doubtful	43
+yes, it can be	73
+possibly, yes	76
+yes!!	100
+not really	40
+not that much	32
+Uhm not necessarily	35
+certainly not	5
+nono	0
+usually	76
+yes i would assume so yes 	89
+probably	56
+yes, it is possible	91
+perhaps	57
+yes at least possibly	55
+not possibly	34
+definitely	99
+no in general	11
+sort of	55
+generally	55
+it depends	35
+yes	99
+definitely not	0
+yes, in general	55
+not probably	25
+definitely	99
+in general no	24
+sometimes	62
+mostly not	8
+in general yes	70
+probably not	31
+yes at least possibly	75
+:) not sure, maybe	24
+yes, it is possible	67
+not that much	23
+no, not normally	6
+I think so kind of	57
+not exactly	9
+no not necessarily at least	19
+not quite	32
+yes!!!	100
+no not necessarily but could be	44
+ah...hmmmm.... i guess i have to say no... 	39
+yes in general	64
+no, not generally	32
+yes to some extent	59
+maybe	50
+eh... yes, you could say so. 	58
+not necessarily	29
+yes, it could	74
+I'm going to say yes	63
+no not necessarily but could be	32
+could be both yes and no	50
+I think so...	59
+yup	89
+yes definitely	96
+I think so	61
+yes, very likely	75
+it can be but not necessarily	50
+yes, it is possible	64
+yes usually	79
+:) not sure, maybe	50
+not usually	34
+it's possible, but generally i guess i'd say no 	40
+possibly but it's doubtful	41
+possibly, yes	62
+yes, that's right	89
+i would say yes	65
+possibly	31
+not definitely	65
+yes	97
+not possibly	33
+probably	16
+I don't think so	8
+mostly	32
+certainly	96
+rarely	89
+not usually	55
+probably not	34
+in general no	27
+possibly not	20
+definitely not	97
+perhaps	20
+it can be but not necessarily	57
+yes, definitely	98
+YESSSSS!!!!! :):)	98
+yes, that's right	94
+perhaps	100
+sometimes	100
+nope	0
+no	0
+yep	100
+I think so	97
+definitely	100
+generally	98
+it depends	100
+sort of	0
+usually	100
+not possibly	0
+in general yes	100
+certainly not	0
+probably not	0
+not exactly	0
+in general no	0
+yes, it can be	100
+yes to some extent	100
+yes at least possibly	100
+eh... yes, you could say so. 	26
+eh... yes, you could say so. 	100
+no, it can be but not necessarily	57
+it can be but not necessarily	0
+yes!	89
+depends	100
+hmm not exactly... (but again one could) 	24
+yes in general	100
+could be both yes and no	24
+NO!	0
+yes, in general	100
+almost	100
+no, not normally	0
+I'm going to say yes	100
+:) not sure, maybe	100
+not really	0
+no, not usuallly	0
+yes definitely	100
+I don't think so	0
+yes usually	100
+I think so kind of	0
+in general, no	29
+possibly	100
+not that much	100
+yes but not necessarily	100
+yes I suppose	100
+yup	100
+yes, definitely	100
+could be but not necessarily	100
+that's a hard one... I guess not really	0
+no	91
+kind of	100
+kind of	26
+yes	100
+depends	22
+nono	77
+definitely	100
+not possibly	2
+in general no	15
+sort of	60
+mostly	76
+definitely not	1
+no	0
+not usually	12
+usually not	17
+possibly not	25
+probably not	21
+certainly not	2
+perhaps	69
+it depends	67
+not probably	31
+I think so	64
+no not necessarily at least	22
+usually, yes	78
+no it doesn't really relate	14
+maybe	68
+it can be but not necessarily	66
+usually	76
+not necessarily	22
+:) not sure, maybe	66
+NO!	1
+yes, it could	82
+yes in general	79
+I'm going to say yes	98
+no not exactly	27
+no, not generally	14
+I don't think so	21
+i would say yes	83
+kind of	63
+I think so kind of	63
+generally	77
+yes, it can be	85
+in general, no	28
+yes at least possibly	69
+yes i would assume so yes 	39
+Uhm not necessarily	22
+YES!!!	100
+maybe	19
+depends	59
+nope	56
+hmm not exactly... (but again one could) 	59
+nope	3
+no it doesn't really relate	61
+yes definitely	99
+no not really	8
+yes, very likely	63
+eh... yes, you could say so. 	77
+yup	83
+possibly but it's doubtful	40
+generally	56
+i would say yes	62
+Uhm not necessarily	12
+mostly not	55
+not necessarily	27
+yes, it is possible	76
+no not necessarily but could be	25
+no, not generally	66
+definitely	82
+definitely not	100
+yep	89
+usually	31
+perhaps	54
+certainly	87
+not probably	81
+generally	19
+probably not	90
+sometimes	38
+not possibly	46
+I don't think so	67
+it depends	60
+I don't think so	80
+possibly not	56
+not usually	62
+I think so	43
+generally	72
+it's possible, but generally i guess i'd say no 	44
+definitely	100
+yes at least possibly	53
+yes	97
+yes!	99
+yes!!	99
+perhaps	37
+yea	92
+sometimes	58
+not quite	60
+yes, I think so	68
+no not necessarily but could be	38
+nope	93
+in general, no	68
+Uhm not necessarily	64
+could be but not necessarily	54
+not really	57
+hmm, I'd say yes in general 	68
+yes it can be	66
+possibly but it's doubtful	35
+yes, it is possible	54
+almost	23
+no, not generally	61
+not exactly	31
+usually, yes	67
+probably	58
+yes!!!	95
+could be both yes and no	0
+no	100
+i would say yes	100
+sometimes	60
+not that much	60
+possibly	46
+no, not at all	98
+in general no	64
+possibly not	66
+NO!	100
+no, not usuallly	57
+in general yes	58
+generally	71
+mostly	71
+it depends	53
+I don't think so	16
+probably not	8
+yes	99
+definitely	100
+perhaps	39
+yep	95
+not possibly	56
+not certainly	23
+that's a hard one... I guess not really	41
+kind of	54
+yes!!	50
+yes!!!	100
+I think so...	89
+could be but not necessarily	40
+nono	15
+yes, in general	80
+no not necessarily but could be	45
+yes, definitely	99
+maybe	44
+not quite	36
+sort of	63
+not necessarily	44
+almost	41
+no not necessarily at least	51
+no not exactly	27
+no in general	31
+yes at least possibly	62
+yes in general	80
+yes, it is possible	54
+NO!	0
+hmm, I'd say yes in general 	66
+yes!	99
+it's possible, but generally i guess i'd say no 	38
+no, not usuallly	17
+could be both yes and no	45
+no not really	15
+I'm going to say yes	63
+I think so kind of	80
+not really	10
+not that much	54
+yes, it can be	66
+not possibly	82
+probably not	79
+perhaps	40
+not certainly	85
+generally	76
+yep	31
+certainly	74
+possibly not	75
+sometimes	82
+sort of	1
+not probably	90
+I think so	89
+in general yes	79
+definitely	100
+definitely not	89
+no not necessarily but could be	22
+possibly but it's doubtful	32
+yes but not necessarily	78
+yes, it is possible	84
+kind of	80
+hmm, I'd say yes in general 	90
+no not necessarily at least	28
+not really	81
+maybe	89
+no, not normally	22
+no it doesn't really relate	89
+no	100
+yes I suppose	100
+it's possible, but generally i guess i'd say no 	76
+no, not usuallly	81
+generally yes, but not necessarily	83
+yes in general	83
+could be both yes and no	49
+yes at least possibly	86
+no not really	74
+possibly, yes	90
+yes it can be	79
+hmm not exactly... (but again one could) 	29
+yes usually	28
+yes	83
+i would say yes	18
+rarely	73
+usually not	17
+yes, that's right	88
+definitely	90
+not usually	28
+not exactly	20
+probably	66
+nope	17
+probably	75
+yes	79
+not probably	60
+definitely not	3
+perhaps	53
+in general no	17
+not usually	16
+possibly	61
+mostly	67
+possibly	75
+possibly not	10
+probably	72
+yup	14
+I think so	74
+usually	63
+I don't think so	24
+in general no	16
+yep	77
+in general yes	63
+not possibly	33
+sometimes	57
+yes, I think so	83
+no, not generally	14
+not quite	24
+YESSSSS!!!!! :):)	99
+no not exactly	13
+it can be but not necessarily	55
+no, it can be but not necessarily	39
+almost	67
+yep	62
+yes, definitely	93
+probably not	33
+not possibly	78
+yes, it can be	74
+it depends	69
+NO!	1
+possibly not	29
+depends	50
+sort of	15
+Uhm not necessarily	19
+I'm going to say yes	73
+yes, it is possible	80
+yes at least possibly	68
+no, not at all	6
+usually, yes	74
+hmm, I'd say yes in general 	73
+possibly	14
+it can be but not necessarily	36
+it's possible, but generally i guess i'd say no 	22
+yes usually	83
+yup	87
+I think so kind of	64
+yes definitely	83
+not really	19
+YES!!!	89
+no	5
+yes, very likely	85
+:) not sure, maybe	65
+i would say yes	71
+yes it can be	73
+YES!!!	96
+it's possible, but generally i guess i'd say no 	59
+YESSSSS!!!!! :):)	71
+I'm going to say yes	69
+yes usually	36
+yes!!	64
+yes, in general	24
+almost	36
+mostly not	64
+hmm, I'd say yes in general 	39
+Uhm not necessarily	29
+NO!	74
+eh... yes, you could say so. 	19
+no, not necessarily	22
+yes at least possibly	30
+I think so...	26
+yes I suppose	24
+nono	15
+no it doesn't really relate	25
+yes, very likely	76
+yes definitely	100
+yes it can be	22
+no in general	36
+yes	100
+yes in general	38
+no not exactly	70
+no not necessarily but could be	25
+yes, it could	30
+ah...hmmmm.... i guess i have to say no... 	26
+no, not normally	31
+depends	30
+I don't think so	70
+yes	100
+usually not	64
+sometimes	5
+certainly	94
+I think so	73
+probably	57
+no	100
+mostly	59
+probably not	7
+nope	100
+it depends	9
+possibly not	31
+not probably	0
+in general yes	100
+no, not normally	100
+perhaps	64
+could be but not necessarily	24
+yes, in general	100
+yes in general	100
+yes!!!	100
+not necessarily	0
+no in general	100
+NO!	100
+possibly but it's doubtful	0
+no not necessarily at least	25
+it can be but not necessarily	0
+generally	70
+no, not usuallly	69
+yes definitely	100
+generally yes, but not necessarily	61
+no not really	97
+not usually	21
+yes it can be	86
+kind of	14
+depends	4
+maybe	13
+no, not generally	66
+possibly	0
+no, it can be but not necessarily	27
+no not exactly	87
+definitely	100
+no, not at all	100
+ah...hmmmm.... i guess i have to say no... 	63
+usually, yes	67
+usually	63
+nope	24
+not certainly	33
+not probably	73
+probably	89
+certainly not	15
+probably not	17
+definitely	93
+mostly	84
+generally	24
+not possibly	21
+rarely	81
+usually	59
+no	51
+perhaps	89
+it depends	100
+yes, that's right	22
+no not really	17
+yes!!!	97
+kind of	0
+yes usually	91
+yea	16
+no, not usuallly	17
+yes, definitely	12
+I don't think so	0
+generally yes, but not necessarily	24
+yes in general	72
+I think so	14
+hmm, I'd say yes in general 	76
+NO!	85
+I think so kind of	13
+yes I suppose	11
+not quite	100
+eh... yes, you could say so. 	18
+yes, it is possible	70
+possibly, yes	50
+I think so...	28
+possibly	97
+yes, it could	75
+i would say yes	25
+almost	49
+yes, in general	60
+yes definitely	61
+YESSSSS!!!!! :):)	100
+could be both yes and no	90
+Uhm not necessarily	86
+no, not at all	14
+maybe	82
+yes!	100
+I'm going to say yes	86
+yep	100
+possibly	58
+no	0
+it depends	50
+not definitely	53
+rarely	78
+rarely	17
+probably not	10
+it depends	59
+not possibly	3
+generally	78
+certainly not	0
+probably not	40
+in general yes	95
+sort of	57
+yes	99
+usually not	17
+I think so	61
+definitely not	0
+possibly not	38
+sometimes	54
+NO!	0
+certainly not	1
+yes, very likely	88
+I don't think so	18
+usually, yes	68
+not probably	34
+hmm, I'd say yes in general 	71
+yes to some extent	59
+not possibly	20
+not usually	26
+yes!!	100
+generally	55
+not exactly	20
+sometimes	72
+ah...hmmmm.... i guess i have to say no... 	36
+definitely not	0
+not really	34
+YESSSSS!!!!! :):)	100
+yep	100
+yes I suppose	72
+possibly	74
+yes, it could	61
+yes it can be	63
+mostly not	27
+YES!!!	100
+yes definitely	100
+I'm going to say yes	68
+yes!	100
+definitely	100
+definitely	100
+not that much	31
+yes, it is possible	54
+yes, it can be	61
+no not exactly	37
+could be but not necessarily	57
+perhaps	50
+:) not sure, maybe	50
+not necessarily	29
+yes, definitely	100
+yes in general	67
+yes definitely	100
+NO!	0
+no not necessarily but could be	45
+Uhm not necessarily	19
+not necessarily	43
+I don't think so	21
+no in general	31
+yes usually	79
+not exactly	18
+generally yes, but not necessarily	61
+no, not necessarily	38
+no in general	17
+generally yes, but not necessarily	72
+probably	71
+yes at least possibly	68
+yes, that's right	100
+usually, yes	84
+yes but not necessarily	71
+yes, it can be	81
+no not necessarily but could be	14
+not really	21
+YESSSSS!!!!! :):)	100
+ah...hmmmm.... i guess i have to say no... 	35
+yes!	100
+hmm, I'd say yes in general 	78
+hmm not exactly... (but again one could) 	19
+yes usually	90
+possibly but it's doubtful	42
+no not exactly	20
+:) not sure, maybe	51
+yea	99
+yes in general	85
+certainly not	1
+possibly	50
+not certainly	27
+not possibly	2
+usually	65
+certainly	100
+yep	89
+definitely not	2
+sometimes	50
+generally	72
+I don't think so	29
+probably	76
+definitely	100
+probably not	18
+sort of	49
+it's possible, but generally i guess i'd say no 	37
+NO!	0
+no not necessarily at least	37
+yes, it can be	63
+i would say yes	100
+I think so kind of	61
+yes usually	82
+usually, yes	75
+YES!!!	100
+yes to some extent	60
+yes in general	76
+yes i would assume so yes 	60
+not usually	23
+in general no	19
+yes, it could	62
+yes, it is possible	63
+Uhm not necessarily	29
+yes, very likely	77
+hmm, I'd say yes in general 	69
+hmm not exactly... (but again one could) 	39
+yes!!	100
+could be both yes and no	50
+no not necessarily but could be	42
+yes!	100
+I'm going to say yes	73
+yes	100
+nope	1
+depends	51
+could be but not necessarily	57
+kind of	50
+no it doesn't really relate	17
+yes, in general	81
+not possibly	100
+rarely	0
+nope	0
+possibly not	87
+yes	100
+probably not	100
+I think so	100
+definitely	1
+certainly not	100
+usually	100
+possibly	50
+mostly	0
+I don't think so	0
+generally	100
+sometimes	100
+kind of	100
+nono	0
+mostly not	0
+no it doesn't really relate	0
+no in general	0
+yes at least possibly	100
+perhaps	78
+not usually	0
+NO!	0
+could be both yes and no	67
+in general, no	19
+I think so kind of	100
+yes in general	100
+no, not normally	12
+probably	100
+ah...hmmmm.... i guess i have to say no... 	0
+yes, I think so	100
+yes, it can be	100
+not that much	0
+possibly, yes	100
+no not really	0
+yes i would assume so yes 	100
+hmm not exactly... (but again one could) 	0
+yes, that's right	100
+no	0
+yes to some extent	100
+yes it can be	100
+yes I suppose	100
+no, not generally	0
+it's possible, but generally i guess i'd say no 	53
+no, it can be but not necessarily	18
+that's a hard one... I guess not really	28
+yes	36
+not definitely	32
+possibly not	26
+in general yes	76
+usually	70
+I don't think so	18
+rarely	26
+yep	77
+definitely	85
+in general no	11
+probably not	21
+mostly	73
+not certainly	53
+certainly not	32
+certainly	69
+:) not sure, maybe	68
+yes, it can be	82
+yes, it could	70
+eh... yes, you could say so. 	70
+yes!!	95
+no it doesn't really relate	8
+I think so...	72
+nono	18
+nope	16
+yes i would assume so yes 	88
+no, not normally	31
+no	8
+it can be but not necessarily	68
+yes, definitely	91
+I think so	69
+possibly, yes	74
+no not necessarily at least	68
+depends	68
+sometimes	71
+yes at least possibly	75
+yes, in general	72
+I'm going to say yes	72
+NO!	12
+that's a hard one... I guess not really	31
+hmm not exactly... (but again one could) 	30
+yes in general	78
+not that much	28
+yes, I think so	78
+yes, very likely	78
+no not really	26
+not necessarily	17
+yes I suppose	73
+no, it can be but not necessarily	25
+yep	82
+sometimes	50
+not definitely	76
+in general yes	60
+sometimes	50
+definitely not	0
+not probably	24
+not definitely	63
+not possibly	22
+certainly	100
+I think so	83
+nope	5
+I think so	89
+rarely	12
+not probably	20
+it depends	50
+usually	92
+probably	74
+possibly not	63
+nope	6
+probably	91
+usually not	4
+definitely not	15
+no	0
+in general yes	95
+no, not usuallly	8
+certainly	90
+no, not generally	29
+I don't think so	30
+yes!	100
+not certainly	27
+could be but not necessarily	63
+it depends	50
+hmm, I'd say yes in general 	71
+no, not at all	0
+mostly	77
+yea	95
+eh... yes, you could say so. 	56
+yes, I think so	72
+hmm not exactly... (but again one could) 	63
+yes usually	80
+:) not sure, maybe	60
+I think so...	80
+definitely	100
+sort of	61
+no it doesn't really relate	21
+yes in general	72
+YESSSSS!!!!! :):)	98
+yes in general	74
+usually	73
+generally	73
+yes!!!	92
+generally yes, but not necessarily	88
+generally	82
+yes usually	91
+yes definitely	95
+yes, definitely	100
+no not necessarily at least	30
+no, it can be but not necessarily	64
+not usually	6
+not exactly	64
+yup	92
+yes, in general	83
+NO!	0
+no not really	33
+could be both yes and no	50
+depends	50
+not necessarily	14
+yes	92
+YES!!!	100
+in general no	7
+not that much	59
+no not necessarily at least	41
+no not necessarily but could be	41
+yes, I think so	85
+no	5
+nono	2
+yes it can be	84
+in general no	56
+hmm not exactly... (but again one could) 	44
+eh... yes, you could say so. 	61
+I'm going to say yes	62
+not quite	42
+possibly but it's doubtful	36
+not usually	30
+i would say yes	62
+ah...hmmmm.... i guess i have to say no... 	38
+no, not necessarily	32
+yes, in general	72
+not necessarily	24
+yes but not necessarily	58
+could be both yes and no	50
+yes, definitely	94
+yea	86
+nope	99
+probably not	88
+definitely not	37
+probably	78
+not possibly	27
+I think so	73
+usually not	23
+rarely	23
+yes	96
+in general no	73
+perhaps	80
+I don't think so	97
+not usually	76
+sometimes	73
+generally	21
+no not necessarily but could be	8
+definitely	98
+no, it can be but not necessarily	25
+no it doesn't really relate	74
+usually, yes	93
+yes I suppose	97
+no not exactly	88
+I think so...	2
+yes!	99
+no in general	15
+yes to some extent	88
+yes, definitely	95
+possibly, yes	90
+yes i would assume so yes 	87
+not necessarily	73
+yes!!	97
+maybe	17
+hmm, I'd say yes in general 	75
+YES!!!	99
+depends	32
+not really	51
+no, not generally	58
+no, not normally	61
+no, not necessarily	62
+in general, no	79
+YESSSSS!!!!! :):)	100
+yes in general	81
+eh... yes, you could say so. 	25
+not that much	25
+i would say yes	81
+yes, I think so	76
+definitely	98
+not definitely	10
+yep	87
+usually not	9
+nope	6
+in general no	17
+yes	94
+in general yes	82
+usually	76
+sometimes	55
+I don't think so	32
+not usually	22
+possibly	59
+I think so	76
+rarely	45
+certainly	100
+certainly not	5
+nono	35
+yes!!	100
+eh... yes, you could say so. 	68
+definitely	97
+no not necessarily but could be	43
+possibly, yes	68
+yes	98
+yes!	99
+certainly	97
+not really	24
+possibly	67
+possibly but it's doubtful	40
+no, not usuallly	39
+generally	83
+yes to some extent	74
+not usually	12
+yes, in general	73
+NO!	0
+:) not sure, maybe	50
+nope	1
+hmm, I'd say yes in general 	64
+perhaps	55
+possibly not	18
+i would say yes	60
+no	1
+no, not necessarily	32
+ah...hmmmm.... i guess i have to say no... 	48
+I don't think so	16
+could be both yes and no	50
+yes, that's right	93
+not definitely	57
+yes, it can be	79
+yes at least possibly	65
+probably	80
+I think so	63
+definitely not	1
+no, not generally	28
+yes usually	87
+yes definitely	97
+yes but not necessarily	74
+I think so kind of	70
+hmm not exactly... (but again one could) 	50
+no, it can be but not necessarily	39
+no, not at all	0
+no not necessarily but could be	60
+generally	77
+yes, it could	74
+yes, very likely	93
+no not necessarily at least	35
+i would say yes	87
+possibly, yes	68
+ah...hmmmm.... i guess i have to say no... 	7
+Uhm not necessarily	33
+YESSSSS!!!!! :):)	98
+mostly not	13
+no in general	12
+yes, definitely	98
+yes in general	86
+no, not at all	3
+yes at least possibly	68
+I think so...	62
+NO!	1
+not really	19
+yes!!!	98
+sometimes	65
+it can be but not necessarily	77
+no, not generally	9
+yes I suppose	75
+hmm, I'd say yes in general 	79
+yea	98
+yes, it can be	67
+no, not necessarily	12
+no not really	12
+yes it can be	75
+not definitely	55
+it depends	51
+rarely	38
+certainly not	0
+probably	76
+generally	85
+I don't think so	25
+definitely	100
+sort of	64
+not certainly	13
+not probably	28
+in general no	22
+yep	89
+mostly	92
+not usually	16
+it can be but not necessarily	66
+yes, I think so	83
+YESSSSS!!!!! :):)	99
+yes, that's right	99
+no, not usuallly	6
+not necessarily	32
+no, not at all	2
+yes, definitely	99
+perhaps	72
+yes I suppose	81
+it's possible, but generally i guess i'd say no 	33
+no, not generally	6
+maybe	51
+yes definitely	100
+I'm going to say yes	77
+possibly but it's doubtful	38
+yes, in general	90
+yes i would assume so yes 	81
+eh... yes, you could say so. 	74
+sometimes	52
+I think so	71
+yes it can be	83
+almost	63
+depends	51
+yes, it could	92
+not that much	50
+YES!!!	100
+no, it can be but not necessarily	36
+yes, very likely	93
+possibly	85
+usually	77
+nope	2
+yes at least possibly	75
+I don't think so	0
+usually	52
+in general no	11
+yep	95
+definitely	100
+certainly not	0
+not definitely	33
+sort of	60
+certainly	100
+it depends	51
+perhaps	52
+possibly not	20
+probably not	13
+not certainly	23
+yes	100
+yes, in general	74
+eh... yes, you could say so. 	77
+no, not usuallly	9
+generally	72
+I think so kind of	61
+probably	63
+YESSSSS!!!!! :):)	100
+yes, I think so	77
+no, not generally	9
+nono	0
+Uhm not necessarily	26
+depends	47
+no it doesn't really relate	5
+could be but not necessarily	52
+no not exactly	13
+yes, it is possible	92
+ah...hmmmm.... i guess i have to say no... 	8
+not necessarily	22
+I think so...	97
+yes, it could	100
+yes, that's right	100
+yes, it can be	100
+not exactly	10
+yes but not necessarily	56
+yup	93
+yes!!!	100
+no not necessarily but could be	44
+no in general	9
+no	0
+yes i would assume so yes 	88
+maybe	51
+yes!!	100
+no not necessarily at least	30
+perhaps	69
+possibly not	36
+it depends	50
+yes	100
+probably	86
+possibly	62
+definitely not	50
+usually	88
+sometimes	50
+definitely	100
+I think so	90
+rarely	6
+certainly not	0
+in general no	10
+probably not	12
+I think so...	80
+nope	0
+usually, yes	89
+possibly, yes	86
+yes!	100
+certainly	100
+definitely not	0
+in general yes	59
+certainly not	0
+possibly	45
+sort of	53
+not definitely	46
+mostly	71
+it depends	47
+yep	81
+definitely	100
+in general no	12
+perhaps	49
+possibly not	35
+no	1
+not that much	40
+almost	88
+yes i would assume so yes 	77
+no, not necessarily	33
+nope	6
+no, it can be but not necessarily	29
+no it doesn't really relate	28
+Uhm not necessarily	25
+yes, definitely	100
+no, it can be but not necessarily	23
+could be but not necessarily	33
+yes, I think so	87
+no, not normally	11
+no not necessarily at least	27
+sort of	55
+not exactly	38
+it can be but not necessarily	33
+ah...hmmmm.... i guess i have to say no... 	32
+yes it can be	65
+yes I suppose	92
+I think so	78
+no in general	15
+sometimes	45
+yes but not necessarily	68
+yes to some extent	68
+not quite	30
+it can be but not necessarily	43
+not really	32
+depends	50
+it's possible, but generally i guess i'd say no 	28
+could be both yes and no	46
+yes at least possibly	73
+YESSSSS!!!!! :):)	100
+yes, that's right	86
+YES!!!	100
+yes usually	93
+yes I suppose	77
+yes, it is possible	72
+YESSSSS!!!!! :):)	50
+usually	58
+generally yes, but not necessarily	57
+yea	84
+no not really	7
+no not necessarily but could be	33
+maybe	50
+no, not at all	0
+yes in general	89
+yes, definitely	100
+yes, it can be	79
+yea	86
+usually, yes	91
+generally yes, but not necessarily	65
+yes usually	88
+YES!!!	100
+i would say yes	90
+hmm not exactly... (but again one could) 	47
+not really	21
+in general, no	12
+I don't think so	5
+not probably	13
+probably	98
+not usually	2
+yep	45
+certainly	91
+not certainly	99
+definitely	1
+possibly not	74
+usually not	45
+usually	14
+I think so	86
+mostly	37
+possibly	92
+in general no	6
+not definitely	1
+no not exactly	29
+possibly, yes	79
+yes but not necessarily	71
+no not really	27
+yes!!	98
+I think so...	99
+almost	66
+could be both yes and no	50
+yes, it can be	83
+not really	32
+usually, yes	91
+not necessarily	26
+yes i would assume so yes 	83
+yes usually	86
+yes I suppose	83
+yup	98
+Uhm not necessarily	7
+yes, in general	99
+kind of	86
+yea	98
+yes	98
+could be but not necessarily	44
+YES!!!	97
+nono	2
+yes, I think so	87
+ah...hmmmm.... i guess i have to say no... 	0
+yes it can be	84
+no not necessarily at least	1
+it's possible, but generally i guess i'd say no 	2
+perhaps	54
+sometimes	50
+possibly not	26
+probably	79
+certainly not	0
+probably not	16
+definitely not	0
+not possibly	0
+not probably	12
+in general yes	100
+in general no	19
+possibly	84
+not certainly	19
+not definitely	39
+yep	99
+YES!!!	100
+hmm not exactly... (but again one could) 	50
+YESSSSS!!!!! :):)	100
+maybe	54
+I think so...	73
+hmm, I'd say yes in general 	93
+not really	14
+yes!!	100
+depends	49
+yes, it is possible	78
+yes, it could	76
+possibly but it's doubtful	50
+yes, it can be	78
+it can be but not necessarily	50
+no not really	0
+yes, that's right	100
+yes, I think so	84
+no, it can be but not necessarily	30
+yes, very likely	82
+yes but not necessarily	73
+no it doesn't really relate	4
+yea	92
+yes definitely	100
+no, not at all	0
+NO!	0
+in general, no	8
+i would say yes	92
+nono	0
+no not exactly	4
+definitely	100
+generally	49
+not necessarily	15
+yes	100
+usually	93
+not definitely	93
+not probably	3
+in general no	76
+nope	95
+rarely	93
+possibly	98
+perhaps	100
+it depends	100
+certainly	100
+certainly not	96
+possibly not	99
+no	100
+probably not	99
+not usually	77
+sometimes	96
+not that much	100
+I think so	100
+nono	4
+yes usually	100
+yes	100
+YESSSSS!!!!! :):)	100
+yes but not necessarily	94
+yes, that's right	96
+could be but not necessarily	33
+maybe	62
+not necessarily	69
+yes, it could	86
+not really	91
+could be both yes and no	95
+I'm going to say yes	83
+yes, I think so	87
+yes in general	87
+no not really	89
+probably	100
+I think so...	94
+no, it can be but not necessarily	12
+possibly but it's doubtful	66
+depends	17
+almost	13
+yes, very likely	87
+yes at least possibly	15
+possibly, yes	82
+yes!!	98
+eh... yes, you could say so. 	67
+I don't think so	91
+hmm, I'd say yes in general 	83
+definitely not	48
+possibly	69
+not probably	40
+nope	27
+yes	89
+not usually	23
+not definitely	23
+definitely	90
+I don't think so	33
+not possibly	22
+perhaps	60
+probably not	27
+in general no	34
+sometimes	48
+usually	75
+yes, I think so	70
+ah...hmmmm.... i guess i have to say no... 	21
+usually, yes	64
+no in general	23
+YESSSSS!!!!! :):)	90
+yes to some extent	53
+generally yes, but not necessarily	52
+yes but not necessarily	50
+yes definitely	88
+I'm going to say yes	72
+not necessarily	22
+yes, it could	71
+yea	69
+yes i would assume so yes 	69
+possibly but it's doubtful	34
+not that much	27
+no, not generally	25
+no not necessarily at least	27
+eh... yes, you could say so. 	65
+yes in general	69
+yes	50
+no, not normally	28
+it's possible, but generally i guess i'd say no 	34
+yes it can be	58
+yep	20
+no, not necessarily	19
+certainly not	50
+no, not at all	23
+could be but not necessarily	36
+possibly	50
+hmm, I'd say yes in general 	68
+not definitely	50
+nope	50
+no not exactly	29
+not certainly	49
+usually not	68
+sometimes	50
+no	50
+Uhm not necessarily	23
+generally	71
+nope	14
+certainly not	0
+yes, that's right	71
+not probably	17
+probably not	46
+in general yes	81
+in general no	58
+definitely not	15
+not probably	13
+not possibly	76
+perhaps	66
+definitely not	91
+I don't think so	28
+possibly not	12
+certainly	70
+definitely	95
+certainly	63
+no	0
+probably not	82
+yes	100
+certainly not	16
+generally	80
+probably not	20
+it depends	100
+not possibly	44
+not possibly	39
+mostly	23
+not usually	42
+not definitely	34
+not usually	0
+rarely	7
+sometimes	65
+I don't think so	100
+nope	0
+yep	92
+yes	60
+usually	72
+yes!!!	0
+no not exactly	9
+certainly	91
+I think so kind of	1
+I think so...	65
+possibly not	26
+eh... yes, you could say so. 	12
+possibly, yes	63
+mostly	57
+definitely	99
+sort of	52
+yes, in general	86
+probably	58
+yes usually	23
+no, not normally	11
+no, not generally	69
+yes, it is possible	83
+could be both yes and no	49
+sort of	65
+in general, no	3
+NO!	59
+sort of	32
+yes	98
+not quite	44
+yes, very likely	91
+yes, it can be	61
+usually, yes	85
+ah...hmmmm.... i guess i have to say no... 	0
+no, it can be but not necessarily	50
+could be but not necessarily	67
+that's a hard one... I guess not really	44
+yup	35
+it can be but not necessarily	46
+no not necessarily at least	45
+yes, very likely	61
+that's a hard one... I guess not really	35
+yes, definitely	98
+yes, very likely	93
+yes, I think so	58
+YESSSSS!!!!! :):)	100
+no not really	59
+eh... yes, you could say so. 	54
+yes but not necessarily	90
+no, not normally	13
+perhaps	52
+nono	30
+no not necessarily at least	77
+YES!!!	99
+no, not necessarily	37
+:) not sure, maybe	5
+no, not necessarily	24
+yes I suppose	0
+yes, it could	63
+yes to some extent	84
+yes i would assume so yes 	65
+yes, definitely	71
+I think so...	52
+no in general	79
+not usually	32
+yes!	98
+not exactly	61
+yes to some extent	74
+generally yes, but not necessarily	66
+no not really	19
+possibly but it's doubtful	68
+yes in general	71
+yes it can be	75
+hmm, I'd say yes in general 	70
+NO!	0
+yes it can be	61
+in general no	22
+no not really	36
+no it doesn't really relate	63
+not really	37
+no, not at all	64
+hmm not exactly... (but again one could) 	46
+probably	85
+no, not usuallly	40
+hmm not exactly... (but again one could) 	54
+generally yes, but not necessarily	15
+YESSSSS!!!!! :):)	100
+possibly	33
+no in general	32
+yes usually	68
+YESSSSS!!!!! :):)	0
+yes, that's right	68
+ah...hmmmm.... i guess i have to say no... 	38
+I think so	60
+not quite	42
+yes it can be	65
+yes i would assume so yes 	65
+hmm, I'd say yes in general 	60
+yes in general	82
+not necessarily	31
+mostly not	4
+yes I suppose	70
+could be but not necessarily	41
+depends	49
+I think so	61
+maybe	53
+ah...hmmmm.... i guess i have to say no... 	22
+in general, no	35
+generally	58
+no not necessarily but could be	43
+yes	50
+probably	70
+I don't think so	21
+yep	84
+usually not	38
+possibly	63
+I think so	61
+definitely not	5
+no	3
+in general no	33
+definitely	95
+certainly	100
+in general yes	66
+mostly	58
+perhaps	52
+sometimes	50
+YESSSSS!!!!! :):)	92
+mostly not	32
+generally yes, but not necessarily	50
+kind of	50
+yes!	87
+yes, it is possible	60
+hmm not exactly... (but again one could) 	50
+possibly, yes	55
+no, not generally	33
+nope	8
+yes to some extent	63
+yes but not necessarily	60
+maybe	47
+Uhm not necessarily	28
+yes I suppose	67
+not necessarily	31
+yes, I think so	68
+yes, it could	71
+not that much	36
+NO!	2
+yes!!!	99
+sort of	50
+no not necessarily but could be	50
+:) not sure, maybe	50
+yup	68
+no, it can be but not necessarily	42
+possibly but it's doubtful	60
+it's possible, but generally i guess i'd say no 	57
+yes, very likely	70
+yes it can be	68
+no it doesn't really relate	33
+not quite	24
+yes!!	82
+probably not	95
+rarely	95
+nope	10
+yes	95
+possibly	100
+usually	25
+probably	88
+perhaps	100
+not probably	78
+generally	7
+not usually	59
+I think so	40
+not possibly	86
+certainly	7
+I don't think so	77
+not that much	9
+yes!!	49
+no not exactly	53
+yes, very likely	45
+sort of	55
+not necessarily	92
+possibly but it's doubtful	33
+could be both yes and no	85
+no not necessarily but could be	83
+yes, I think so	16
+yes it can be	15
+yes I suppose	14
+YESSSSS!!!!! :):)	13
+it's possible, but generally i guess i'd say no 	76
+hmm, I'd say yes in general 	14
+yes, it could	78
+that's a hard one... I guess not really	12
+kind of	80
+I think so kind of	85
+i would say yes	24
+I think so...	78
+yes!!!	14
+hmm not exactly... (but again one could) 	75
+no	12
+yup	37
+no, not necessarily	80
+I'm going to say yes	6
+no, not at all	27
+NO!	13
+depends	83
+yes definitely	4
+yea	0
+no, not usuallly	25
+yep	88
+probably not	15
+perhaps	51
+mostly	70
+not certainly	28
+generally	85
+no	0
+usually	70
+sometimes	50
+I don't think so	4
+possibly	65
+usually not	11
+yes	100
+probably	86
+not definitely	4
+that's a hard one... I guess not really	36
+yes, I think so	92
+could be but not necessarily	59
+eh... yes, you could say so. 	72
+not exactly	21
+usually, yes	86
+no it doesn't really relate	3
+I'm going to say yes	96
+yes to some extent	80
+mostly not	8
+no not really	8
+it can be but not necessarily	20
+not that much	15
+I don't think so	87
+yes, definitely	100
+not definitely	0
+in general yes	0
+ah...hmmmm.... i guess i have to say no... 	21
+in general no	0
+kind of	62
+probably not	99
+yep	100
+certainly	100
+certainly not	100
+yes!!!	100
+not probably	0
+I think so kind of	72
+definitely	88
+perhaps	100
+yes it can be	86
+not possibly	0
+probably	61
+:) not sure, maybe	50
+sort of	75
+could be both yes and no	50
+probably	91
+not really	14
+usually not	98
+yes	76
+yes, it can be	96
+i would say yes	98
+it's possible, but generally i guess i'd say no 	94
+usually	78
+yes, it could	96
+definitely	22
+yes!	100
+generally	93
+certainly not	75
+no, not necessarily	4
+I think so...	93
+no, not at all	0
+Uhm not necessarily	81
+no not necessarily at least	10
+yes	99
+usually	74
+almost	59
+i would say yes	87
+yes, it can be	91
+yes!	98
+hmm, I'd say yes in general 	28
+nono	0
+eh... yes, you could say so. 	98
+yes it can be	86
+usually not	20
+it can be but not necessarily	15
+rarely	58
+yes at least possibly	24
+no, not at all	86
+not possibly	1
+sort of	58
+usually, yes	12
+mostly	68
+yep	77
+not usually	34
+that's a hard one... I guess not really	80
+in general yes	85
+yes, it is possible	92
+probably not	14
+not that much	78
+definitely not	2
+yes, definitely	88
+could be but not necessarily	12
+in general, no	78
+not exactly	93
+yes in general	87
+ah...hmmmm.... i guess i have to say no... 	92
+possibly, yes	86
+yes, very likely	86
+hmm not exactly... (but again one could) 	88
+not usually	86
+yes at least possibly	40
+yes!	92
+no	18
+no, not at all	29
+yes it can be	74
+no, not generally	14
+yes in general	75
+yes!!	99
+yes, it can be	69
+not really	37
+no, not necessarily	22
+YES!!!	95
+possibly	56
+no not necessarily at least	24
+yea	64
+yes, it is possible	63
+nope	35
+not necessarily	18
+could be but not necessarily	25
+in general no	41
+yes, I think so	67
+generally	57
+sometimes	57
+yes, in general	61
+no, not usuallly	39
+yes, it could	59
+Uhm not necessarily	38
+possibly but it's doubtful	45
+hmm, I'd say yes in general 	69
+yes usually	65
+yes i would assume so yes 	76
+I think so kind of	69
+I think so	61
+probably	87
+not possibly	37
+yep	100
+sort of	53
+nope	6
+certainly	79
+yes	97
+definitely	82
+in general no	35
+in general yes	65
+sometimes	52
+certainly not	5
+perhaps	53
+not usually	32
+it depends	50
+mostly	66
+it depends	50
+certainly	100
+usually	75
+perhaps	51
+nono	16
+yes, it is possible	78
+possibly not	33
+yes, in general	64
+probably not	20
+no not exactly	36
+possibly	50
+yes at least possibly	54
+not definitely	80
+I think so kind of	52
+I think so	77
+possibly, yes	63
+in general no	34
+Uhm not necessarily	35
+could be both yes and no	50
+rarely	6
+generally	88
+not probably	28
+no in general	31
+depends	50
+yes, it could	63
+I'm going to say yes	57
+yes but not necessarily	56
+maybe	50
+nope	0
+no not exactly	18
+nono	0
+it's possible, but generally i guess i'd say no 	6
+no not really	7
+could be but not necessarily	84
+probably	90
+I think so...	73
+yes, definitely	100
+possibly but it's doubtful	8
+yes	100
+yes, it can be	63
+not necessarily	78
+yes, very likely	90
+YES!!!	100
+yes I suppose	60
+yes it can be	66
+no not necessarily at least	24
+could be both yes and no	50
+no it doesn't really relate	12
+ah...hmmmm.... i guess i have to say no... 	38
+not exactly	33
+mostly not	15
+yes, I think so	70
+I think so...	54
+depends	50
+yes in general	86
+yes, it could	76
+hmm, I'd say yes in general 	67
+not necessarily	42
+no it doesn't really relate	50
+no in general	36
+yes i would assume so yes 	71
+yes at least possibly	59
+not usually	34
+almost	37
+no, not generally	11
+I'm going to say yes	78
+yea	100
+possibly, yes	67
+yes it can be	96
+yes I suppose	70
+yes!	100
+yes usually	92
+yup	84
+yes, I think so	82
+YESSSSS!!!!! :):)	100
+yes usually	75
+probably	89
+yes	97
+not certainly	41
+yep	100
+not usually	19
+mostly	77
+sometimes	52
+possibly	49
+usually	76
+in general yes	91
+usually not	12
+definitely not	0
+not probably	22
+probably not	22
+no	0
+YES!!!	100
+yea	100
+no, it can be but not necessarily	7
+mostly not	13
+not necessarily	19
+yes, very likely	97
+it's possible, but generally i guess i'd say no 	10
+definitely	100
+possibly, yes	85
+no not necessarily but could be	26
+no not necessarily at least	12
+i would say yes	91
+hmm not exactly... (but again one could) 	55
+yes!!	100
+yes it can be	85
+yes, I think so	87
+probably	50
+sort of	50
+yes!	100
+generally	50
+I'm going to say yes	89
+I think so	94
+definitely	50
+yes at least possibly	89
+in general no	50
+certainly	50
+yes to some extent	82
+could be both yes and no	52
+in general, no	11
+Uhm not necessarily	36
+nope	50
+not usually	9
+generally	91
+in general yes	7
+possibly	50
+yup	96
+I don't think so	50
+certainly not	50
+yes, in general	85
+no	50
+usually	50
+hmm, I'd say yes in general 	71
+yes, very likely	50
+yes in general	6
+no, not normally	9
+hmm not exactly... (but again one could) 	12
+no not really	16
+YESSSSS!!!!! :):)	9
+nono	0
+no it doesn't really relate	8
+no in general	7
+yes, it can be	96
+usually, yes	90
+ah...hmmmm.... i guess i have to say no... 	50
+possibly, yes	100
+no not exactly	0
+yes i would assume so yes 	97
+in general, no	0
+yes, it is possible	100
+could be but not necessarily	50
+yes!!!	50
+yes usually	96
+no not necessarily but could be	50
+mostly not	50
+NO!	50
+not that much	50
+no, not generally	50
+it can be but not necessarily	50
+it's possible, but generally i guess i'd say no 	50
+no, it can be but not necessarily	50
+yea	50
+yes I suppose	50
+eh... yes, you could say so. 	50
+not exactly	50
+usually	80
+not definitely	9
+yes	93
+perhaps	44
+generally	68
+probably not	10
+I think so	69
+possibly	67
+rarely	5
+not certainly	16
+definitely	97
+not probably	7
+it depends	60
+no	4
+not possibly	7
+no, not normally	2
+yes, it could	66
+yes, very likely	88
+yes, that's right	97
+yes in general	75
+it can be but not necessarily	31
+yes, in general	66
+not quite	16
+perhaps	37
+probably	80
+ah...hmmmm.... i guess i have to say no... 	0
+no, not at all	4
+nope	6
+no, not necessarily	6
+possibly, yes	73
+possibly	46
+yes to some extent	67
+no in general	24
+in general, no	20
+definitely not	100
+kind of	76
+sort of	60
+certainly not	88
+I think so kind of	25
+hmm not exactly... (but again one could) 	20
+no	97
+generally	60
+eh... yes, you could say so. 	28
+not really	38
+certainly	86
+nope	74
+could be both yes and no	40
+usually not	39
+yes it can be	65
+could be but not necessarily	31
+it depends	27
+NO!	25
+yes i would assume so yes 	61
+not necessarily	61
+I don't think so	29
+not possibly	71
+yes but not necessarily	60
+in general yes	59
+yes, it can be	81
+yes, definitely	95
+I don't think so	23
+no not necessarily at least	17
+mostly	23
+yes	93
+yes at least possibly	58
+maybe	27
+Uhm not necessarily	38
+:) not sure, maybe	21
+almost	55
+in general no	50
+yes, that's right	93
+yes, I think so	65
+yes, definitely	94
+YESSSSS!!!!! :):)	98
+no, not necessarily	40
+no not necessarily at least	27
+yes I suppose	70
+I think so...	65
+i would say yes	44
+could be both yes and no	23
+yes!!	97
+it can be but not necessarily	38
+I think so kind of	24
+yes but not necessarily	55
+sometimes	61
+no, not generally	36
+nono	84
+yea	67
+yes definitely	82
+not quite	46
+eh... yes, you could say so. 	27
+not necessarily	40
+not usually	54
+no, not normally	78
+yes, it could	81
+no not really	63
+NO!	97
+mostly	80
+probably not	24
+not possibly	5
+not usually	8
+possibly	89
+generally	87
+I don't think so	3
+definitely not	0
+in general no	0
+not probably	0
+certainly not	0
+in general yes	100
+nope	0
+not certainly	0
+perhaps	71
+yes i would assume so yes 	90
+yup	100
+nono	0
+definitely	100
+no	0
+yes, it could	98
+I'm going to say yes	100
+hmm not exactly... (but again one could) 	18
+yes but not necessarily	74
+yes, it can be	88
+no it doesn't really relate	0
+ah...hmmmm.... i guess i have to say no... 	0
+eh... yes, you could say so. 	95
+yes at least possibly	79
+maybe	72
+almost	87
+yes, in general	96
+no, not at all	0
+yes, I think so	100
+yes, it is possible	95
+no not really	0
+no, not normally	0
+kind of	68
+yes, definitely	100
+not necessarily	31
+yes usually	89
+yes it can be	82
+could be both yes and no	50
+YESSSSS!!!!! :):)	100
+possibly but it's doubtful	61
+yes, that's right	100
+it can be but not necessarily	77
+not really	22
+sometimes	50
+usually	88
+certainly not	0
+mostly	81
+in general yes	86
+possibly	57
+perhaps	87
+usually not	32
+rarely	7
+probably	79
+no	0
+sort of	62
+yep	100
+not certainly	0
+not definitely	26
+I'm going to say yes	90
+yes, it is possible	87
+yes, that's right	100
+yes definitely	100
+no, not usuallly	8
+no not necessarily but could be	50
+yes in general	100
+it can be but not necessarily	50
+yes, definitely	100
+yes!!!	100
+Uhm not necessarily	33
+definitely	100
+yes but not necessarily	52
+maybe	50
+in general no	0
+no not necessarily at least	50
+I don't think so	19
+yes to some extent	96
+not that much	41
+eh... yes, you could say so. 	71
+yes	100
+no not exactly	7
+:) not sure, maybe	50
+not usually	43
+YESSSSS!!!!! :):)	100
+hmm, I'd say yes in general 	94
+yes, in general	94
+not really	5
+usually, yes	95
+yes i would assume so yes 	100
+no in general	3
+in general yes	100
+mostly	98
+probably not	0
+probably	100
+possibly not	0
+sometimes	79
+not definitely	0
+certainly	100
+not usually	20
+usually not	7
+yep	79
+I don't think so	0
+not possibly	0
+usually	88
+possibly	79
+yes, it can be	78
+possibly but it's doubtful	21
+ah...hmmmm.... i guess i have to say no... 	78
+yes, that's right	100
+nope	0
+yea	84
+YES!!!	86
+yes, in general	100
+no, not normally	13
+yes definitely	82
+not really	13
+sort of	44
+Uhm not necessarily	23
+no not necessarily but could be	8
+it can be but not necessarily	81
+in general no	21
+no, not at all	20
+I think so kind of	73
+yes, very likely	78
+yes i would assume so yes 	85
+no, not necessarily	21
+yes to some extent	78
+not necessarily	23
+yes	80
+not quite	20
+eh... yes, you could say so. 	80
+generally yes, but not necessarily	75
+generally	80
+I don't think so	22
+not certainly	26
+in general no	14
+yep	91
+yes	100
+definitely	100
+it depends	53
+not usually	19
+probably	78
+sort of	58
+generally	77
+certainly not	4
+definitely not	0
+in general yes	79
+nope	4
+no, not usuallly	16
+yes in general	80
+hmm, I'd say yes in general 	67
+depends	49
+kind of	61
+possibly, yes	63
+Uhm not necessarily	39
+yes, in general	79
+nono	6
+no, not normally	17
+no, it can be but not necessarily	19
+it can be but not necessarily	78
+i would say yes	75
+yes, it could	64
+yes, I think so	79
+yes, it can be	70
+no not exactly	27
+usually	77
+I think so...	65
+sometimes	50
+yes i would assume so yes 	71
+yes, definitely	100
+yes it can be	64
+yes to some extent	62
+yes I suppose	68
+:) not sure, maybe	56
+possibly not	11
+could be but not necessarily	65
+in general yes	86
+perhaps	63
+no, not necessarily	35
+I think so	50
+possibly	58
+not probably	26
+usually	60
+definitely	100
+mostly	50
+certainly	94
+possibly	67
+in general no	40
+nope	0
+perhaps	50
+sort of	58
+rarely	50
+no, it can be but not necessarily	16
+yes!!!	100
+yes it can be	81
+yes usually	79
+yes, it could	66
+hmm not exactly... (but again one could) 	50
+almost	54
+not definitely	13
+not really	39
+sometimes	42
+probably	50
+not certainly	15
+yes to some extent	64
+possibly not	56
+probably	47
+possibly	50
+no, not at all	0
+certainly not	9
+usually	72
+generally	50
+yes but not necessarily	64
+in general no	24
+generally	66
+definitely	95
+not probably	16
+:) not sure, maybe	37
+no, not generally	17
+in general yes	93
+no not necessarily at least	39
+mostly	74
+no	10
+not usually	33
+ah...hmmmm.... i guess i have to say no... 	12
+kind of	50
+no not exactly	25
+I don't think so	9
+no, it can be but not necessarily	39
+I don't think so	42
+not necessarily	15
+Uhm not necessarily	47
+yes I suppose	79
+yes, very likely	84
+it can be but not necessarily	50
+no it doesn't really relate	25
+I think so...	65
+NO!	6
+YESSSSS!!!!! :):)	95
+mostly not	31
+I think so kind of	17
+no not exactly	15
+no in general	25
+no, not normally	36
+I think so	75
+I'm going to say yes	72
+it's possible, but generally i guess i'd say no 	61
+sort of	39
+yes, I think so	88
+no not really	21
+not exactly	12
+no not necessarily but could be	20
+it's possible, but generally i guess i'd say no 	39
+yes but not necessarily	70
+yes!!	100
+yes definitely	72
+possibly, yes	89
+no, not generally	22
+not that much	44
+I think so...	76
+yes i would assume so yes 	90
+yes it can be	79
+not that much	27
+yea	76
+not usually	29
+no not necessarily at least	16
+no, not necessarily	23
+yes, in general	78
+no in general	10
+yes!!!	89
+Uhm not necessarily	7
+kind of	68
+usually, yes	91
+no, not usuallly	20
+that's a hard one... I guess not really	34
+no it doesn't really relate	7
+it depends	1
+usually not	91
+possibly	60
+in general no	77
+not definitely	22
+nope	1
+probably not	9
+yep	100
+not possibly	8
+not probably	10
+sometimes	71
+yes	100
+mostly	88
+generally	74
+not certainly	15
+yes, it can be	81
+probably	85
+no not necessarily but could be	59
+yes in general	88
+that's a hard one... I guess not really	14
+sort of	59
+no, not generally	6
+no in general	21
+no, not normally	10
+yes to some extent	75
+in general, no	11
+depends	50
+no, not at all	0
+yea	100
+yes I suppose	93
+it's possible, but generally i guess i'd say no 	9
+yes definitely	100
+I think so kind of	79
+perhaps	72
+no it doesn't really relate	1
+:) not sure, maybe	69
+YES!!!	100
+no not exactly	18
+yes, very likely	93
+could be both yes and no	50
+yes it can be	87
+not exactly	36
+NO!	0
+I don't think so	24
+possibly but it's doubtful	30
+usually, yes	90
+definitely	100
+it can be but not necessarily	66
+no	50
+yes	49
+usually not	30
+possibly	27
+perhaps	74
+it depends	71
+not probably	42
+usually not	63
+yes	100
+in general yes	86
+yep	100
+certainly	98
+certainly not	100
+generally	56
+sometimes	32
+definitely	100
+usually	32
+definitely not	97
+NO!	100
+hmm, I'd say yes in general 	90
+it can be but not necessarily	24
+probably	34
+yes, that's right	98
+it's possible, but generally i guess i'd say no 	100
+hmm not exactly... (but again one could) 	29
+YES!!!	100
+kind of	33
+nono	2
+in general no	100
+yes usually	35
+no not necessarily but could be	21
+sometimes	41
+not that much	31
+definitely not	100
+no it doesn't really relate	26
+I don't think so	34
+yes, it could	85
+not certainly	0
+generally yes, but not necessarily	27
+no	100
+I think so kind of	23
+yes!!	98
+not quite	19
+sort of	12
+yes in general	61
+not necessarily	38
+not definitely	14
+no, not usuallly	30
+possibly not	22
+yes!	100
+certainly not	99
+Uhm not necessarily	36
+yep	76
+sort of	59
+yes i would assume so yes 	37
+not probably	0
+yes, very likely	44
+I think so	66
+yup	100
+not usually	65
+I think so...	39
+no, not normally	42
+mostly	64
+nope	100
+I think so	44
+it's possible, but generally i guess i'd say no 	50
+yes, in general	61
+yes, it is possible	65
+depends	50
+yes it can be	68
+no not necessarily at least	36
+in general no	63
+not definitely	44
+sometimes	60
+certainly	85
+not possibly	8
+definitely not	11
+yes	100
+rarely	3
+probably	21
+in general no	8
+perhaps	75
+not usually	9
+not certainly	8
+nope	0
+certainly not	5
+usually not	6
+yes, I think so	90
+no	0
+I think so	91
+I think so...	91
+kind of	59
+yes at least possibly	82
+definitely	94
+yes definitely	96
+yes i would assume so yes 	87
+:) not sure, maybe	81
+usually	79
+YES!!!	100
+eh... yes, you could say so. 	90
+depends	75
+NO!	0
+I don't think so	10
+ah...hmmmm.... i guess i have to say no... 	7
+yea	88
+yes, definitely	95
+I'm going to say yes	96
+could be but not necessarily	85
+yes I suppose	94
+usually, yes	92
+yes but not necessarily	79
+yes!!	100
+yes!	95
+maybe	67
+not that much	39
+yes usually	86
+I think so kind of	67
+no, not normally	23
+yes, it can be	68
+it's possible, but generally i guess i'd say no 	28
+maybe	51
+NO!	100
+yes, definitely	100
+I think so kind of	26
+yes i would assume so yes 	75
+yes, I think so	62
+I'm going to say yes	100
+yes, it could	67
+not that much	69
+Uhm not necessarily	66
+yes definitely	100
+no, not generally	73
+perhaps	79
+hmm, I'd say yes in general 	56
+no in general	63
+yes!!!	100
+yes I suppose	63
+possibly but it's doubtful	23
+not necessarily	66
+kind of	67
+could be but not necessarily	35
+yes, that's right	100
+YESSSSS!!!!! :):)	100
