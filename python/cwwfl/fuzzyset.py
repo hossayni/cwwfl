@@ -179,7 +179,8 @@ class intervalType2FS(object):
 
     def centerOfMass(self):
         step = (self.r[1]-self.r[0])/100
-        x = range(self.r[0],self.r[1]+step,step)
+        #x = range(self.r[0],self.r[1]+step,step)
+        x = range(self.r[0],int(self.r[1]+step),int(step))
         umf = map(self.umf,x)
         lmf = map(self.lmf,x)
         theta = map(lambda (l,u): (l+u)/2, zip(lmf,umf))
@@ -188,7 +189,7 @@ class intervalType2FS(object):
 
     def centroid(self):
         step = (self.r[1]-self.r[0])/100
-        x = range(self.r[0],self.r[1]+step,step)
+        x = range(self.r[0],int(self.r[1]+step),int(step))
         umf = map(self.umf,x)
         lmf = map(self.lmf,x)
         assert len(x) is not 0
